@@ -156,6 +156,9 @@
       if (n) path.addEventListener("click", () => setWhere({ type: "province", id: p.id }));
       gp.append(path);
     });
+    // SVG paints in document order, so move the selected province last or its neighbours hide half its outline.
+    const selPath = gp.querySelector(".sel");
+    if (selPath) gp.append(selPath);
     Object.values(places).filter(p => p.lat != null && placeCount[p.id]).forEach(p => {
       const [x, y] = xy(p.lat, p.lon);
       const sel = where && where.type === "place" && where.id === p.id;
