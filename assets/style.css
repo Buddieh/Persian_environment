@@ -110,3 +110,10 @@ html[dir="rtl"] .where button { padding: 4px 12px 4px 6px; }
   /* On phones the highlights become a swipeable row; the full list still wraps. */
   .figs:not(.all) { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 72%; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x proximity; }
 }
+
+/* About: who built the site and why; linked from the hero. */
+.built { margin: 4px 0 0; font-size: .86rem; }
+.built a { color: var(--accent); }
+.about { margin-block: 8px 24px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 18px; display: grid; gap: 8px; scroll-margin-top: 16px; }
+.about h2 { margin: 0; font-size: 1.15rem; font-weight: 800; }
+.about p { margin: 0; max-width: 75ch; }
