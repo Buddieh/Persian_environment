@@ -30,9 +30,10 @@
       mapLabel: "نقشه استان‌های ایران و جاهایی که درویش از آن‌ها حرف می‌زند",
       national: "کل ایران", international: "ایران و همسایگان",
       figTitle: "به روایت اعداد",
-      figNote: "اعداد همان‌طور که درویش در گفت‌وگوها گفته آمده‌اند؛ مستقل بررسی نشده‌اند و چند مورد میان گفت‌وگوها با هم فرق دارند.",
+      figNote: "اعداد همان‌طور که درویش در گفت‌وگوها گفته آمده‌اند و مستقل بررسی نشده‌اند. رنگ نشان می‌دهد هر عدد از تخریب می‌گوید، از بازگشت، یا زمینه و هدفی را نشان می‌دهد.",
       figMore: n => "همه " + fmtNum(n, "fa") + " عدد", figLess: "فقط برجسته‌ها",
       kind: { target: "هدف دولت", study: "پژوهش استنادشده" }, readQuote: "خواندن نقل‌قول",
+      tone: { loss: "تخریب و از دست رفتن", neutral: "زمینه و اهداف", recovery: "بازگشت و راه‌حل" },
       clear: "حذف فیلتر",
       builtBy: "ساخته Claude برای آگاهی از محیط زیست ایران · درباره این سایت",
       aboutTitle: "درباره این سایت",
@@ -52,9 +53,10 @@
       mapLabel: "Map of Iran's provinces and the places Darvish talks about",
       national: "Whole of Iran", international: "Iran and its neighbours",
       figTitle: "By the numbers",
-      figNote: "Figures as Darvish states them in the interviews. They are not independently checked, and a few differ between interviews.",
+      figNote: "Figures as Darvish states them in the interviews; they are not independently checked. Colour shows whether a figure describes damage, recovery, or context and targets.",
       figMore: n => "All " + n + " figures", figLess: "Highlights only",
       kind: { target: "Government target", study: "Cited study" }, readQuote: "Read the quote",
+      tone: { loss: "Damage and loss", neutral: "Context and targets", recovery: "Recovery and solutions" },
       clear: "Clear filter",
       builtBy: "Built by Claude to raise awareness of Iran's environment · About this site",
       aboutTitle: "About this site",
@@ -185,13 +187,30 @@
     geo.provinces.filter(p => count[p.id]).sort((a, b) => count[b.id] - count[a.id] || a[lang].localeCompare(b[lang], lang))
       .forEach(p => btn({ type: "province", id: p.id }, p[lang], count[p.id]));
 
-    const figs = entries.flatMap(e => (e.figures || []).map(f => ({ f, e })));
+    // Colour says which way a figure points (damage, recovery, or neutral context/targets), not how bad it is.
+    const TONES = ["loss", "neutral", "recovery"];
+    const figs = entries.flatMap(e => (e.figures || []).map(f => ({ f, e })))
+      .sort((a, b) => TONES.indexOf(a.f.tone || "neutral") - TONES.indexOf(b.f.tone || "neutral"));
     const shown = allFigs ? figs : figs.filter(x => x.f.featured);
+    $("fig-legend").replaceChildren(...TONES.map(k => el("span", { class: "tone-" + k, text: t.tone[k] })));
     const fb = $("figs"); fb.classList.toggle("all", allFigs);
+    const pct = x => Math.max(1.5, Math.min(100, x * 100)).toFixed(1) + "%";
+    const bars = f => {
+      if (f.share != null) return el("span", { class: "bars", "aria-hidden": "true" },
+        el("span", { class: "track" }, el("span", { class: "fill", style: "width:" + pct(f.share) })));
+      if (!f.compare) return null;
+      const max = Math.max(...f.compare.map(c => c.value));
+      return el("span", { class: "bars", "aria-hidden": "true" }, ...f.compare.map((c, i) =>
+        el("span", { class: "bar" + (i ? " now" : "") },
+          el("span", { class: "bl", text: c["label_" + lang] }),
+          el("span", { class: "track" }, el("span", { class: "fill", style: "width:" + pct(c.value / max) })))));
+    };
     fb.replaceChildren(...shown.map(({ f, e }) => {
-      const b = el("button", { type: "button", class: "fig", "aria-label": t.readQuote + ": " + f["value_" + lang] + " " + f["label_" + lang] },
+      const tone = f.tone || "neutral";
+      const b = el("button", { type: "button", class: "fig tone-" + tone, "aria-label": t.tone[tone] + ". " + t.readQuote + ": " + f["value_" + lang] + " " + f["label_" + lang] },
         el("span", { class: "val", text: f["value_" + lang] }),
         el("span", { class: "lbl", text: f["label_" + lang] }),
+        bars(f),
         f.kind !== "claim" && t.kind[f.kind] ? el("span", { class: "kind", text: t.kind[f.kind] }) : null);
       b.addEventListener("click", () => focusEntry(e.id));
       return b;
