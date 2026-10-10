@@ -33,7 +33,10 @@
       figNote: "اعداد همان‌طور که درویش در گفت‌وگوها گفته آمده‌اند؛ مستقل بررسی نشده‌اند و چند مورد میان گفت‌وگوها با هم فرق دارند.",
       figMore: n => "همه " + fmtNum(n, "fa") + " عدد", figLess: "فقط برجسته‌ها",
       kind: { target: "هدف دولت", study: "پژوهش استنادشده" }, readQuote: "خواندن نقل‌قول",
-      clear: "حذف فیلتر"
+      clear: "حذف فیلتر",
+      builtBy: "ساخته Claude برای آگاهی از محیط زیست ایران · درباره این سایت",
+      aboutTitle: "درباره این سایت",
+      aboutBody: "این آرشیو را Claude، دستیار هوش مصنوعی ساخت شرکت Anthropic، ساخته است. هدف آن افزایش آگاهی درباره وضعیت محیط زیست ایران است: گفته‌های عمومی محمد درویش، یکی از شناخته‌شده‌ترین صداهای محیط زیست ایران، را در یک جا جمع می‌کند تا بتوان آن‌ها را جست‌وجو کرد و با ویدیوی اصلی سنجید. این سایت وابسته به محمد درویش نیست. رونویسی و ترجمه نقل‌قول‌ها کار Claude است و یک نفر آن‌ها را بازبینی نمونه‌ای کرده؛ هر نقل‌قول به لحظه دقیقش در ویدیو لینک شده تا خودتان بتوانید آن را بررسی کنید."
     },
     en: {
       eyebrow: "Quote archive",
@@ -52,7 +55,10 @@
       figNote: "Figures as Darvish states them in the interviews. They are not independently checked, and a few differ between interviews.",
       figMore: n => "All " + n + " figures", figLess: "Highlights only",
       kind: { target: "Government target", study: "Cited study" }, readQuote: "Read the quote",
-      clear: "Clear filter"
+      clear: "Clear filter",
+      builtBy: "Built by Claude to raise awareness of Iran's environment · About this site",
+      aboutTitle: "About this site",
+      aboutBody: "This archive was built by Claude, an AI assistant made by Anthropic. Its goal is to raise awareness of Iran's environmental conditions by gathering what Mohammad Darvish, one of Iran's best-known environmental voices, has said in public, so it can be searched and checked against the original videos. The site is not affiliated with Mohammad Darvish. Claude transcribed and translated the quotes and a person spot-checked them; every quote links to the exact moment in its video so you can verify it yourself."
     }
   };
 
