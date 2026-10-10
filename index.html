@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>محمد درویش · گفته‌ها درباره محیط زیست ایران</title>
+<meta name="description" content="آرشیو جست‌وجوپذیر گفته‌های محمد درویش درباره آب، خاک، هوا و تنوع زیستی ایران، با لینک به لحظه دقیق هر ویدیو. A searchable archive of Mohammad Darvish's statements on Iran's environment.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow" data-i18n="eyebrow">آرشیو گفته‌ها</p>
+    <h1 data-i18n="title">محمد درویش درباره محیط زیست ایران</h1>
+    <p class="lede" data-i18n="lede">گفته‌های محمد درویش در گفت‌وگوها و پادکست‌ها درباره آب، خاک، هوا و حیات وحش ایران. هر نقل‌قول به لحظه دقیقش در ویدیو لینک شده است.</p>
+    <div class="lang" role="group" aria-label="Language">
+      <button type="button" id="lang-fa" data-lang="fa" aria-pressed="true">فارسی</button>
+      <button type="button" id="lang-en" data-lang="en" aria-pressed="false">English</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="controls">
+    <label class="search">
+      <span class="sr" data-i18n="searchLabel">جست‌وجو</span>
+      <input id="q" type="search" autocomplete="off" data-i18n-ph="searchPh" placeholder="جست‌وجو: فرونشست، ریزگرد، کارون…">
+    </label>
+    <div class="topics" id="topics" role="group"></div>
+    <div class="row">
+      <select id="video" aria-label="Video"></select>
+      <span class="count" id="count" aria-live="polite"></span>
+    </div>
+  </div>
+  <div id="list" class="list"></div>
+</main>
+
+<footer class="wrap foot">
+  <p data-i18n="foot">متن‌ها از زیرنویس خودکار و رونویسی Whisper استخراج و با شنیدن ویدیو بازبینی شده‌اند. اگر اشتباهی دیدید، لطفاً در مخزن گیت‌هاب گزارش دهید.</p>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
