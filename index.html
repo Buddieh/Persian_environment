@@ -23,6 +23,24 @@
   </div>
 </header>
 
+<section class="wrap explore" id="explore" hidden>
+  <div class="sec-head">
+    <h2 data-i18n="mapTitle">از کجا حرف می‌زند</h2>
+    <p class="note" id="map-note"></p>
+  </div>
+  <div class="mapgrid">
+    <div class="mapbox"><svg id="map" role="img" aria-labelledby="map-label"><title id="map-label"></title></svg></div>
+    <div class="where" id="where" role="group"></div>
+  </div>
+
+  <div class="sec-head">
+    <h2 data-i18n="figTitle">به روایت اعداد</h2>
+    <p class="note" data-i18n="figNote"></p>
+  </div>
+  <div class="figs" id="figs"></div>
+  <button type="button" class="more" id="figs-more"></button>
+</section>
+
 <main class="wrap">
   <div class="controls">
     <label class="search">
@@ -32,6 +50,7 @@
     <div class="topics" id="topics" role="group"></div>
     <div class="row">
       <select id="video" aria-label="Video"></select>
+      <button type="button" class="active-where" id="active-where" hidden></button>
       <span class="count" id="count" aria-live="polite"></span>
     </div>
   </div>

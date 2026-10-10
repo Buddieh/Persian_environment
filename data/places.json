@@ -1,0 +1,388 @@
+[
+ {
+  "id": "tehran",
+  "en": "Tehran",
+  "fa": "تهران",
+  "kind": "city",
+  "provinces": [
+   "IR07"
+  ],
+  "lat": 35.69,
+  "lon": 51.39
+ },
+ {
+  "id": "kashan",
+  "en": "Kashan",
+  "fa": "کاشان",
+  "kind": "city",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 33.98,
+  "lon": 51.43
+ },
+ {
+  "id": "isfahan",
+  "en": "Isfahan",
+  "fa": "اصفهان",
+  "kind": "city",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.65,
+  "lon": 51.67
+ },
+ {
+  "id": "yazd",
+  "en": "Yazd",
+  "fa": "یزد",
+  "kind": "city",
+  "provinces": [
+   "IR25"
+  ],
+  "lat": 31.9,
+  "lon": 54.37
+ },
+ {
+  "id": "ardakan",
+  "en": "Ardakan",
+  "fa": "اردکان",
+  "kind": "city",
+  "provinces": [
+   "IR25"
+  ],
+  "lat": 32.31,
+  "lon": 54.02
+ },
+ {
+  "id": "arak",
+  "en": "Arak",
+  "fa": "اراک",
+  "kind": "city",
+  "provinces": [
+   "IR22"
+  ],
+  "lat": 34.09,
+  "lon": 49.69
+ },
+ {
+  "id": "mashhad",
+  "en": "Mashhad",
+  "fa": "مشهد",
+  "kind": "city",
+  "provinces": [
+   "IR30"
+  ],
+  "lat": 36.3,
+  "lon": 59.6
+ },
+ {
+  "id": "abadan",
+  "en": "Abadan",
+  "fa": "آبادان",
+  "kind": "city",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 30.34,
+  "lon": 48.3
+ },
+ {
+  "id": "sistan",
+  "en": "Sistan",
+  "fa": "سیستان",
+  "kind": "region",
+  "provinces": [
+   "IR13"
+  ],
+  "lat": 31.03,
+  "lon": 61.5
+ },
+ {
+  "id": "nilkuh",
+  "en": "Nilkuh cement, Hyrcanian forest",
+  "fa": "نیلکوه، جنگل هیرکانی",
+  "kind": "site",
+  "provinces": [
+   "IR27"
+  ],
+  "lat": 37.25,
+  "lon": 55.45
+ },
+ {
+  "id": "miankaleh",
+  "en": "Miankaleh",
+  "fa": "میانکاله",
+  "kind": "wetland",
+  "provinces": [
+   "IR21"
+  ],
+  "lat": 36.85,
+  "lon": 53.6
+ },
+ {
+  "id": "cheetah-road",
+  "en": "Cheetah habitat, Abbasabad–Mayamey road",
+  "fa": "زیستگاه یوزپلنگ، محور عباس‌آباد–میامی",
+  "kind": "habitat",
+  "provinces": [
+   "IR12"
+  ],
+  "lat": 36.4,
+  "lon": 55.9
+ },
+ {
+  "id": "borkhar-plain",
+  "en": "Isfahan–Dowlatabad–Borkhar plain",
+  "fa": "دشت اصفهان–دولت‌آباد برخوار",
+  "kind": "aquifer",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.9,
+  "lon": 51.75
+ },
+ {
+  "id": "zayandeh-rud",
+  "en": "Zayandeh Rud",
+  "fa": "زاینده‌رود",
+  "kind": "river",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.45,
+  "lon": 51.2
+ },
+ {
+  "id": "gavkhouni",
+  "en": "Gavkhouni wetland",
+  "fa": "تالاب گاوخونی",
+  "kind": "wetland",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.25,
+  "lon": 52.85
+ },
+ {
+  "id": "fasa-jahrom",
+  "en": "Fasa and Jahrom plains",
+  "fa": "دشت‌های فسا و جهرم",
+  "kind": "aquifer",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 28.8,
+  "lon": 53.6
+ },
+ {
+  "id": "kor-bakhtegan",
+  "en": "Kor River and Lake Bakhtegan",
+  "fa": "رود کر و دریاچه بختگان",
+  "kind": "lake",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 29.4,
+  "lon": 53.9
+ },
+ {
+  "id": "bushehr-npp",
+  "en": "Bushehr nuclear plant",
+  "fa": "نیروگاه اتمی بوشهر",
+  "kind": "site",
+  "provinces": [
+   "IR06"
+  ],
+  "lat": 28.83,
+  "lon": 50.89
+ },
+ {
+  "id": "ab-pakhsh",
+  "en": "Ab-Pakhsh palm groves",
+  "fa": "نخلستان‌های آب‌پخش",
+  "kind": "site",
+  "provinces": [
+   "IR06"
+  ],
+  "lat": 29.36,
+  "lon": 51.07
+ },
+ {
+  "id": "karun",
+  "en": "Karun River",
+  "fa": "رود کارون",
+  "kind": "river",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 31.32,
+  "lon": 48.67
+ },
+ {
+  "id": "hoor-al-azim",
+  "en": "Hoor al-Azim and Hoveyzeh marshes",
+  "fa": "هورالعظیم و هورالهویزه",
+  "kind": "wetland",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 31.6,
+  "lon": 47.8
+ },
+ {
+  "id": "shadegan",
+  "en": "Shadegan wetland",
+  "fa": "تالاب شادگان",
+  "kind": "wetland",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 30.6,
+  "lon": 48.7
+ },
+ {
+  "id": "bamdezh",
+  "en": "Bamdezh wetland",
+  "fa": "تالاب بامدژ",
+  "kind": "wetland",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 31.75,
+  "lon": 48.55
+ },
+ {
+  "id": "miangaran",
+  "en": "Miangaran wetland",
+  "fa": "تالاب میانگران",
+  "kind": "wetland",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 31.83,
+  "lon": 49.87
+ },
+ {
+  "id": "shimbar",
+  "en": "Shimbar wetland",
+  "fa": "تالاب شیمبار",
+  "kind": "wetland",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 32.05,
+  "lon": 49.6
+ },
+ {
+  "id": "lake-urmia",
+  "en": "Lake Urmia",
+  "fa": "دریاچه ارومیه",
+  "kind": "lake",
+  "provinces": [
+   "IR02",
+   "IR01"
+  ],
+  "lat": 37.7,
+  "lon": 45.4
+ },
+ {
+  "id": "gilan-dams",
+  "en": "Gilan dams (Shafarud, Polrud, Lasak)",
+  "fa": "سدهای گیلان (شفارود، پلرود، لاسک)",
+  "kind": "site",
+  "provinces": [
+   "IR19"
+  ],
+  "lat": 37.2,
+  "lon": 49.6
+ },
+ {
+  "id": "golestan-wetlands",
+  "en": "Almagol, Alagol and Ajigol wetlands",
+  "fa": "تالاب‌های آلماگل، آلاگل و آجی‌گل",
+  "kind": "wetland",
+  "provinces": [
+   "IR27"
+  ],
+  "lat": 37.38,
+  "lon": 54.6
+ },
+ {
+  "id": "jazmurian",
+  "en": "Jazmurian",
+  "fa": "جازموریان",
+  "kind": "wetland",
+  "provinces": [
+   "IR15",
+   "IR13"
+  ],
+  "lat": 27.4,
+  "lon": 58.9
+ },
+ {
+  "id": "elgan",
+  "en": "Elgan village forest",
+  "fa": "جنگل روستای الگن",
+  "kind": "forest",
+  "provinces": [
+   "IR18"
+  ],
+  "lat": 30.8,
+  "lon": 51.1
+ },
+ {
+  "id": "khuzestan",
+  "en": "Khuzestan province",
+  "fa": "استان خوزستان",
+  "kind": "province",
+  "provinces": [
+   "IR10"
+  ]
+ },
+ {
+  "id": "isfahan-province",
+  "en": "Isfahan province",
+  "fa": "استان اصفهان",
+  "kind": "province",
+  "provinces": [
+   "IR04"
+  ]
+ },
+ {
+  "id": "fars",
+  "en": "Fars province",
+  "fa": "استان فارس",
+  "kind": "province",
+  "provinces": [
+   "IR14"
+  ]
+ },
+ {
+  "id": "chaharmahal",
+  "en": "Chaharmahal and Bakhtiari province",
+  "fa": "استان چهارمحال و بختیاری",
+  "kind": "province",
+  "provinces": [
+   "IR08"
+  ]
+ },
+ {
+  "id": "kohgiluyeh",
+  "en": "Kohgiluyeh and Boyer-Ahmad province",
+  "fa": "استان کهگیلویه و بویراحمد",
+  "kind": "province",
+  "provinces": [
+   "IR18"
+  ]
+ },
+ {
+  "id": "yazd-province",
+  "en": "Yazd province",
+  "fa": "استان یزد",
+  "kind": "province",
+  "provinces": [
+   "IR25"
+  ]
+ }
+]

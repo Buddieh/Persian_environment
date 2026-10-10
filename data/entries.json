@@ -8,6 +8,21 @@
   "topics": [
    "desertification-land",
    "dust-air"
+  ],
+  "places": [
+   "tehran",
+   "kashan",
+   "isfahan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "2 billion t",
+    "value_fa": "۲ میلیارد تن",
+    "label_en": "of soil eroded in Iran every year",
+    "label_fa": "خاکی که هر سال در ایران فرسوده می‌شود",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -18,6 +33,18 @@
   "quote_en": "But truly, even that same two billion tons is a catastrophe. I mean, the whole world — the figure the World Bank has given is 24 billion tons; 24 billion tons of soil erosion a year is happening across the world's 13.5 billion hectares of land. Iran is one percent of the world's land, whereas we have one twelfth of all the world's soil erosion; that is, relative to our area, the rate of erosion in Iran is 8 times the [world] average.",
   "topics": [
    "desertification-land"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "8×",
+    "value_fa": "۸ برابر",
+    "label_en": "Iran's soil erosion rate, relative to its area, against the world average",
+    "label_fa": "نرخ فرسایش خاک ایران نسبت به مساحتش، در برابر میانگین جهانی",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -30,6 +57,17 @@
    "water",
    "desertification-land",
    "biodiversity-wildlife"
+  ],
+  "places": [],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "2 million years",
+    "value_fa": "۲ میلیون سال",
+    "label_en": "for nature to make up for an extinct species",
+    "label_fa": "زمان جبران انقراض یک گونه",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -42,6 +80,17 @@
    "water",
    "desertification-land",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "45 billion m³",
+    "value_fa": "۴۵ میلیارد متر مکعب",
+    "label_en": "aquifer deficit the food security document says must be reduced by 2032",
+    "label_fa": "کسری آبخوان‌ها که سند امنیت غذایی می‌گوید باید تا ۱۴۱۱ کم شود",
+    "kind": "target"
+   }
   ]
  },
  {
@@ -53,6 +102,18 @@
   "topics": [
    "energy",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "15,000 MW → under 500",
+    "value_fa": "۱۵٬۰۰۰ مگاوات ← کمتر از ۵۰۰",
+    "label_en": "solar power promised over three five-year plans, against what was built",
+    "label_fa": "برق خورشیدی وعده‌داده‌شده در سه برنامه پنج‌ساله، در برابر آنچه ساخته شد",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -64,6 +125,17 @@
   "topics": [
    "energy",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "30 GW",
+    "value_fa": "۳۰ گیگاوات",
+    "label_en": "solar plant Saudi Arabia is building by 2030",
+    "label_fa": "نیروگاه خورشیدی که عربستان تا ۲۰۳۰ می‌سازد",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -77,6 +149,19 @@
    "forests-rangelands",
    "climate",
    "policy-governance"
+  ],
+  "places": [
+   "nilkuh"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "60%",
+    "value_fa": "۶۰٪",
+    "label_en": "of Iran's cement that is exported",
+    "label_fa": "سهم صادرات از سیمان تولیدی ایران",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -88,7 +173,12 @@
   "topics": [
    "activism-society",
    "biodiversity-wildlife"
-  ]
+  ],
+  "places": [
+   "miankaleh"
+  ],
+  "scope": "local",
+  "figures": []
  },
  {
   "id": "EIUGUcoAeo4-09",
@@ -98,6 +188,19 @@
   "quote_en": "So therefore we must go after removing livestock herds from the cheetah's habitat. Right now a plan is being carried out in that area; they have removed 5 of the big herders. ... And if we can bring security back to the cheetah's habitat — security meaning, in effect, removing the herd dogs and creating safety on the connecting roads that are cutting through these habitats, the most important being that 30-kilometre Abbasabad–Miami road... they have designed underpasses for the cheetah to cross. If this happens, there is still hope that we can prevent the cheetah's extinction.",
   "topics": [
    "biodiversity-wildlife"
+  ],
+  "places": [
+   "cheetah-road"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "30 km",
+    "value_fa": "۳۰ کیلومتر",
+    "label_en": "road cutting through the Asiatic cheetah's habitat",
+    "label_fa": "جاده‌ای که از زیستگاه یوزپلنگ آسیایی می‌گذرد",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -109,6 +212,18 @@
   "topics": [
    "forests-rangelands",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "8 million ha",
+    "value_fa": "۸ میلیون هکتار",
+    "label_en": "of forest habitat lost",
+    "label_fa": "از گستره رویشگاه‌های جنگلی که از دست رفته",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -120,6 +235,23 @@
   "topics": [
    "dust-air",
    "pollution"
+  ],
+  "places": [
+   "tehran",
+   "isfahan",
+   "yazd",
+   "ardakan",
+   "arak"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "81%",
+    "value_fa": "۸۱٪",
+    "label_en": "of Tehran's gaseous pollutant emissions come from vehicles",
+    "label_fa": "سهم خودروها از انتشار آلاینده‌های گازی تهران",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -133,6 +265,20 @@
    "water",
    "pollution",
    "desertification-land"
+  ],
+  "places": [
+   "isfahan-province",
+   "zayandeh-rud"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "8,600 vs under 2,000",
+    "value_fa": "۸٬۶۰۰ در برابر کمتر از ۲٬۰۰۰",
+    "label_en": "industrial units in Isfahan province, against half of Iran's territory",
+    "label_fa": "واحد صنعتی در استان اصفهان، در برابر نیمی از خاک ایران",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -144,6 +290,18 @@
   "topics": [
    "biodiversity-wildlife",
    "activism-society"
+  ],
+  "places": [],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "36 → 2,000+",
+    "value_fa": "۳۶ ← بیش از ۲٬۰۰۰",
+    "label_en": "wild goats and sheep since a hunter turned protector in 2011",
+    "label_fa": "کل و قوچ از وقتی یک شکارچی در ۱۳۹۰ حافظ شد",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -156,6 +314,19 @@
    "water",
    "dust-air",
    "forests-rangelands"
+  ],
+  "places": [
+   "borkhar-plain"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "by 2030",
+    "value_fa": "تا ۱۴۰۹",
+    "label_en": "the Isfahan–Borkhar aquifer may run dry, in one scenario",
+    "label_fa": "آبخوان دشت اصفهان–برخوار ممکن است خالی شود (یک سناریو)",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -169,6 +340,17 @@
    "energy",
    "climate",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "30,000 MW",
+    "value_fa": "۳۰٬۰۰۰ مگاوات",
+    "label_en": "solar power the plans aim for within ten years",
+    "label_fa": "برق خورشیدی هدف‌گذاری‌شده در ده سال",
+    "kind": "target"
+   }
   ]
  },
  {
@@ -180,7 +362,13 @@
   "topics": [
    "energy",
    "water"
-  ]
+  ],
+  "places": [
+   "mashhad",
+   "sistan"
+  ],
+  "scope": "international",
+  "figures": []
  },
  {
   "id": "Qmy-F4vul3E-03",
@@ -192,6 +380,27 @@
    "desertification-land",
    "water",
    "policy-governance"
+  ],
+  "places": [
+   "fasa-jahrom"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "54 cm a year",
+    "value_fa": "۵۴ سانتی‌متر در سال",
+    "label_en": "land subsidence between the Fasa and Jahrom plains",
+    "label_fa": "فرونشست زمین میان دشت فسا و جهرم",
+    "kind": "claim",
+    "featured": true
+   },
+   {
+    "value_en": "100,000 km²",
+    "value_fa": "۱۰۰٬۰۰۰ کیلومتر مربع",
+    "label_en": "of land subsiding 2 cm a year or more (Geological Survey, 2025)",
+    "label_fa": "زمینی که ۲ سانتی‌متر یا بیشتر در سال فرومی‌نشیند (سازمان زمین‌شناسی، ۱۴۰۴)",
+    "kind": "study"
+   }
   ]
  },
  {
@@ -203,6 +412,18 @@
   "topics": [
    "water",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "80%+",
+    "value_fa": "بیش از ۸۰٪",
+    "label_en": "of 400 billion m³ of groundwater lost in 30 years",
+    "label_fa": "از ۴۰۰ میلیارد متر مکعب آب زیرزمینی که در ۳۰ سال از دست رفته",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -216,6 +437,17 @@
    "climate",
    "biodiversity-wildlife",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "89.7%",
+    "value_fa": "۸۹٫۷٪",
+    "label_en": "of Iran's territory is hyper-arid, arid or semi-arid",
+    "label_fa": "از خاک ایران که فراخشک، خشک یا نیمه‌خشک است",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -227,6 +459,18 @@
   "topics": [
    "biodiversity-wildlife",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "2,530+",
+    "value_fa": "بیش از ۲٬۵۳۰",
+    "label_en": "endemic species found nowhere else on Earth",
+    "label_fa": "گونه بومی که جای دیگری از جهان یافت نمی‌شود",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -238,7 +482,12 @@
   "topics": [
    "energy",
    "policy-governance"
-  ]
+  ],
+  "places": [
+   "bushehr-npp"
+  ],
+  "scope": "national",
+  "figures": []
  },
  {
   "id": "Qmy-F4vul3E-10",
@@ -249,6 +498,17 @@
   "topics": [
    "water",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "50%",
+    "value_fa": "۵۰٪",
+    "label_en": "less water for the same harvest with hydroponics and greenhouses",
+    "label_fa": "کاهش مصرف آب با کشت گلخانه‌ای و هیدروپونیک",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -262,7 +522,17 @@
    "dust-air",
    "desertification-land",
    "policy-governance"
-  ]
+  ],
+  "places": [
+   "zayandeh-rud",
+   "gavkhouni",
+   "chaharmahal",
+   "kohgiluyeh",
+   "yazd-province",
+   "khuzestan"
+  ],
+  "scope": "regional",
+  "figures": []
  },
  {
   "id": "Qmy-F4vul3E-12",
@@ -275,7 +545,14 @@
    "desertification-land",
    "activism-society",
    "policy-governance"
-  ]
+  ],
+  "places": [
+   "khuzestan",
+   "karun",
+   "hoor-al-azim"
+  ],
+  "scope": "regional",
+  "figures": []
  },
  {
   "id": "Qmy-F4vul3E-13",
@@ -289,7 +566,17 @@
    "dust-air",
    "climate",
    "policy-governance"
-  ]
+  ],
+  "places": [
+   "khuzestan",
+   "hoor-al-azim",
+   "shadegan",
+   "bamdezh",
+   "miangaran",
+   "shimbar"
+  ],
+  "scope": "regional",
+  "figures": []
  },
  {
   "id": "Qmy-F4vul3E-14",
@@ -301,6 +588,20 @@
    "water",
    "forests-rangelands",
    "policy-governance"
+  ],
+  "places": [
+   "mashhad",
+   "gilan-dams"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "1,300–1,400 km",
+    "value_fa": "۱٬۳۰۰ تا ۱٬۴۰۰ کیلومتر",
+    "label_en": "desalinated-water pipeline from the Sea of Oman to Mashhad",
+    "label_fa": "خط انتقال آب شیرین‌شده از دریای عمان به مشهد",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -312,6 +613,18 @@
   "topics": [
    "pollution",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "⅓",
+    "value_fa": "یک‌سوم",
+    "label_en": "the Department of Environment's national budget, compared with Kashan municipality's",
+    "label_fa": "بودجه کل سازمان محیط زیست، در مقایسه با بودجه شهرداری کاشان",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -327,7 +640,10 @@
    "dust-air",
    "pollution",
    "policy-governance"
-  ]
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-02",
@@ -338,6 +654,18 @@
   "topics": [
    "desertification-land",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "800 years",
+    "value_fa": "۸۰۰ سال",
+    "label_en": "to form 1 cm of soil in Iran (world average: 400)",
+    "label_fa": "برای تشکیل ۱ سانتی‌متر خاک در ایران (میانگین جهان: ۴۰۰)",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -351,6 +679,18 @@
    "desertification-land",
    "activism-society",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "50,000–70,000 years",
+    "value_fa": "۵۰ تا ۷۰ هزار سال",
+    "label_en": "for a subsided plain to recover",
+    "label_fa": "تا دشتی که فرونشسته دوباره تاب‌آور شود",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  },
  {
@@ -361,7 +701,10 @@
   "quote_en": "I mean — and this is addressed to myself and all activists — we must not reach a degree of criticism that drags us into passivity, drags us into vandalism, deprives us of any effort toward resilience. You strive for resilience when you see a glimmer of hope somewhere down there; if you don't see it, you no longer try, you give up. … The reality is that we must try to push back the Titanic moment, hoping that science advances, and that the astonishing progress of science might be able to solve many of our problems.",
   "topics": [
    "activism-society"
-  ]
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-05",
@@ -371,7 +714,13 @@
   "quote_en": "My late father would say: instead, I'm taking you somewhere that has the best water in the world — Abadan. Now people in Abadan have no water. What have we done to this land? It's in my memory. Life beside the Arvand and the Karun is in my memory. … What a land it was, what a fertile plain it was, downstream of Iran's fullest rivers: the Karun, Karkheh, Jarrahi, Maroon, Zohreh.",
   "topics": [
    "water"
-  ]
+  ],
+  "places": [
+   "abadan",
+   "karun"
+  ],
+  "scope": "regional",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-06",
@@ -382,6 +731,25 @@
   "topics": [
    "water",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "65,000 → under 10,000",
+    "value_fa": "۶۵٬۰۰۰ ← کمتر از ۱۰٬۰۰۰",
+    "label_en": "qanats still running in Iran",
+    "label_fa": "قنات‌هایی که در ایران زنده مانده‌اند",
+    "kind": "claim",
+    "featured": true
+   },
+   {
+    "value_en": "1 million+",
+    "value_fa": "بیش از ۱ میلیون",
+    "label_en": "wells in Iran",
+    "label_fa": "چاه در ایران",
+    "kind": "claim"
+   }
   ]
  },
  {
@@ -394,7 +762,10 @@
    "activism-society",
    "policy-governance",
    "water"
-  ]
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-08",
@@ -405,7 +776,10 @@
   "topics": [
    "activism-society",
    "policy-governance"
-  ]
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-09",
@@ -417,7 +791,12 @@
    "water",
    "activism-society",
    "policy-governance"
-  ]
+  ],
+  "places": [
+   "ab-pakhsh"
+  ],
+  "scope": "local",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-10",
@@ -428,7 +807,10 @@
   "topics": [
    "activism-society",
    "water"
-  ]
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-11",
@@ -439,6 +821,17 @@
   "topics": [
    "energy",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "5,000 → 30,000 MW",
+    "value_fa": "۵٬۰۰۰ ← ۳۰٬۰۰۰ مگاوات",
+    "label_en": "renewable power each plan required, against today's target",
+    "label_fa": "برق تجدیدپذیر الزامی هر برنامه، در برابر هدف امروز",
+    "kind": "target"
+   }
   ]
  },
  {
@@ -451,7 +844,10 @@
    "energy",
    "water",
    "policy-governance"
-  ]
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-13",
@@ -462,6 +858,17 @@
   "topics": [
    "water",
    "policy-governance"
+  ],
+  "places": [],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "81 → 51 billion m³",
+    "value_fa": "۸۱ ← ۵۱ میلیارد متر مکعب",
+    "label_en": "farm water use the government agreed to cut to by 2032",
+    "label_fa": "مصرف آب کشاورزی که دولت پذیرفت تا ۱۴۱۱ به آن برسد",
+    "kind": "target"
+   }
   ]
  },
  {
@@ -474,7 +881,19 @@
    "water",
    "dust-air",
    "policy-governance"
-  ]
+  ],
+  "places": [
+   "lake-urmia",
+   "khuzestan",
+   "hoor-al-azim",
+   "shadegan",
+   "bamdezh",
+   "miangaran",
+   "shimbar",
+   "kor-bakhtegan"
+  ],
+  "scope": "regional",
+  "figures": []
  },
  {
   "id": "rjV5JACz7WY-15",
@@ -486,6 +905,26 @@
    "water",
    "policy-governance",
    "activism-society"
+  ],
+  "places": [
+   "khuzestan",
+   "fars",
+   "isfahan-province",
+   "golestan-wetlands",
+   "jazmurian",
+   "chaharmahal",
+   "yazd-province",
+   "kohgiluyeh"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "up to 45%",
+    "value_fa": "تا ۴۵٪",
+    "label_en": "rise in inter-ethnic violence linked to water-transfer projects (University of Tehran study)",
+    "label_fa": "افزایش خشونت میان اقوام در پی طرح‌های انتقال آب (پژوهش دانشگاه تهران)",
+    "kind": "study"
+   }
   ]
  },
  {
@@ -498,6 +937,20 @@
    "forests-rangelands",
    "biodiversity-wildlife",
    "activism-society"
+  ],
+  "places": [
+   "elgan"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "200,000",
+    "value_fa": "۲۰۰ هزار",
+    "label_en": "seedlings sprouted after villagers protected 100 ha of forest",
+    "label_fa": "نهالی که پس از حفاظت مردم از ۱۰۰ هکتار جنگل سبز شد",
+    "kind": "claim",
+    "featured": true
+   }
   ]
  }
 ]
