@@ -21,7 +21,8 @@
     "value_fa": "۲ میلیارد تن",
     "label_en": "of soil eroded in Iran every year",
     "label_fa": "خاکی که هر سال در ایران فرسوده می‌شود",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss"
    }
   ]
  },
@@ -43,7 +44,20 @@
     "label_en": "Iran's soil erosion rate, relative to its area, against the world average",
     "label_fa": "نرخ فرسایش خاک ایران نسبت به مساحتش، در برابر میانگین جهانی",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "World average",
+      "label_fa": "میانگین جهان",
+      "value": 1
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 8
+     }
+    ]
    }
   ]
  },
@@ -66,7 +80,8 @@
     "value_fa": "۲ میلیون سال",
     "label_en": "for nature to make up for an extinct species",
     "label_fa": "زمان جبران انقراض یک گونه",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss"
    }
   ]
  },
@@ -89,7 +104,8 @@
     "value_fa": "۴۵ میلیارد متر مکعب",
     "label_en": "aquifer deficit the food security document says must be reduced by 2032",
     "label_fa": "کسری آبخوان‌ها که سند امنیت غذایی می‌گوید باید تا ۱۴۱۱ کم شود",
-    "kind": "target"
+    "kind": "target",
+    "tone": "neutral"
    }
   ]
  },
@@ -112,7 +128,20 @@
     "label_en": "solar power promised over three five-year plans, against what was built",
     "label_fa": "برق خورشیدی وعده‌داده‌شده در سه برنامه پنج‌ساله، در برابر آنچه ساخته شد",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Promised",
+      "label_fa": "وعده‌داده‌شده",
+      "value": 15000
+     },
+     {
+      "label_en": "Built",
+      "label_fa": "ساخته‌شده",
+      "value": 500
+     }
+    ]
    }
   ]
  },
@@ -134,7 +163,8 @@
     "value_fa": "۳۰ گیگاوات",
     "label_en": "solar plant Saudi Arabia is building by 2030",
     "label_fa": "نیروگاه خورشیدی که عربستان تا ۲۰۳۰ می‌سازد",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "neutral"
    }
   ]
  },
@@ -160,7 +190,9 @@
     "value_fa": "۶۰٪",
     "label_en": "of Iran's cement that is exported",
     "label_fa": "سهم صادرات از سیمان تولیدی ایران",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.6
    }
   ]
  },
@@ -199,7 +231,8 @@
     "value_fa": "۳۰ کیلومتر",
     "label_en": "road cutting through the Asiatic cheetah's habitat",
     "label_fa": "جاده‌ای که از زیستگاه یوزپلنگ آسیایی می‌گذرد",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss"
    }
   ]
  },
@@ -222,7 +255,8 @@
     "label_en": "of forest habitat lost",
     "label_fa": "از گستره رویشگاه‌های جنگلی که از دست رفته",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss"
    }
   ]
  },
@@ -250,7 +284,9 @@
     "value_fa": "۸۱٪",
     "label_en": "of Tehran's gaseous pollutant emissions come from vehicles",
     "label_fa": "سهم خودروها از انتشار آلاینده‌های گازی تهران",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.81
    }
   ]
  },
@@ -277,7 +313,20 @@
     "value_fa": "۸٬۶۰۰ در برابر کمتر از ۲٬۰۰۰",
     "label_en": "industrial units in Isfahan province, against half of Iran's territory",
     "label_fa": "واحد صنعتی در استان اصفهان، در برابر نیمی از خاک ایران",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Isfahan province",
+      "label_fa": "استان اصفهان",
+      "value": 8600
+     },
+     {
+      "label_en": "Half of Iran",
+      "label_fa": "نیمی از ایران",
+      "value": 2000
+     }
+    ]
    }
   ]
  },
@@ -300,7 +349,20 @@
     "label_en": "wild goats and sheep since a hunter turned protector in 2011",
     "label_fa": "کل و قوچ از وقتی یک شکارچی در ۱۳۹۰ حافظ شد",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "recovery",
+    "compare": [
+     {
+      "label_en": "2011",
+      "label_fa": "۱۳۹۰",
+      "value": 36
+     },
+     {
+      "label_en": "Now",
+      "label_fa": "اکنون",
+      "value": 2000
+     }
+    ]
    }
   ]
  },
@@ -325,7 +387,8 @@
     "value_fa": "تا ۱۴۰۹",
     "label_en": "the Isfahan–Borkhar aquifer may run dry, in one scenario",
     "label_fa": "آبخوان دشت اصفهان–برخوار ممکن است خالی شود (یک سناریو)",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss"
    }
   ]
  },
@@ -349,7 +412,8 @@
     "value_fa": "۳۰٬۰۰۰ مگاوات",
     "label_en": "solar power the plans aim for within ten years",
     "label_fa": "برق خورشیدی هدف‌گذاری‌شده در ده سال",
-    "kind": "target"
+    "kind": "target",
+    "tone": "neutral"
    }
   ]
  },
@@ -392,14 +456,16 @@
     "label_en": "land subsidence between the Fasa and Jahrom plains",
     "label_fa": "فرونشست زمین میان دشت فسا و جهرم",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss"
    },
    {
     "value_en": "100,000 km²",
     "value_fa": "۱۰۰٬۰۰۰ کیلومتر مربع",
     "label_en": "of land subsiding 2 cm a year or more (Geological Survey, 2025)",
     "label_fa": "زمینی که ۲ سانتی‌متر یا بیشتر در سال فرومی‌نشیند (سازمان زمین‌شناسی، ۱۴۰۴)",
-    "kind": "study"
+    "kind": "study",
+    "tone": "loss"
    }
   ]
  },
@@ -422,7 +488,9 @@
     "label_en": "of 400 billion m³ of groundwater lost in 30 years",
     "label_fa": "از ۴۰۰ میلیارد متر مکعب آب زیرزمینی که در ۳۰ سال از دست رفته",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss",
+    "share": 0.8
    }
   ]
  },
@@ -446,7 +514,9 @@
     "value_fa": "۸۹٫۷٪",
     "label_en": "of Iran's territory is hyper-arid, arid or semi-arid",
     "label_fa": "از خاک ایران که فراخشک، خشک یا نیمه‌خشک است",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.897
    }
   ]
  },
@@ -469,7 +539,8 @@
     "label_en": "endemic species found nowhere else on Earth",
     "label_fa": "گونه بومی که جای دیگری از جهان یافت نمی‌شود",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "neutral"
    }
   ]
  },
@@ -507,7 +578,9 @@
     "value_fa": "۵۰٪",
     "label_en": "less water for the same harvest with hydroponics and greenhouses",
     "label_fa": "کاهش مصرف آب با کشت گلخانه‌ای و هیدروپونیک",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "recovery",
+    "share": 0.5
    }
   ]
  },
@@ -600,7 +673,20 @@
     "value_fa": "۱٬۳۰۰ تا ۱٬۴۰۰ کیلومتر",
     "label_en": "desalinated-water pipeline from the Sea of Oman to Mashhad",
     "label_fa": "خط انتقال آب شیرین‌شده از دریای عمان به مشهد",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "This pipeline",
+      "label_fa": "این خط انتقال",
+      "value": 1400
+     },
+     {
+      "label_en": "Longest elsewhere",
+      "label_fa": "بیشترین در جای دیگر",
+      "value": 100
+     }
+    ]
    }
   ]
  },
@@ -623,7 +709,20 @@
     "label_en": "the Department of Environment's national budget, compared with Kashan municipality's",
     "label_fa": "بودجه کل سازمان محیط زیست، در مقایسه با بودجه شهرداری کاشان",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Department of Environment, all Iran",
+      "label_fa": "سازمان محیط زیست، کل ایران",
+      "value": 1
+     },
+     {
+      "label_en": "Kashan municipality",
+      "label_fa": "شهرداری کاشان",
+      "value": 3
+     }
+    ]
    }
   ]
  },
@@ -664,7 +763,20 @@
     "label_en": "to form 1 cm of soil in Iran (world average: 400)",
     "label_fa": "برای تشکیل ۱ سانتی‌متر خاک در ایران (میانگین جهان: ۴۰۰)",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "World average",
+      "label_fa": "میانگین جهان",
+      "value": 400
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 800
+     }
+    ]
    }
   ]
  },
@@ -689,7 +801,8 @@
     "label_en": "for a subsided plain to recover",
     "label_fa": "تا دشتی که فرونشسته دوباره تاب‌آور شود",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss"
    }
   ]
  },
@@ -741,14 +854,28 @@
     "label_en": "qanats still running in Iran",
     "label_fa": "قنات‌هایی که در ایران زنده مانده‌اند",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Before",
+      "label_fa": "پیش‌تر",
+      "value": 65000
+     },
+     {
+      "label_en": "Now",
+      "label_fa": "اکنون",
+      "value": 10000
+     }
+    ]
    },
    {
     "value_en": "1 million+",
     "value_fa": "بیش از ۱ میلیون",
     "label_en": "wells in Iran",
     "label_fa": "چاه در ایران",
-    "kind": "claim"
+    "kind": "claim",
+    "tone": "loss"
    }
   ]
  },
@@ -830,7 +957,20 @@
     "value_fa": "۵٬۰۰۰ ← ۳۰٬۰۰۰ مگاوات",
     "label_en": "renewable power each plan required, against today's target",
     "label_fa": "برق تجدیدپذیر الزامی هر برنامه، در برابر هدف امروز",
-    "kind": "target"
+    "kind": "target",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "Required per plan",
+      "label_fa": "الزام هر برنامه",
+      "value": 5000
+     },
+     {
+      "label_en": "Today's target",
+      "label_fa": "هدف امروز",
+      "value": 30000
+     }
+    ]
    }
   ]
  },
@@ -867,7 +1007,20 @@
     "value_fa": "۸۱ ← ۵۱ میلیارد متر مکعب",
     "label_en": "farm water use the government agreed to cut to by 2032",
     "label_fa": "مصرف آب کشاورزی که دولت پذیرفت تا ۱۴۱۱ به آن برسد",
-    "kind": "target"
+    "kind": "target",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "Now",
+      "label_fa": "اکنون",
+      "value": 81
+     },
+     {
+      "label_en": "2032 target",
+      "label_fa": "هدف ۱۴۱۱",
+      "value": 51
+     }
+    ]
    }
   ]
  },
@@ -923,7 +1076,8 @@
     "value_fa": "تا ۴۵٪",
     "label_en": "rise in inter-ethnic violence linked to water-transfer projects (University of Tehran study)",
     "label_fa": "افزایش خشونت میان اقوام در پی طرح‌های انتقال آب (پژوهش دانشگاه تهران)",
-    "kind": "study"
+    "kind": "study",
+    "tone": "loss"
    }
   ]
  },
@@ -949,7 +1103,8 @@
     "label_en": "seedlings sprouted after villagers protected 100 ha of forest",
     "label_fa": "نهالی که پس از حفاظت مردم از ۱۰۰ هکتار جنگل سبز شد",
     "kind": "claim",
-    "featured": true
+    "featured": true,
+    "tone": "recovery"
    }
   ]
  }
