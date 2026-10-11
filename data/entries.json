@@ -3976,5 +3976,3295 @@
     "tone": "recovery"
    }
   ]
+ },
+ {
+  "id": "web-a17dfeec-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/a17dfeec/",
+  "date": "2019-01-30",
+  "title_fa": "فرونشست زمین در مرکز ایران، خواب‌ها را می‌پراند!",
+  "quote_fa": "در سه دهه اخیر دشت اراک به طور متوسط سالانه ۶۰ سانتی‌متر افت منابع آب زیرزمینی داشته و اینک کسری مخزن تجمیعی یک میلیارد مترمکعبی آن با فرونشست زمین نمایان شده است.",
+  "quote_en": "Over the past three decades, the groundwater level of the Arak plain has dropped on average by 60 centimeters a year, and now its cumulative aquifer deficit of one billion cubic meters has surfaced as land subsidence.",
+  "topics": [
+   "water",
+   "desertification-land"
+  ],
+  "places": [
+   "arak"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "60 cm/yr",
+    "value_fa": "۶۰ سانتی‌متر در سال",
+    "label_en": "average annual groundwater-level drop in the Arak plain over three decades",
+    "label_fa": "افت متوسط سالانه آب زیرزمینی دشت اراک در سه دهه اخیر",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "1 billion m³",
+    "value_fa": "یک میلیارد مترمکعب",
+    "label_en": "cumulative aquifer deficit of the Arak plain",
+    "label_fa": "کسری مخزن تجمیعی آبخوان دشت اراک",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-c66063de-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/c66063de/",
+  "date": "2019-02-18",
+  "title_fa": "برای مهار بحران آب در خراسان‌شمالی، توان‌افزایی را از کجا شروع کنیم؟",
+  "quote_fa": "استانی که فقط ۱۴ استان را بزرگ‌تر از خود دارد، اما بیست‌و‌هفتمین استان پرجمعیت ایران است. تامل‌برانگیزتر آنکه خراسان‌شمالی، هجدهمین استان از نظر سطح زیرکشت است، اما از نظر تولید زراعی رتبه ۲۴ را دارد. نکته‌ای که سبب شده به رغم اختصاص ۹۴درصد آب قابل‌استحصال سالانه استان به کشاورزی، ۸دشت از مجموع ۱۱دشت استان در شرایط ممنوعه باشد!",
+  "quote_en": "A province that has only 14 provinces larger than itself, yet is Iran's 27th most populous province. More thought-provoking still, North Khorasan ranks 18th in cultivated area but 24th in crop production. This is why, despite allocating 94 percent of the province's annually extractable water to agriculture, 8 of the province's 11 plains are in a 'prohibited' state!",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "north-khorasan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "94%",
+    "value_fa": "۹۴ درصد",
+    "label_en": "of North Khorasan's extractable water goes to agriculture",
+    "label_fa": "آب قابل‌استحصال خراسان شمالی که به کشاورزی می‌رسد",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.94
+   },
+   {
+    "value_en": "8 of 11",
+    "value_fa": "۸ از ۱۱",
+    "label_en": "of North Khorasan's plains are 'prohibited' (over-drafted)",
+    "label_fa": "دشت‌های ممنوعه خراسان شمالی",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.7272727272727273
+   }
+  ]
+ },
+ {
+  "id": "web-h73c7e5b-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h73c7e5b/",
+  "date": "2019-03-09",
+  "title_fa": "تحریم سبزه و ماهی قرمز، محیط زیستی نیست!",
+  "quote_fa": "آیا می‌دانید در کشور سالانه ۴ هزار و ۶۰۰ میلیارد تومان یارانه به نان تعلق می‌گیرد که حدود ۳۰درصد این یارانه صرف ضایعات آرد و نان می‌شود؟ به دیگر سخن، ایرانیان سالانه حدود سه میلیون تن گندم را بدون مصرف به هدر می‌دهند. … فقط در تهران به اندازه آبِ پشت سد کرج، که معادل ۴۰۰ برابر آن رقم است، به دلیل فرسودگی شبکه لوله‌کشی شهری و قلدری برخی مشترکین! بدون محاسبه و پرداخت آب بها هدر می‌رود و در کل کشور بیش از ۳۲ میلیارد متر مکعب پساب از دسترس خارج می‌شود و نیز در اثر ضایعات بخش کشاورزی بیش از ۲۷ میلیارد متر مکعب آب هدر می‌رود!",
+  "quote_en": "Did you know that every year 4,600 billion tomans of subsidy goes to bread in Iran, and about 30 percent of this subsidy is spent on wasted flour and bread? In other words, Iranians waste about three million tonnes of wheat a year without eating it. … in Tehran alone, the equivalent of the water behind the Karaj dam — 400 times that figure — is lost without being metered or paid for, because of the worn-out urban pipe network and the bullying of some subscribers! And nationwide more than 32 billion cubic meters of wastewater goes out of use, and more than 27 billion cubic meters of water is wasted through losses in the agricultural sector!",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "3 million t",
+    "value_fa": "سه میلیون تن",
+    "label_en": "of wheat wasted by Iranians each year",
+    "label_fa": "گندمی که ایرانیان هر سال هدر می‌دهند",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "32 billion m³",
+    "value_fa": "۳۲ میلیارد مترمکعب",
+    "label_en": "of wastewater going out of use nationwide each year",
+    "label_fa": "پسابی که در کل کشور از دسترس خارج می‌شود",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "27 billion m³",
+    "value_fa": "۲۷ میلیارد مترمکعب",
+    "label_en": "of water wasted through agricultural losses",
+    "label_fa": "آبی که در اثر ضایعات بخش کشاورزی هدر می‌رود",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-e40b494c-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/e40b494c/",
+  "date": "2019-03-21",
+  "title_fa": "چشم‌انداز زیبایی که مرگ می‌آفریند!",
+  "quote_fa": "آن زمانی که سد استقلال در دوره میرحسین موسوی آبگیری شد، قراربود زنگ پایانی باشد بر کابوس دسترسی به آب شیرین برای مردم میناب و بندرعباس. آمده بودند تا با ساز و دهل اجازه هدررفت آب شیرین به دریا را ندهند؛ اما بیش از یک میلیون پایه نخل، انبه و مرکبات را خشکاندیم و پرشمارترین فروچاله‌ها را تا نزدیکی‌های خلیج فارس و دریای عمان گستراندیم!",
+  "quote_en": "When the Esteghlal dam was filled under Mir-Hossein Mousavi, it was supposed to be the final bell on the nightmare of fresh-water access for the people of Minab and Bandar Abbas. They had come with fanfare not to let fresh water be 'wasted' into the sea; but we dried up more than a million date palms, mango and citrus trees, and spread the most numerous sinkholes all the way to near the Persian Gulf and the Sea of Oman!",
+  "topics": [
+   "water",
+   "desertification-land"
+  ],
+  "places": [
+   "esteghlal-dam"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "1 million+",
+    "value_fa": "بیش از یک میلیون",
+    "label_en": "date palms, mango and citrus trees dried up after the Esteghlal (Minab) dam",
+    "label_fa": "پایه نخل، انبه و مرکبات خشکیده پس از سد استقلال میناب",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-e40b494c-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/e40b494c/",
+  "date": "2019-03-21",
+  "title_fa": "چشم‌انداز زیبایی که مرگ می‌آفریند!",
+  "quote_fa": "مهم‌ترین کارکرد هیرکانی حفظ آب و خاک، تولید اکسیژن، حراست از زیگونگی و جلوگیری از رخداد سیل‌هایی ویرانگر است که اینک عدم توجه به آن، مردم عزیز ما در دو استان گلستان – گنبدکاووس – و مازندران را داغدار کرده است. نباید اجازه دهیم به بهانه توسعه کشاورزی، دامداری، ویلاسازی و تامین معیشت برای مردم محلی، همان مردم را قربانی خشم طبیعت کنیم. چرا باید بیش از نیمی از وسعت جنگل‌های هیرکانی را از آغاز اصل ۴ترومن تا امروز از دست بدهیم؟!",
+  "quote_en": "The most important functions of the Hyrcanian forests are conserving water and soil, producing oxygen, protecting biodiversity and preventing destructive floods, and neglecting this has now left our dear people in two provinces, Golestan (Gonbad-e Kavus) and Mazandaran, in mourning. We must not, under the pretext of developing farming, livestock, villa building and livelihoods for local people, sacrifice those same people to nature's wrath. Why should we lose more than half of the Hyrcanian forests' area from the start of Truman's Point Four until today?!",
+  "topics": [
+   "forests-rangelands",
+   "water"
+  ],
+  "places": [
+   "hyrcanian-forests"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": ">½",
+    "value_fa": "بیش از نیمی",
+    "label_en": "of the Hyrcanian forests' area lost since the Point Four program (1950s)",
+    "label_fa": "از وسعت جنگل‌های هیرکانی از آغاز اصل ۴ ترومن تا امروز",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.5
+   }
+  ]
+ },
+ {
+  "id": "web-h829a17a-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h829a17a/",
+  "date": "2019-03-29",
+  "title_fa": "شادی مردم در ورزنه، اصفهان و بختگان دربرابر مصیبت لرستان، گلستان و شیراز! خوشحال باشیم یا نگران؟",
+  "quote_fa": "برطبق مطالعات دکتر آهنگ کوثر، بیشینه حجم سیل رخداده در سال هشتاد و دو در همین محل دروازه‌قرآن، هشتادمترمکعب در ثانیه بوده، درحالیکه گنجایش لوله‌های کارگذاشته شده در سال ۱۳۶۵، فقط ۱۸متر مکعب است! موضوعی که همان‌زمان به اطلاع دکتر منجمی از دانشگاه شیراز – که طراحی لوله‌ها را از طرف مهندس مشاور طرح برای شهرداری شیراز انجام داده است – رسید، اما عملاً اتفاقی نیافتاد تا اینکه فاجعه دوم در نوروز ۹۸ جان ۱۹ هموطن را گرفته و میلیاردها تومان خسارت زد.",
+  "quote_en": "According to Dr. Ahang Kowsar's studies, the peak flood discharge in 2003 at this same spot, Darvazeh Quran, was eighty cubic meters per second, while the capacity of the pipes laid in 1986 is only 18 cubic meters! This was brought at the time to the attention of Dr. Monajjemi of Shiraz University — who designed the pipes for Shiraz municipality on behalf of the project's consulting engineer — but in practice nothing happened, until the second disaster at Nowruz 1398 [2019] took the lives of 19 compatriots and caused billions of tomans in damage.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "shiraz"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "80 vs 18 m³/s",
+    "value_fa": "۸۰ در برابر ۱۸ مترمکعب در ثانیه",
+    "label_en": "peak flood at Darvazeh Quran, Shiraz, against the capacity of the pipes built for it",
+    "label_fa": "بیشینه سیل دروازه‌قرآن شیراز در برابر گنجایش لوله‌ها",
+    "kind": "study",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Pipe capacity",
+      "label_fa": "گنجایش لوله‌ها",
+      "value": 18
+     },
+     {
+      "label_en": "Peak flood (2003)",
+      "label_fa": "بیشینه سیل (۱۳۸۲)",
+      "value": 80
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h829a17a-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h829a17a/",
+  "date": "2019-03-29",
+  "title_fa": "شادی مردم در ورزنه، اصفهان و بختگان دربرابر مصیبت لرستان، گلستان و شیراز! خوشحال باشیم یا نگران؟",
+  "quote_fa": "پهنه‌ای که بیشتر از هر سدی می‌تواند به سیل آرامش داده و بیش از شش میلیارد متر مکعب آب را در خود ماوا داده و آن را به بستری برای صیادی، پرنده‌نگری، مهار ریزگرد، تعدیل اقلیم و توسعه گردشگری طبیعی بدل سازد. در مجموع تالاب‌های خوزستان به راحتی بین هشت تا ده میلیاردمترمکعب سیلاب را می‌توانند در خود بپذیرند و چالش ویرانی سیل را به فرصتی برای زیست‌پالایی و ژینایی دوباره جلگه خوزستان بدل کنند. اگر امروز – ۹فروردین ۹۸ – می‌شنویم که سیل مردم شریف و محروم برخی مناطق در پایاب کرخه و کارون را وادار به خروج از منازل خود کرده، به دلیل عدم احترام به حریم بستر سیلابی رودخانه‌ها، ماهیت سدها در تغییر رژیم رودخانه‌ها، افزایش بار رسوب و نیز پاکتراشی رویشگاه زاگرس در بالادست است و نه کمبود سد!",
+  "quote_en": "An expanse that, more than any dam, can calm floods and hold more than six billion cubic meters of water, turning it into a basis for fishing, birdwatching, dust control, climate moderation and nature tourism. Altogether, Khuzestan's wetlands can easily absorb between eight and ten billion cubic meters of floodwater and turn the challenge of flood destruction into an opportunity for the bio-remediation and renewed vitality of the Khuzestan plain. If today — 29 March 2019 — we hear that floods have forced the noble and deprived people of some areas downstream of the Karkheh and Karun out of their homes, it is because of disrespect for the rivers' floodplains, the nature of dams in altering river regimes, increased sediment load and the clear-cutting of the Zagros vegetation upstream — not a shortage of dams!",
+  "topics": [
+   "water",
+   "dust-air",
+   "forests-rangelands"
+  ],
+  "places": [
+   "hoor-al-azim",
+   "khuzestan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "6 billion m³+",
+    "value_fa": "بیش از شش میلیارد مترمکعب",
+    "label_en": "of floodwater Hoor al-Azim can hold",
+    "label_fa": "سیلابی که هورالعظیم می‌تواند در خود جای دهد",
+    "kind": "claim",
+    "tone": "recovery"
+   },
+   {
+    "value_en": "8–10 billion m³",
+    "value_fa": "هشت تا ده میلیارد مترمکعب",
+    "label_en": "of floodwater Khuzestan's wetlands can absorb",
+    "label_fa": "سیلابی که تالاب‌های خوزستان می‌توانند بپذیرند",
+    "kind": "claim",
+    "tone": "recovery"
+   }
+  ]
+ },
+ {
+  "id": "web-h4963e78-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h4963e78/",
+  "date": "2019-04-10",
+  "title_fa": "معمای کرخه!",
+  "quote_fa": "در تاریخ دبی‌های ثبت‌شده برای رودخانه کارون، دبی ۶۵۰۰ متر مکعب بر ثانیه در دهه چهل ثبت شده است؛ یعنی پیش از آنکه هیچیک از سدهای کنونی وجود داشته باشند. این درحالی است که بیشینه دبی ورودی از کارون به سد دز یا سد گتوند اینک حتی به نیمی از آن رقم هم نرسیده است! … قبول کنیم که راه مواجهه با سیل، مقابله با آن نیست، بلکه کنارآمدن با اوست. و برای کنارآمدن با سیل باید به حریم سیلابی رودخانه‌ها تجاوز نکرد؛ آنها را پیوسته لایروبی کرد؛ سیل‌های بالادست را پیش از رسیدن به کرخه و دز و گتوند، با بهبود پوشش گیاهی، ممانعت از کشاورزی در زیراشکوب جنگل، ممانعت از فشار بیش از حد دام، ممانعت از معدن‌کاوی غیراستاندارد، هدایت سیلاب‌ها به سوی تالاب‌ها، دریاچه‌ها، چالاب‌ها، آبرفت‌های درشت‌دانه، اعمال شگردهای آبخیزداری غیرسازه‌ای و سرانجام تکمیل نقشه پهنه‌بندی سیل در ایران مدیریت کرد.",
+  "quote_en": "In the history of recorded discharges of the Karun River, a discharge of 6,500 cubic meters per second was recorded in the 1960s — that is, before any of the current dams existed. Yet the maximum inflow from the Karun into the Dez dam or the Gotvand dam has now not reached even half of that figure! … Let us accept that the way to deal with floods is not to fight them but to live with them. And to live with floods, we must not encroach on rivers' floodplains; we must dredge them regularly; and we must manage upstream floods before they reach the Karkheh, Dez and Gotvand by improving vegetation cover, preventing farming in the forest understory, preventing excessive livestock pressure, preventing substandard mining, steering floodwaters toward wetlands, lakes, ponds and coarse-grained alluvium, applying non-structural watershed management techniques, and finally completing Iran's flood zoning map.",
+  "topics": [
+   "water",
+   "forests-rangelands",
+   "policy-governance"
+  ],
+  "places": [
+   "karun",
+   "khuzestan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "6,500 m³/s",
+    "value_fa": "۶۵۰۰ مترمکعب بر ثانیه",
+    "label_en": "Karun discharge recorded in the 1960s, before any of its current dams",
+    "label_fa": "دبی ثبت‌شده کارون در دهه چهل، پیش از ساخت سدهای کنونی",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-bc491dfc-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/bc491dfc/",
+  "date": "2019-04-16",
+  "title_fa": "فرونشست‌های تهران روی خط قرمز!",
+  "quote_fa": "الان در منطقه ۲۲، بحران جدی است. اغلب برج‌ها، در آب هستند. … از حوالی میدان خراسان به سمت جنوب! مهرآباد جنوبی، دشت شهریار و دشت ورامین بیشترین میزان نشست را تجربه می‌کنند.",
+  "quote_en": "Right now in District 22 there is a serious crisis. Most of the towers stand in water. … From around Khorasan Square southward! South Mehrabad, the Shahriar plain and the Varamin plain are experiencing the greatest subsidence.",
+  "topics": [
+   "water",
+   "desertification-land"
+  ],
+  "places": [
+   "tehran"
+  ],
+  "scope": "local",
+  "figures": []
+ },
+ {
+  "id": "web-h59ad85e-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h59ad85e/",
+  "date": "2019-04-22",
+  "title_fa": "غبارِ پس از سیل!",
+  "quote_fa": "اخیرا جهاد کشاورزی لرستان اعلام کرده بین ۱۵۰ تا ۲۰۰ هزار هکتار از جنگل‌ها و مراتع این استان مورد تعدی و تغییر کاربری واقع شده،‌ خب چطور بعد انتظار داریم سیل نیاید و لرستان را نبرد؟",
+  "quote_en": "Lorestan's Agriculture Jihad has recently announced that between 150 and 200 thousand hectares of the province's forests and rangelands have been encroached upon and had their land use changed — so how can we then expect floods not to come and sweep Lorestan away?",
+  "topics": [
+   "forests-rangelands",
+   "water"
+  ],
+  "places": [
+   "lorestan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "150–200k ha",
+    "value_fa": "۱۵۰ تا ۲۰۰ هزار هکتار",
+    "label_en": "of Lorestan's forests and rangelands encroached upon or converted",
+    "label_fa": "از جنگل‌ها و مراتع لرستان که مورد تعدی و تغییر کاربری واقع شده",
+    "kind": "study",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h1456e43-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h1456e43/",
+  "date": "2019-04-28",
+  "title_fa": "حجم سیل در فروردین‌ماه ۱۳میلیاردمترمکعب بود؟ چرا سدهای مخزنی در بالادست خوزستان به ظرفیت ۲۱میلیاردمترمکعب، توان مهارِ آن را نداشتند؟!",
+  "quote_fa": "نکته تامل‌برانگیز اما این است که حجم مخازن سدهای موجود که کوشیدند تا این سیلاب را آرام کنند، بالغ بر ۲۱میلیاردمترمکعب است. حتی اگر بخشی از حجم مخازن را فضای مرده محسوب کنیم، پرسش جدی این است که آیا مدیریت مخزن شجاعانه و به موقع رخ داده است؟",
+  "quote_en": "The thought-provoking point, however, is that the reservoir volume of the existing dams that tried to calm this flood exceeds 21 billion cubic meters. Even if we count part of the reservoir volume as dead storage, the serious question is whether the reservoirs were managed boldly and on time.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "khuzestan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "13 vs 21 billion m³",
+    "value_fa": "۱۳ در برابر ۲۱ میلیارد مترمکعب",
+    "label_en": "spring 2019 flood volume reaching the dams upstream of Khuzestan, against those dams' storage capacity",
+    "label_fa": "حجم سیل فروردین ۹۸ در برابر گنجایش سدهای بالادست خوزستان",
+    "kind": "claim",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "Flood volume",
+      "label_fa": "حجم سیل",
+      "value": 13
+     },
+     {
+      "label_en": "Reservoir capacity",
+      "label_fa": "گنجایش مخازن",
+      "value": 21
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h3081d33-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3081d33/",
+  "date": "2019-04-29",
+  "title_fa": "سکوتِ سنگینِ وزارت متولی آب در ایران!",
+  "quote_fa": "چرا به رغم تکلیف قانونی وزارت نیرو در تعیین حریم سیلابی ۱۴۰هزارکیلومتر رودخانه‌های ایران، فقط تاکنون ۵۵هزار کیلومتر انجام شده است؟ اگر این ناتوانی مربوط به کمبود بودجه است، آیا شایسته‌تر نبود پیش از آنکه سدهای جدید ساخته شوند، این رسالت خطیر به انجام می‌رسید؟ به راستی چرا در وزارت نیرو برای تعادل‌بخشی آبخوان‌ها ده‌ها برابر کمتر از اجرای طرح‌های سازه‌ای بودجه اختصاص یافته است؟ نکته مهم‌تر آنکه چرا حریم سیلابی رودخانه‌ها بر مبنای دوره برگشت ۲۵ساله طراحی شده؟",
+  "quote_en": "Why, despite the Ministry of Energy's legal duty to determine the floodplain boundaries of Iran's 140 thousand kilometers of rivers, have only 55 thousand kilometers been done so far? If this failure is due to a lack of budget, would it not have been more fitting to carry out this vital mission before building new dams? Really, why does the Ministry of Energy allocate tens of times less budget to restoring aquifer balance than to structural projects? More importantly, why are rivers' floodplain boundaries designed on the basis of a 25-year return period?",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "55k of 140k km",
+    "value_fa": "۵۵ هزار از ۱۴۰ هزار کیلومتر",
+    "label_en": "of Iran's rivers whose floodplain boundaries have been demarcated",
+    "label_fa": "از رودخانه‌های ایران که حریم سیلابی‌شان تعیین شده",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.39285714285714285
+   }
+  ]
+ },
+ {
+  "id": "web-h30bdca1-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h30bdca1/",
+  "date": "2019-05-02",
+  "title_fa": "چرا همه باید با احداث سد لاسک مخالفت کنیم؟",
+  "quote_fa": "می‌خواهند سد لاسک را با ارتفاع ۶۳متر، عرض ۷۵۰ متر و طول ۳۶۰۰ متر با هزارمیلیارد تومان اعتبار بر روی رودخانه امامزاده ابراهیم در قلمرو شهرستان شفت – استان گیلان – بسازند. … مقصد نهایی ۱۴ رودخانه در گیلان، تالاب انزلی است. یکی از رودخانه‌های اصلی که آب تالاب را تامین می‌کند، پسیخان است که از همان رودخانه محل احداث سد لاسک سرچشمه می‌گیرد. … در استان گیلان چهاربرابر میزان مصرف از آسمان باران نازل می‌شود. این یعنی: ما اگر حتی به آب‌های زیرزمینی دست هم نزنیم و انحصاراً از ریزش‌های آسمانی استفاده کنیم، باز هم اضافه می‌آوریم. … ساخت این سد علاوه بر نابودی رویشگاه ارزشمند گونه اندمیک جنگل شمشاد به سطح ۱۰۰ هکتار، سه روستای لاسک، کلوان و ویسرود با جمعیتی بالغ‌ بر ۱۶۳۰ نفر را به طور کامل به زیر آب برده و ۷ روستای زیرمجموعه روستای لاسک را با مشکل کمبود آب مواجه خواهد کرد که مشکلات اقتصادی-اجتماعی-فرهنگی عدیده‌ای را برای مردم این مناطق بر جای گذاشته و بیش از ۶۶ هکتار شالیزار منطقه و ۴۳ هکتار اراضی باغی و چای‌کاری را در مخزن سد دفن خواهد کرد.",
+  "quote_en": "They want to build the Lasak dam, 63 meters high, 750 meters wide and 3,600 meters long, with a budget of a thousand billion tomans, on the Emamzadeh Ebrahim River in Shaft county, Gilan province. … The final destination of 14 rivers in Gilan is the Anzali wetland. One of the main rivers feeding the wetland is the Pasikhan, which rises from the very river where the Lasak dam is being built. … In Gilan province, four times the amount consumed falls from the sky as rain. This means that even if we didn't touch groundwater at all and relied solely on precipitation, we would still have a surplus. … Besides destroying a valuable 100-hectare habitat of the endemic boxwood forest, building this dam will completely submerge three villages — Lasak, Kalvan and Visrud — with a population of 1,630, cause water shortages for 7 villages under Lasak village, leaving the people of these areas with numerous economic, social and cultural problems, and bury more than 66 hectares of paddy fields and 43 hectares of orchards and tea gardens in the reservoir.",
+  "topics": [
+   "water",
+   "forests-rangelands",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "lasak-dam",
+   "anzali-wetland"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "4×",
+    "value_fa": "چهاربرابر",
+    "label_en": "rainfall in Gilan against water consumption there",
+    "label_fa": "بارش گیلان نسبت به مصرف آب آن",
+    "kind": "claim",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "1,630",
+    "value_fa": "۱۶۳۰ نفر",
+    "label_en": "people in three villages the Lasak dam would submerge",
+    "label_fa": "جمعیت سه روستایی که سد لاسک به زیر آب می‌برد",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "100 ha",
+    "value_fa": "۱۰۰ هکتار",
+    "label_en": "of endemic boxwood forest destroyed by the Lasak dam",
+    "label_fa": "رویشگاه جنگل شمشاد که با سد لاسک نابود می‌شود",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h1db6cd0-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h1db6cd0/",
+  "date": "2019-05-22",
+  "title_fa": "درخت‌‌کُشانی بی‌سابقه در اصفهان در سکوت سنگین من و تو!",
+  "quote_fa": "خبرهای رسیده حکایت از آن دارد بخشی از اراضی تحت مالکیت ذوب‌آهن اصفهان که حدود ۳۰سال پیش بابت تعهدات آلایندگی کارخانه با بادام‌کوهی جنگل‌کاری شده بود، اخیراً خریداری و به توسعه کارخانجات فولاد اختصاص یافته است. متاسفانه همانطور که در تصاویر می‌بینید، تاکنون حدود ۵۰‌هکتار از این جنگلکاری، معادل ده هزار اصله درختچه بادام‌کوهی قطع شده و بیم آن می‌رود که این درخت‌کُشان به تمامی عرصه دوهزار هکتاری جنگلکاری‌شده گسترش یابد.",
+  "quote_en": "Reports indicate that part of the land owned by Isfahan Steel (Zob Ahan), which was afforested with wild almond about 30 years ago under the factory's pollution obligations, has recently been bought and allocated to expanding steel plants. Unfortunately, as you see in the pictures, so far about 50 hectares of this plantation, equal to ten thousand wild almond shrubs, have been cut, and it is feared that this tree-killing will spread to the entire two-thousand-hectare afforested area.",
+  "topics": [
+   "forests-rangelands",
+   "pollution"
+  ],
+  "places": [
+   "zob-ahan-forest"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "~50 ha",
+    "value_fa": "حدود ۵۰ هکتار",
+    "label_en": "of Zob Ahan's wild almond plantation cut, about 10,000 shrubs, out of 2,000 ha",
+    "label_fa": "از جنگل‌کاری بادام‌کوهی ذوب‌آهن که قطع شد، حدود ۱۰ هزار درختچه از ۲ هزار هکتار",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.025
+   }
+  ]
+ },
+ {
+  "id": "web-f634fb41-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/f634fb41/",
+  "date": "2019-05-31",
+  "title_fa": "گزارش جام‌جم؛ محمد درویش: مجلس خیلی دیر وارد تحقیق و تفحص از سازمان حفاظت محیط‌زیست شد!",
+  "quote_fa": "مجلس باید به این موضوع توجه کند که براساس تعهدات ایران در اجلاس آیچی پرفکچر ناگویای ژاپن در سال ۲۰۱۰ میلادی، قراربود وسعت مناطق حفاظت شده ایران تا قبل از سال ۲۰۲۰ به ۱۷درصد خاک کشور برسد که هنوز در سطحی کمتر از یازده‌درصد منجمد شده است که هیچ، در دولت دوم حسن روحانی نه‌تنها وسعت این مناطق افزایش پیدا نکرد، بلکه حدود ۷۲ هزار هکتار نیز از وسعت آنها کم شد.",
+  "quote_en": "Parliament should note that under Iran's commitments at the Aichi Prefecture, Nagoya, Japan summit in 2010, the extent of Iran's protected areas was supposed to reach 17 percent of the country's land before 2020; not only is it still frozen at less than eleven percent, but in Hassan Rouhani's second government the extent of these areas not only did not increase, about 72 thousand hectares were actually cut from them.",
+  "topics": [
+   "biodiversity-wildlife",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "17%",
+    "value_fa": "۱۷٪",
+    "label_en": "of Iran's land pledged as protected areas by 2020 under the Aichi targets",
+    "label_fa": "از خاک ایران که طبق تعهدات آیچی قرار بود تا ۲۰۲۰ منطقه حفاظت‌شده شود",
+    "kind": "target",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "Actual (under)",
+      "label_fa": "وضع موجود (کمتر از)",
+      "value": 11
+     },
+     {
+      "label_en": "Aichi target",
+      "label_fa": "هدف آیچی",
+      "value": 17
+     }
+    ]
+   },
+   {
+    "value_en": "72,000 ha",
+    "value_fa": "۷۲ هزار هکتار",
+    "label_en": "cut from Iran's protected areas in Rouhani's second term",
+    "label_fa": "کاسته‌شده از مناطق حفاظت‌شده ایران در دولت دوم روحانی",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h4859d53-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h4859d53/",
+  "date": "2019-06-05",
+  "title_fa": "در اصفهان چه خبر است؟!",
+  "quote_fa": "درحالیکه حجم آب در پشت سد زاینده‌رود به حدی رسیده که دستکم در طول ۲۴سال گذشته بی‌سابقه بوده است و در حالیکه به نوشته تارنمای جهادکشاورزی استان، حقابه‌ی اختصاص یافته در یک سال نرمال فقط به بخش کشاورزی استان از رقم باورنکردنی ۷.۵ میلیاردمتر مکعب هم می‌گذرد! چگونه ممکن است همچنان در سال آبی جاری که به مراتب وضعیتی بهتر از یک سال نرمال دارد، نتوان حدود ۱۷۰ تا ۱۸۰ میلیون مترمکعب حقابه تالاب ارزشمند گاوخونی را تامین کرد؟! واقعاً چرا می‌خواهند باز زاینده‌رود را در پایان خرداد بر روی اصفهان ببندند و چرا بین ۲ تا ۳درصد از این آب را به تاب‌آوری دوباره گاوخونی اختصاص نمی‌دهند؟! … واقعاً تاسف‌آور است که حتی حقابه صنعت از آب زاینده‌رود، بیش از ۲برابر حقابه گاوخونی است!",
+  "quote_en": "While the volume of water behind the Zayandeh Rud dam has reached a level unprecedented in at least the past 24 years, and while, according to the provincial Agriculture Jihad website, the water share allocated in a normal year to the province's agriculture sector alone exceeds an unbelievable 7.5 billion cubic meters! How is it possible that in the current water year, which is far better than a normal year, the roughly 170 to 180 million cubic meters of water rights of the precious Gavkhouni wetland still cannot be supplied?! Really, why do they want to shut off the Zayandeh Rud on Isfahan again at the end of Khordad, and why don't they allocate between 2 and 3 percent of this water to Gavkhouni's recovery?! … It is truly regrettable that even industry's share of Zayandeh Rud water is more than twice Gavkhouni's water right!",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "zayandeh-rud",
+   "gavkhouni",
+   "isfahan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "170–180 million m³",
+    "value_fa": "۱۷۰ تا ۱۸۰ میلیون مترمکعب",
+    "label_en": "Gavkhouni wetland's unmet water right, 2–3% of the water",
+    "label_fa": "حقابه تأمین‌نشده تالاب گاوخونی، ۲ تا ۳ درصد آب",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "7.5 billion m³",
+    "value_fa": "۷٫۵ میلیارد مترمکعب",
+    "label_en": "Zayandeh Rud water allocated to Isfahan agriculture in a normal year (provincial figure)",
+    "label_fa": "حقابه بخش کشاورزی استان اصفهان در یک سال نرمال (رقم جهاد کشاورزی استان)",
+    "kind": "target",
+    "tone": "neutral"
+   },
+   {
+    "value_en": ">2×",
+    "value_fa": "بیش از ۲ برابر",
+    "label_en": "industry's Zayandeh Rud share against Gavkhouni's water right",
+    "label_fa": "حقابه صنعت از زاینده‌رود در برابر حقابه گاوخونی",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h8235cd9-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h8235cd9/",
+  "date": "2019-06-15",
+  "title_fa": "چرا در برابرِ لرزه‌ی بی‌صدای زمین در تهران، نمی‌لرزیم؟!",
+  "quote_fa": "فرونشست؛ مادر بحران‌ها و پایدارترین خطر برای پایداری کیفیت زندگی است؛ نگاه کنید که چگونه تهران دارد با سرعتی بیش از نودبرابر شرایط بحرانی فرو می‌رود، … برای جبران فرونشست به پنجاه تا هفتادهزارسال زمان نیاز داریم! و ما رکورددار فرونشست در کره زمین هستیم.",
+  "quote_en": "Subsidence is the mother of crises and the most persistent threat to a lasting quality of life; look how Tehran is sinking at a rate more than ninety times the critical threshold, … to make up for subsidence we need fifty to seventy thousand years! And we hold the world record for subsidence.",
+  "topics": [
+   "desertification-land",
+   "water"
+  ],
+  "places": [
+   "tehran"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": ">90×",
+    "value_fa": "بیش از ۹۰ برابر",
+    "label_en": "Tehran's subsidence rate against the critical threshold",
+    "label_fa": "سرعت فرونشست تهران نسبت به آستانه بحرانی",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "50,000–70,000 years",
+    "value_fa": "۵۰ تا ۷۰ هزار سال",
+    "label_en": "needed to make up for land subsidence",
+    "label_fa": "زمان لازم برای جبران فرونشست",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h31269ca-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h31269ca/",
+  "date": "2019-06-25",
+  "title_fa": "مصیبتِ نیشابور، تلخ‌تر از تهران!",
+  "quote_fa": "آنچه در نیشابور رخداده، اگر قرار بود با همین عظمت، گستردگی و شتاب در مخروط‌افکنه جنوب تهران رخ دهد، بی‌شک الان نیمی از مردم مجبور به ترک تهران شده بودند! شکافی به طول بیش از سی و شش کیلومتر که خط آهن اصلی تهران/مشهد را نیز متاثر کرده است. … متاسفانه استقرار غلط نیروگاه حرارتی نیشابور هم آشکارا از ظرفیت گرمایی ویژه منطقه کاسته و تراز منفی دشت را، منفی‌تر کرده است. نیشابور برای آنکه نیشابور بماند، باید به سمت کاهش وابستگی معیشتی به منابع آب و خاک، ارتقای نرم‌افزاری بخش کشاورزی، تقویت زیرساخت‌های جذاب و اصیل بوم‌گردی و استحصال انرژی بادی و خورشیدی حرکت کند؛",
+  "quote_en": "If what has happened in Neyshabur were to happen with the same magnitude, extent and speed on the alluvial fan south of Tehran, half the people would no doubt have had to leave Tehran by now! A fissure more than thirty-six kilometers long that has also affected the main Tehran–Mashhad railway. … Unfortunately, the wrong siting of the Neyshabur thermal power plant has also clearly reduced the region's specific heat capacity and made the plain's negative water balance even more negative. For Neyshabur to remain Neyshabur, it must move toward less livelihood dependence on water and soil resources, a software upgrade of the agriculture sector, attractive and authentic ecotourism infrastructure, and harvesting wind and solar energy;",
+  "topics": [
+   "desertification-land",
+   "water",
+   "energy"
+  ],
+  "places": [
+   "neyshabur"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": ">36 km",
+    "value_fa": "بیش از ۳۶ کیلومتر",
+    "label_en": "length of the subsidence fissure in the Neyshabur plain",
+    "label_fa": "طول شکاف فرونشست در دشت نیشابور",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h7ec3a8f-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h7ec3a8f/",
+  "date": "2019-06-27",
+  "title_fa": "اطفای حریق جنگل‌، توجیه اقتصادی ندارد؟",
+  "quote_fa": "در موقعیت کشور ایران، هیچ مؤلفه‌ای همچون وجود جنگل‌های انبوه نمی‌تواند به تولید اکسیژن، ترسیب کربن، تنوع‌زیستی، حفظ آب و خاک و مهار سیل و آلودگی هوا کمک کند. جنگل‌ها در حقیقت به همراه تالاب‌ها در شمار ارزشمندترین پاره از قلمرو وطن هستند که فقط هفت‌ درصد خاک ایران را دربر گرفته‌اند. به نحوی که سهم هر ایرانی کمتر از یک‌چهارم سهم هر شهروند کره زمین، یعنی هجده‌صدم هکتار است. … همه کارشناسان دلیل بیش از ۹۰ درصد آتش‌سوزی‌های اخیر را عامل انسانی می‌دانند. … فقط در سیل اخیر بیش از ۳۵ هزار میلیارد تومان به اقتصاد کشور ضربه خورد و ۱۴ هزار کیلومتر راه از بین رفت؛ رخداد ویرانگری که اگر پوشش‌های جنگلی و مرتعی ما فدای کشاورزی و دام‌پروری ناپایدار و غیراصولی و تغییرکاربری‌های آزمندانه نشده بود، هرگز در چنین ابعادی به وقوع نمی‌پیوست.",
+  "quote_en": "In Iran's situation, nothing can help oxygen production, carbon sequestration, biodiversity, conservation of water and soil, and control of floods and air pollution like dense forests. Forests, together with wetlands, are among the most valuable parts of the homeland, and they cover only seven percent of Iran's land, so that each Iranian's share is less than a quarter of that of each citizen of the Earth, namely eighteen hundredths of a hectare. … all experts consider the human factor to be the cause of more than 90 percent of the recent fires. … in the recent flood alone, the country's economy was hit by more than 35 thousand billion tomans and 14 thousand kilometers of roads were destroyed; a devastating event that would never have happened on such a scale had our forest and rangeland cover not been sacrificed to unsustainable and unprincipled farming and livestock-raising and greedy land-use changes.",
+  "topics": [
+   "forests-rangelands",
+   "climate"
+  ],
+  "places": [
+   "hyrcanian-forests"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "7%",
+    "value_fa": "۷٪",
+    "label_en": "of Iran's land covered by forests and wetlands",
+    "label_fa": "از خاک ایران که جنگل‌ها و تالاب‌ها پوشانده‌اند",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.07
+   },
+   {
+    "value_en": "0.18 ha",
+    "value_fa": "۰٫۱۸ هکتار",
+    "label_en": "forest per Iranian, under a quarter of the world per-capita share",
+    "label_fa": "سهم جنگل هر ایرانی، کمتر از یک‌چهارم سرانه جهانی",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": ">90%",
+    "value_fa": "بیش از ۹۰٪",
+    "label_en": "of recent forest fires caused by people",
+    "label_fa": "از آتش‌سوزی‌های اخیر جنگل با عامل انسانی",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.9
+   },
+   {
+    "value_en": ">35,000 billion tomans",
+    "value_fa": "بیش از ۳۵ هزار میلیارد تومان",
+    "label_en": "economic damage of the 2019 Nowruz flood (14,000 km of roads lost)",
+    "label_fa": "خسارت سیل نوروز ۹۸ به اقتصاد کشور (۱۴ هزار کیلومتر راه از بین رفت)",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-d356f3a2-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/d356f3a2/",
+  "date": "2019-07-04",
+  "title_fa": "اینجا سراوان است؛ آخرِ دنیا! اما می‌توانست اولِ دنیا هم باشد …",
+  "quote_fa": "می‌دانید این رودخانه‌ی سمی چند سال است که با دبی متوسط هفت‌لیتر درثانیه – معادل ۵۶۰مترمکعب در روز – به سمت رودخانه زردچوب یا زرجوب از وسط شهر رشت گذشته، وارد پیربازار و در نهایت تالاب بین‌المللی انزلی می‌شود؟ … آیا می‌دانید بخشی از این شیرابه‌ها وارد اراضی کشاورزی و شالیزارها می‌شود؟ واقعاً جان انسان چقدر می‌ارزد؟ چگونه نتوانستیم برای حل این مشکل حدود دویست‌میلیاردتومان فراهم کنیم به قیمت سال نود و دو؟ اما به بهانه افت کیفیت منابع آب استان، بیش از بیست‌هزارمیلیارد تومان خرج سدسازی کرده و میلیون‌ها درخت را در بالادست نابود کردیم؟",
+  "quote_en": "Do you know for how many years this toxic river, with an average flow of seven liters per second, equal to 560 cubic meters a day, has been flowing toward the Zarduchub or Zarjub river through the middle of Rasht, into Pirbazar and finally into the international Anzali wetland? … Do you know that part of this leachate enters farmland and rice paddies? Really, what is a human life worth? How could we not find about two hundred billion tomans, at 2013 prices, to solve this problem? Yet on the pretext of the falling quality of the province's water resources, we spent more than twenty thousand billion tomans on dam-building and destroyed millions of trees upstream?",
+  "topics": [
+   "pollution",
+   "water"
+  ],
+  "places": [
+   "saravan-landfill",
+   "anzali-wetland",
+   "gilan-dams"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "7 L/s",
+    "value_fa": "۷ لیتر در ثانیه",
+    "label_en": "of leachate from the Saravan landfill flowing toward Anzali wetland (560 m³ a day)",
+    "label_fa": "شیرابه محل دفن زباله سراوان که به سمت تالاب انزلی می‌رود (۵۶۰ مترمکعب در روز)",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "200 vs 20,000 billion tomans",
+    "value_fa": "۲۰۰ در برابر ۲۰ هزار میلیارد تومان",
+    "label_en": "cost of fixing the Saravan leachate against what Gilan spent on dams",
+    "label_fa": "هزینه حل مشکل شیرابه سراوان در برابر هزینه سدسازی در گیلان",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Fixing the leachate",
+      "label_fa": "حل مشکل شیرابه",
+      "value": 200
+     },
+     {
+      "label_en": "Dam-building",
+      "label_fa": "سدسازی",
+      "value": 20000
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h0f737de-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h0f737de/",
+  "date": "2019-07-17",
+  "title_fa": "چرا هورالعظیم را از یاد بردیم؟!",
+  "quote_fa": "گذشته‌ها گذشته، امروز اما مطالبه نخست مردم خوزستان باید تامین حقابه هورالعظیم به میزان دومیلیاردمترمکعب مقدم بر حقابه کشاورزی و صنعت از کرخه باشد. اگر به هر دلیل چنین مطالبه‌ای پیگیری نشود، خوزستان هرسال شرایطی دشوارتر برای زیستن را تجربه خواهد کرد؛ درست مثل اصفهان که اگر می‌خواهد کیفیتی درخور از زیستن را تجربه کند، باید اختصاص حقابه گاوخونی – حدود ۱۷۰میلیون‌متر مکعب – را مقدم بر حقابه کشاورزی و صنعت فریاد بزند.",
+  "quote_en": "What's past is past; but today the first demand of the people of Khuzestan must be supplying Hoor al-Azim's water right of two billion cubic meters from the Karkheh, ahead of the water rights of agriculture and industry. If for any reason this demand is not pursued, Khuzestan will experience harder living conditions every year; just like Isfahan, which, if it wants a decent quality of life, must loudly demand that Gavkhouni's water right, about 170 million cubic meters, be allocated ahead of agriculture and industry.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "hoor-al-azim",
+   "khuzestan",
+   "gavkhouni"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "2 billion m³",
+    "value_fa": "۲ میلیارد مترمکعب",
+    "label_en": "water right Hoor al-Azim needs from the Karkheh",
+    "label_fa": "حقابه لازم هورالعظیم از کرخه",
+    "kind": "claim",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "~170 million m³",
+    "value_fa": "حدود ۱۷۰ میلیون مترمکعب",
+    "label_en": "Gavkhouni wetland's water right",
+    "label_fa": "حقابه تالاب گاوخونی",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-h36d5c5c-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h36d5c5c/",
+  "date": "2019-07-19",
+  "title_fa": "برای نجات اهواز چه باید کرد؟!",
+  "quote_fa": "وقتی سی‌درصد تالاب شادگان را خشک کردیم تا در بالادست رودخانه زهره بارگذاری‌های جدید تعریف کنیم؛ وقتی چشمان خویش را به تخلف آشکار در پایین‌دست کرخه بسته و اجازه دادیم تا هفتادهزار هکتار شالیکاری ایجادشود تا آب به مخازن سوم تا پنجم هورالعظیم نرسد؛ … وقتی با تعدد اجرای سدسازی و طرح‌های انتقال آب، بیش از یک میلیون نفر نخل را در اروندکنار و شادگان نابود کردیم؛ معلومه که ظرفیت گرمایی ویژه خوزستان و به‌ویژه سرزمین‌های اطراف اهواز را کاهش داده و مرکز خوزستان را به سکونتگاهی غیرقابل تحمل بدل ساختیم. … اگر می‌خواهید ورق برگردد و خوزستان و اهواز و آبادان و خرمشهر و سوسنگرد و بستان و مسجد‌سلیمان و ماهشهر و بهبهان و دیگر شهرهای استان از شرایطی قابل‌زیست‌تر برخوردار باشند، باید حقابه شش‌تالاب اصلی استان مقدم بر کشاورزی و صنعت فراهم شود",
+  "quote_en": "When we dried out thirty percent of the Shadegan wetland to define new developments upstream on the Zohreh river; when we turned a blind eye to blatant violations downstream of the Karkheh and allowed seventy thousand hectares of rice paddies to be created so that water would not reach the third to fifth reservoirs of Hoor al-Azim; … when, with multiple dam-building and water transfer projects, we destroyed more than one million palm trees in Arvandkenar and Shadegan; naturally we reduced the specific heat capacity of Khuzestan, and especially of the lands around Ahvaz, and turned the capital of Khuzestan into an unbearable place to live. … If you want the tide to turn and for Khuzestan, Ahvaz, Abadan, Khorramshahr, Susangerd, Bostan, Masjed Soleyman, Mahshahr, Behbahan and the province's other cities to become more livable, the water rights of the province's six main wetlands must be supplied ahead of agriculture and industry",
+  "topics": [
+   "water",
+   "climate",
+   "desertification-land"
+  ],
+  "places": [
+   "ahvaz",
+   "shadegan",
+   "hoor-al-azim",
+   "khuzestan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "30%",
+    "value_fa": "۳۰٪",
+    "label_en": "of Shadegan wetland dried out for upstream development on the Zohreh",
+    "label_fa": "از تالاب شادگان که برای بارگذاری در بالادست زهره خشک شد",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.3
+   },
+   {
+    "value_en": "70,000 ha",
+    "value_fa": "۷۰ هزار هکتار",
+    "label_en": "of rice paddies allowed downstream of the Karkheh, cutting water to Hoor al-Azim",
+    "label_fa": "شالیزاری که در پایین‌دست کرخه ایجاد شد و آب را از هورالعظیم گرفت",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": ">1 million",
+    "value_fa": "بیش از یک میلیون",
+    "label_en": "palm trees destroyed in Arvandkenar and Shadegan",
+    "label_fa": "نخل نابودشده در اروندکنار و شادگان",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-a1ad8f33-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/a1ad8f33/",
+  "date": "2019-07-22",
+  "title_fa": "رمزگشایی از تخریب سرزمین در ایران با همین فیلم کوتاه اما گویا!",
+  "quote_fa": "اینجا شمال خوزستان در قلمرو شهرستان ایذه است. عملیات احداث یک جاده روستایی در حوالی دهکده گلزار. نگاه کنید که چگونه با خونسردی و خشونت کامل بلوط‌های زاگرس را در اثر انفجاری مهیب متلاشی کرده و هزاران تن خاک ارزشمند را نابود می‌کنیم. … با خود می‌گویم: مگر نمی‌بینند افزایش محسوس نرخ فرسایش خاک را که به بیش از سی‌تن در هکتار رسیده است؟ مگر نمی‌بینند که با ریشه‌کن کردن بلوط‌ها، ارژن‌ها و بنه‌ها، تنوع زیستی کاهش یافته، سیل‌های ویرانگر افزایش یافته و چشمه‌ها شتابناک‌تر می‌خشکند و مهاجرت تسریع می‌شود؟",
+  "quote_en": "This is northern Khuzestan, in Izeh county: construction of a village road near the village of Golzar. Look how, with total coolness and violence, we blow apart Zagros oaks in a huge explosion and destroy thousands of tonnes of precious soil. … I ask myself: don't they see the marked rise in the soil erosion rate, which has passed thirty tonnes per hectare? Don't they see that by uprooting oaks, wild almonds and wild pistachios, biodiversity has declined, devastating floods have increased, springs are drying up faster and migration is accelerating?",
+  "topics": [
+   "forests-rangelands",
+   "desertification-land"
+  ],
+  "places": [
+   "izeh"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": ">30 t/ha",
+    "value_fa": "بیش از ۳۰ تن در هکتار",
+    "label_en": "soil erosion rate he cites",
+    "label_fa": "نرخ فرسایش خاک",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h6454b5c-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h6454b5c/",
+  "date": "2019-08-06",
+  "title_fa": "«گزارشی از همایش باید ها و نباید های توسعه پایدار در خوانسار»",
+  "quote_fa": "خاک خوانسار، یکی از عمیق ترین و حاصل خیز ترین خاک های آسیای جنوب غربی است. اما در منطقه ای که برخوردار از بالاترین مزیت تولید محصولات کشاورزی و باغی است. درخت ها را قطع می کنیم و در این خاک خانه و ویلا می سازیم. در حقیقت شکلات می گیریم و الماس می دهیم. … خوانساربا کمترین میزان گردو غبار و دمای پایین تر از ۴۰ درجه، ظرفیت خوبی برای استفاده از انرژی خورشیدی است و می توان روی همه ی پشت بام ها، پنل خورشیدی نصب کرد.",
+  "quote_en": "Khansar's soil is one of the deepest and most fertile soils in southwest Asia. Yet in a region with the greatest advantage for producing farm and orchard crops, we cut down the trees and build houses and villas on this soil. In effect, we take chocolate and give away diamonds. … With minimal dust and temperatures below 40 degrees, Khansar has good capacity for using solar energy, and solar panels could be installed on every rooftop.",
+  "topics": [
+   "desertification-land",
+   "energy"
+  ],
+  "places": [
+   "khansar"
+  ],
+  "scope": "local",
+  "figures": []
+ },
+ {
+  "id": "web-a91c478a-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/a91c478a/",
+  "date": "2019-08-26",
+  "title_fa": "حفظ جنگل در ایران اولویت ندارد!",
+  "quote_fa": "به‌طور متوسط سالانه حدود ۱۰ تا ۱۳ هزار هکتار از جنگل‌هایمان طعمه حریق شده و از بین می‌رود. ایران کشوری است که در طبقه‌بندی سازمان ملل، اصطلاحا در شمار کشورهای دارای پوشش اندک جنگل قرار گرفته است. ما به‌شدت از منظر حفظ پوشش‌های گیاهی‌مان، آسیب‌پذیر و شکننده هستیم. تنها ۷ درصد از خاک ایران، رویشگاه‌های جنگلی است و به همین دلیل سهم هر ایرانی از جنگل، کمتر از ۱۸ صدم هکتار است درحالی‌که سهم هرکدام از ۷.۵ میلیارد نفر ساکنان کره زمین حدود ۸دهم هکتار جنگل است. به‌عبارت دیگر ما در ایران کمتر از یک چهارم متوسط جهانی از جنگل سهم داریم. با وجود این بخشی از ارزشمندترین، بی‌رقیب‌ترین و باستانی‌ترین جنگل‌های جهان در ایران قرار گرفته است؛ جنگل‌های هیرکانی، که خوشبختانه ۳۰۷هزار هکتارش به‌عنوان میراث طبیعی و مشترک در یونسکو به ثبت رسید.",
+  "quote_en": "On average, about 10 to 13 thousand hectares of our forests fall prey to fire and are lost every year. Iran is a country that, in the United Nations classification, is counted among the so-called low forest cover countries. We are extremely vulnerable and fragile in terms of preserving our vegetation cover. Only 7 percent of Iran's land is forest habitat, and for this reason each Iranian's share of forest is less than 0.18 hectares, whereas the share of each of the 7.5 billion inhabitants of the planet is about 0.8 hectares of forest. In other words, in Iran we have less than a quarter of the world average share of forest. Despite this, some of the world's most valuable, unrivalled and ancient forests are in Iran: the Hyrcanian forests, 307 thousand hectares of which were fortunately inscribed with UNESCO as a shared natural heritage.",
+  "topics": [
+   "forests-rangelands"
+  ],
+  "places": [
+   "hyrcanian-forests"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "10–13 thousand ha",
+    "value_fa": "۱۰ تا ۱۳ هزار هکتار",
+    "label_en": "of Iran's forests lost to fire every year on average",
+    "label_fa": "از جنگل‌های ایران که به‌طور متوسط هر سال در آتش از بین می‌رود",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "7%",
+    "value_fa": "۷ درصد",
+    "label_en": "of Iran's land is forest habitat",
+    "label_fa": "از خاک ایران که رویشگاه جنگلی است",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.07
+   },
+   {
+    "value_en": "0.18 ha",
+    "value_fa": "۱۸ صدم هکتار",
+    "label_en": "forest per Iranian (world average: 0.8 ha)",
+    "label_fa": "سهم هر ایرانی از جنگل (میانگین جهان: ۸ دهم هکتار)",
+    "kind": "claim",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "World average",
+      "label_fa": "میانگین جهان",
+      "value": 0.8
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 0.18
+     }
+    ]
+   },
+   {
+    "value_en": "307 thousand ha",
+    "value_fa": "۳۰۷ هزار هکتار",
+    "label_en": "of Hyrcanian forest inscribed by UNESCO",
+    "label_fa": "از جنگل‌های هیرکانی که در یونسکو ثبت شد",
+    "kind": "claim",
+    "tone": "recovery"
+   }
+  ]
+ },
+ {
+  "id": "web-f02716ab-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/f02716ab/",
+  "date": "2019-09-06",
+  "title_fa": "یک گزارش تکان‌دهنده که همه‌ی دنیا به جز ایران را لرزاند!",
+  "quote_fa": "وقتی در ایالات متحده آمریکا و دیگر کشورهای پیشرفته در اروپا، استرالیا و آسیای جنوب شرقی، نشانزدهای نامیمونِ پلاستیک به همه‌ی ابعاد زندگی و سلامت شهروندان نفوذ کرده؛ می‌توان تصور کرد که تا چه‌اندازه این وضعیت در ایران بغرنج‌تر است؛ چرا که میزان مصرف پلاستیک در ایران بین دو تا ۳.۵برابرِ سرانه مصرف پلاستیک در جهان است! … به گمانم مطالبه‌ی همه شهروندان از دولت باید ممنوع اعلام‌کردن پلاستیک در کل کشور باشد.",
+  "quote_en": "When in the United States and other developed countries in Europe, Australia and Southeast Asia the unfortunate effects of plastic have penetrated every aspect of citizens' lives and health, one can imagine how much more complicated this situation is in Iran, because plastic consumption in Iran is between two and 3.5 times the world's per-capita plastic consumption! … I think every citizen's demand of the government should be to ban plastic across the whole country.",
+  "topics": [
+   "pollution"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "2–3.5×",
+    "value_fa": "۲ تا ۳٫۵ برابر",
+    "label_en": "Iran's per-capita plastic consumption against the world average",
+    "label_fa": "سرانه مصرف پلاستیک در ایران نسبت به میانگین جهانی",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-ddf009a8-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/ddf009a8/",
+  "date": "2019-09-15",
+  "title_fa": "کجای دنیا هزاران درخت بلوط ۱۰۰ تا پانصدساله را ریشه‌کن می‌کنند تا بر عرضِ یک محور ۳۰کیلومتری بیافزایند؟!",
+  "quote_fa": "این ۱۵هزار بلوط را دیگر نه آن کشاورز، نه آن قاچاقچی چوب، نه آن زغال‌فروش، نه آن جنگلخوار و نه آن دامدار ریشه‌کن نکرده؛ حتی بهانه قطع این درختان ساخت حوزه علمیه هم نیست! بلکه دولت عاملِ آن است … صدها جاده‌ی باریک‌تر از محور سی‌سخت به یاسوج در دامنه‌های آلپ واقع در قلمرو اتحادیه اروپا وجود دارد که حجم ترافیکش هم به مراتب بیشتر است؛ اما هرگز اجازه‌ی افزایش عرض معبر در طول هفتادسال اخیر نیافتند، زیرا باور دارند که ارزش میلیون‌ها شکلات هم برابر با یک گرم الماس نیست.",
+  "quote_en": "These 15,000 oaks were not uprooted by a farmer, a timber smuggler, a charcoal seller, a forest grabber or a herder; the excuse for cutting them is not even building a seminary! Rather, the government is the one doing it … There are hundreds of roads narrower than the Sisakht–Yasuj road on the slopes of the Alps within the European Union, with far heavier traffic; yet in the past seventy years they have never been allowed to widen the roadway, because they believe that millions of chocolates are not worth one gram of diamond.",
+  "topics": [
+   "forests-rangelands",
+   "policy-governance"
+  ],
+  "places": [
+   "kohgiluyeh"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "15,000",
+    "value_fa": "۱۵ هزار",
+    "label_en": "oaks (100 to 500 years old) uprooted to widen the Sisakht–Yasuj road",
+    "label_fa": "بلوط ۱۰۰ تا ۵۰۰ ساله که برای تعریض محور سی‌سخت–یاسوج ریشه‌کن شد",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h87daa46-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h87daa46/",
+  "date": "2019-09-30",
+  "title_fa": "این بازی کودکانه را در کارون، زاینده‌رود، اترک، زاب، هلیل‌رود و میناب سالهاست که داریم انجام می‌دهیم!",
+  "quote_fa": "سازمان آب و برق خوزستان چند سال پیش نتایج مطالعه‌ای تحلیلی را منتشر کرد که برمبنای آن، سازندگان سدهای برق/آبی خوزستان سالانه هزارمیلیاردتومان ضرر می‌کنند؛ زیرا به دلیل بارگذاری‌ها در استان‌های بالادست و اجرای طرح‌های انتقال آب، عملاً آبِ کمتری به پایین‌دست می‌رسد که بخواهد در فرآیند تولید انرژی قرار گیرد! … در اصفهان سالهاست که چند طرح انتقال آب اجراشده و چندصدمیلیون مترمکعب آب توسط تونل‌های کوهرنگ از سرشاخه‌های کارون به زاینده‌رود انتقال می‌یابد. اما در بالادست زاینده‌رود صدها موتورپمپ در زیر سد شاه‌عباس و در منطقه‌ی سامان، آب را به ارتفاعات می‌برد تا باغداری در چهارمحال‌و‌بختیاری گسترش یابد!",
+  "quote_en": "The Khuzestan Water and Power Organization published the results of an analytical study a few years ago according to which the builders of Khuzestan's hydroelectric dams lose a thousand billion tomans a year, because, due to the loading in upstream provinces and water transfer projects, less water actually reaches downstream to be used for producing energy! … In Isfahan, several water transfer projects have been carried out for years, and several hundred million cubic metres of water are transferred through the Kuhrang tunnels from the headwaters of the Karun to the Zayandeh Rud. But upstream of the Zayandeh Rud, hundreds of motor pumps below the Shah Abbas dam and in the Saman area carry the water up to the highlands so that orchards can expand in Chaharmahal and Bakhtiari!",
+  "topics": [
+   "water",
+   "energy",
+   "policy-governance"
+  ],
+  "places": [
+   "khuzestan",
+   "karun",
+   "zayandeh-rud",
+   "chaharmahal"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "1,000 billion tomans",
+    "value_fa": "هزار میلیارد تومان",
+    "label_en": "lost each year by Khuzestan's hydropower dams because less water reaches them",
+    "label_fa": "زیان سالانه سدهای برق‌آبی خوزستان به دلیل کاهش آب رسیده به آنها",
+    "kind": "study",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h87daa46-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h87daa46/",
+  "date": "2019-09-30",
+  "title_fa": "این بازی کودکانه را در کارون، زاینده‌رود، اترک، زاب، هلیل‌رود و میناب سالهاست که داریم انجام می‌دهیم!",
+  "quote_fa": "در شهری مثل قم که توان سرزمینی‌اش، استعداد پذیرایی از دویست‌هزارنفر را هم ندارد، دومیلیون نفر می‌خواهیم مستقر کنیم و آنگاه صدها کاریز را در باختر اشترانکوه در حدفاصل دورود تا الیگودرز خشک کرده، ده‌ها هزار سنگ‌نگاره چند هزارساله یا همان موزه‌هایی در باد را به آب می‌سپاریم تا قیمت مسکن در قم هم میلیاردی شود!",
+  "quote_en": "In a city like Qom, whose land capacity cannot even host two hundred thousand people, we want to settle two million, and then we dry up hundreds of qanats west of Oshtorankuh between Dorud and Aligudarz and hand over tens of thousands of several-thousand-year-old petroglyphs — those museums in the wind — to the water, so that housing prices in Qom can also reach billions!",
+  "topics": [
+   "water",
+   "desertification-land"
+  ],
+  "places": [
+   "qom"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "200,000 vs 2 million",
+    "value_fa": "۲۰۰ هزار در برابر ۲ میلیون",
+    "label_en": "people Qom's land can support, against the population planned for it",
+    "label_fa": "جمعیتی که توان سرزمینی قم پذیرای آن است، در برابر جمعیتی که برایش برنامه‌ریزی شده",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Capacity",
+      "label_fa": "توان سرزمینی",
+      "value": 200000
+     },
+     {
+      "label_en": "Planned",
+      "label_fa": "برنامه‌ریزی‌شده",
+      "value": 2000000
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h958bb7a-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h958bb7a/",
+  "date": "2019-10-13",
+  "title_fa": "اگر تداوم حیات زاینده‌رود برای ما مهم است، باید بر سر حقابه‌ی گاوخونی به نفع کشاورزی و صنعت معامله نکنیم!",
+  "quote_fa": "خسارتِ خشک‌ماندنِ گاوخونی دستکم سالی پنج تا شش‌برابرِ عوایدی است که از محل ربایشِ حق گاوخونی به بخش کشاورزی و صنعت اختصاص یافته است. کدام عقل سلیمی بر چنین معامله‌ی نابخردانه‌ای مهر تایید می‌زند؟! … دراین میان چیزی حدود ۱۰ درصد از تولید سالانه‌ی آب در حوضه آبخیز زاینده‌رود که نباید از ۱۶۰میلیون مترمکعب کمتر باشد، می‌تواند ژینایی نسبی را به این تالاب برگرداند و بخش بزرگی از مصیبت‌های پیش‌گفته را مهار سازد.",
+  "quote_en": "The damage from Gavkhouni being left dry is at least five to six times a year the revenue gained by diverting Gavkhouni's share to agriculture and industry. What sound mind would approve such a foolish deal?! … Meanwhile, about 10 percent of the annual water yield of the Zayandeh Rud basin, which should be no less than 160 million cubic metres, could bring relative life back to this wetland and contain a large part of the afflictions mentioned above.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "gavkhouni",
+   "zayandeh-rud"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "5–6×",
+    "value_fa": "۵ تا ۶ برابر",
+    "label_en": "yearly damage of a dry Gavkhouni against the revenue from diverting its water share",
+    "label_fa": "خسارت سالانه خشک‌ماندن گاوخونی در برابر عواید ربودن حقابه‌اش",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "160 million m³",
+    "value_fa": "۱۶۰ میلیون مترمکعب",
+    "label_en": "of water a year (about 10% of the basin's yield) that could revive Gavkhouni",
+    "label_fa": "آب در سال (حدود ۱۰ درصد تولید حوضه) که می‌تواند گاوخونی را احیا کند",
+    "kind": "claim",
+    "tone": "recovery"
+   }
+  ]
+ },
+ {
+  "id": "web-bac17495-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/bac17495/",
+  "date": "2019-10-22",
+  "title_fa": "چرا آبِ زاینده‌رود به گاوخونی نمی‌رسد؟!",
+  "quote_fa": "اینکه چرا به گفته بابک ابراهیمی، معاون آب منطقه‌ای استان اصفهان وسعت اراضی کشاورزی از حدود ۳۰هزارهکتار در سال ۱۳۶۰ در بالادست سد زاینده‌رود در هر دو استان اصفهان و چهارمحال و بختیاری باید به ۷۸ هزار هکتار افزایش یابد که ۶۲هزارهکتار از این افزایش در استان اصفهان رخ داده است؟ و چرا تونل چشمه لنگان به جای آنکه آب بیشتری را به زاینده‌رود و گاوخونی برساند، نرسیده به مخزن سد، خرج کشاورزی‌های فاریاب جدید می‌شود؟",
+  "quote_en": "Why, according to Babak Ebrahimi, deputy of Isfahan Regional Water, should the area of farmland upstream of the Zayandeh Rud dam in both Isfahan and Chaharmahal and Bakhtiari provinces have increased from about 30 thousand hectares in 1360 [1981] to 78 thousand hectares, 62 thousand hectares of which increase happened in Isfahan province? And why is the Cheshmeh Langan tunnel, instead of bringing more water to the Zayandeh Rud and Gavkhouni, spent on new irrigated farming before reaching the dam reservoir?",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "zayandeh-rud",
+   "isfahan-province",
+   "chaharmahal"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "30k → 78k ha",
+    "value_fa": "۳۰ هزار ← ۷۸ هزار هکتار",
+    "label_en": "farmland upstream of the Zayandeh Rud dam, 1981 to 2019",
+    "label_fa": "اراضی کشاورزی بالادست سد زاینده‌رود، از ۱۳۶۰ تا ۱۳۹۸",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "1981",
+      "label_fa": "۱۳۶۰",
+      "value": 30000
+     },
+     {
+      "label_en": "2019",
+      "label_fa": "۱۳۹۸",
+      "value": 78000
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-af57afc5-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/af57afc5/",
+  "date": "2019-10-23",
+  "title_fa": "انتقال آب از خزر؛ یک دستور و هزار مشکل!",
+  "quote_fa": "قرار است مطابق این دستور، ۲۰۰میلیون متر مکعب آب به سمنان انتقال یابد، اما با گذشت بیش از هفت سال از تصویب این تخصیص هنوز پرسش‌ها و ابهام‌های فراوانی بی‌پاسخ مانده است؛ از جمله اینکه دقیقاً چند درخت و از چه گونه‌هایی در چه مساحتی قربانی اجرای این طرح در هیرکانی خواهد شد؟ اینکه ورود سالانه ۶میلیون تن نمک به این دریاچه بسته، آیا برای توان زیست‌پالایی کاسپین خطرآفرین نخواهد بود؟ … اصولاً برای استانی که هم‌اکنون سرانه آب در دسترس مردمش، بیشتر از میانگین کشوری است، راه‌های ارزان‌تری برای جبران کمبود آب شرب با تصحیح مدیریت مصرف، بازچرخانی آب، کاهش ضایعات بخش کشاورزی و مهار هدررفت از محل فرسودگی لوله‌های شهری وجود ندارد؟ و آیا انتقال آب به ارزش هرمترمکعب ۶۰هزار تومان می‌تواند در حوزه صنعت یا کشاورزی مقصد صرفه‌ی اقتصادی داشته باشد؟",
+  "quote_en": "Under this order, 200 million cubic metres of water is to be transferred to Semnan, but more than seven years after this allocation was approved, many questions and ambiguities remain unanswered; including exactly how many trees, of which species and over what area will be sacrificed for this project in the Hyrcanian forests? Whether the annual entry of 6 million tonnes of salt into this closed lake will not endanger the Caspian's self-purification capacity? … Basically, for a province where the per-capita water available to its people is already above the national average, aren't there cheaper ways to make up the shortage of drinking water by correcting demand management, recycling water, reducing agricultural losses and curbing losses from worn-out urban pipes? And can water transferred at 60 thousand tomans per cubic metre be economical for industry or agriculture at the destination?",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "caspian-sea",
+   "semnan-province",
+   "hyrcanian-forests"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "200 million m³",
+    "value_fa": "۲۰۰ میلیون مترمکعب",
+    "label_en": "of Caspian water a year planned for transfer to Semnan",
+    "label_fa": "آب خزر که قرار است سالانه به سمنان منتقل شود",
+    "kind": "target",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "6 million t",
+    "value_fa": "۶ میلیون تن",
+    "label_en": "of salt a year returned to the Caspian by the transfer project",
+    "label_fa": "نمکی که طرح انتقال سالانه وارد دریای خزر می‌کند",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "60,000 tomans",
+    "value_fa": "۶۰ هزار تومان",
+    "label_en": "cost per cubic metre of transferred Caspian water",
+    "label_fa": "هزینه هر مترمکعب آب انتقالی از خزر",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-d82bf4a8-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/d82bf4a8/",
+  "date": "2019-11-09",
+  "title_fa": "گزارش گفتگو با فعالان محیط‌زیستی در خوزستان بخش نخست:",
+  "quote_fa": "دوم اینکه خوزستان را باید به شرایط طبیعی آن بازگرداند و هرگز نباید در پهنه‌ای که هزاران سال ماهیت تالابی داشته، اقدام به کاشت نهال کرد. سزاوارترین خدمت، مطالبه‌ی حقابه‌ی پنج تالاب اصلی استان؛ یعنی هورالعظیم، شادگان، بامدژ، میانگران و شیمبار است. … به‌ویژه مالچ‌پاشی در منطقه میشداغ که خود برخوردار از ذخیره‌ی بذر و پوشش گیاهی درخور است، کاملاً اشتباه بوده و بهترین کار مدیریت چرا و قرق‌های برنامه‌ریزی شده است تا بدین‌ترتیب نیاز به صرف میلیاردهاتومان برای مالچ‌پاشی هم نباشد.",
+  "quote_en": "Second, Khuzestan must be returned to its natural conditions, and one should never plant saplings in an area that has been a wetland for thousands of years. The most worthy service is demanding the water rights of the province's five main wetlands: Hoor al-Azim, Shadegan, Bamdezh, Miangaran and Shimbar. … In particular, mulch spraying in the Mishdagh area, which itself has a good seed bank and vegetation cover, was completely wrong; the best approach is grazing management and planned enclosures, so that there is no need to spend billions of tomans on mulch spraying either.",
+  "topics": [
+   "desertification-land",
+   "water",
+   "dust-air"
+  ],
+  "places": [
+   "khuzestan",
+   "hoor-al-azim",
+   "shadegan",
+   "bamdezh",
+   "miangaran",
+   "shimbar"
+  ],
+  "scope": "regional",
+  "figures": []
+ },
+ {
+  "id": "web-d82bf4a8-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/d82bf4a8/",
+  "date": "2019-11-09",
+  "title_fa": "گزارش گفتگو با فعالان محیط‌زیستی در خوزستان بخش نخست:",
+  "quote_fa": "در بزرگ‌راه اهواز- ماهشهر که اکنون یکی از بزرگ‌ترین کانون‌های بحرانی فرسایش بادی و محل شکل‌گیری طوفان‌های شدید اهواز است؛ در گذشته زیستگاه اصلی شیر یال کوتاه ارژن بوده که اکنون منقرض شده است. در آن زمان، منطقه پر از ساوان‌ها و علفزارهای بلند و متراکم بود، اما با شکار و انقراض شیر ایرانی و افزایش فشار دام و تخریب زیستگاه به فاجعه‌ی امروز رسیدیم.",
+  "quote_en": "Along the Ahvaz–Mahshahr highway, which is now one of the largest critical hotspots of wind erosion and the place where Ahvaz's severe storms form, was once the main habitat of the short-maned lion of Arzhan, which is now extinct. At that time, the area was full of savannas and tall, dense grasslands, but with the hunting and extinction of the Persian lion, increasing livestock pressure and habitat destruction, we reached today's disaster.",
+  "topics": [
+   "biodiversity-wildlife",
+   "dust-air",
+   "desertification-land"
+  ],
+  "places": [
+   "khuzestan"
+  ],
+  "scope": "regional",
+  "figures": []
+ },
+ {
+  "id": "web-h22a2a9d-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h22a2a9d/",
+  "date": "2019-11-09",
+  "title_fa": "گزارش گفتگو با فعالان محیط‌زیستی در خوزستان بخش دوم و پایانی:",
+  "quote_fa": "در سمنان حدود ۵۰۰ میلیون مترمکعب هدررفت آب داریم که بیش از ۲ برابر مقدار طرح انتقال آب از کاسپین است، از سوی دیگر سرانه آب مردم سمنان بیشتر از میانگین کشوری است. اصولاً انتقال آب باید به عنوان آخرین گزینه و بعد از مدیریت مصرف آب در حوزه‌های شرب، کشاورزی و صنعت اتفاق افتد.",
+  "quote_en": "In Semnan we have about 500 million cubic metres of water loss, which is more than twice the amount of the Caspian water transfer project; besides, the per-capita water of Semnan's people is above the national average. In principle, water transfer should happen as the last option, after managing water use in drinking water, agriculture and industry.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "semnan-province",
+   "caspian-sea"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "500 million m³",
+    "value_fa": "۵۰۰ میلیون مترمکعب",
+    "label_en": "of water lost in Semnan, more than twice the planned Caspian transfer",
+    "label_fa": "هدررفت آب در سمنان، بیش از ۲ برابر طرح انتقال آب از خزر",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Caspian transfer",
+      "label_fa": "انتقال آب خزر",
+      "value": 200
+     },
+     {
+      "label_en": "Water lost in Semnan",
+      "label_fa": "هدررفت آب سمنان",
+      "value": 500
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h22a2a9d-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h22a2a9d/",
+  "date": "2019-11-09",
+  "title_fa": "گزارش گفتگو با فعالان محیط‌زیستی در خوزستان بخش دوم و پایانی:",
+  "quote_fa": "در کشوری که با تنش آبی مواجه است و میانگین ریزش‌های آسمانی‌اش یک‌سوم میانگین جهانی است نباید با افتخار از صادرات آب مجازی دفاع کرد و میزان صدور محصولاتی چون هندوانه، سیب، انار و … را به رخ کشیید. درواقع مشکل کم آبی در کشور ریشه در «خشکسالی مدیریتی» دارد. چراکه میزان آب قابل استحصال در کشور ۱۰۰ میلیارد مترمکعب است و نیاز آب شرب کشور با هشت درصد آن تامین می‌شود، بنابراین مشکل آب در ایران با کشوری همانند عربستان که به طور طبیعی با تنش آبی مواجه است و در مقابل سه میلیارد مترمکعب نیاز آب شرب، تنها یک میلیارد مترمکعب آب قابل استحصال دارد، متفاوت است.",
+  "quote_en": "In a country facing water stress, whose average precipitation is one-third of the world average, one should not proudly defend exporting virtual water and show off the export volume of products like watermelon, apples, pomegranates and so on. In fact, the water shortage in the country is rooted in 'managerial drought'. Because the country's exploitable water is 100 billion cubic metres and its drinking water needs are met with eight percent of it, so Iran's water problem differs from that of a country like Saudi Arabia, which naturally faces water stress and has only one billion cubic metres of exploitable water against three billion cubic metres of drinking water demand.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "100 billion m³",
+    "value_fa": "۱۰۰ میلیارد مترمکعب",
+    "label_en": "of exploitable water in Iran, 8% of which covers drinking needs",
+    "label_fa": "آب قابل استحصال ایران که ۸ درصد آن نیاز آب شرب را تأمین می‌کند",
+    "kind": "claim",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "1/3",
+    "value_fa": "یک‌سوم",
+    "label_en": "Iran's average precipitation relative to the world average",
+    "label_fa": "میانگین بارش ایران نسبت به میانگین جهانی",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.33
+   }
+  ]
+ },
+ {
+  "id": "web-h22a2a9d-3",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h22a2a9d/",
+  "date": "2019-11-09",
+  "title_fa": "گزارش گفتگو با فعالان محیط‌زیستی در خوزستان بخش دوم و پایانی:",
+  "quote_fa": "حتی در استانی مانند گیلان که ریزش‌های آسمانی‌اش چهار برابر نیاز آبی است، به بهانه تامین آب شرب، طرح‌های سدسازی در حال اجراست، زیرا به دلیل ورود شیرابه زباله و زهاب‌های کشاورزی به سفره‌های زیرزمینی و رودخانه‌ها، منابع آبی استان با افت کیفیت مواجه هستند، این در حالی‌است که برای حل مشکل کیفیت آب، به سراغ گران‌ترین و مخرب‌ترین گزینه، یعنی سدسازی می‌روند.",
+  "quote_en": "Even in a province like Gilan, whose precipitation is four times its water need, dam projects are being carried out on the pretext of supplying drinking water, because, due to landfill leachate and agricultural drainage entering aquifers and rivers, the province's water resources face declining quality; while to solve the water-quality problem they go for the most expensive and destructive option, namely dam building.",
+  "topics": [
+   "water",
+   "pollution"
+  ],
+  "places": [
+   "gilan-dams"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "4×",
+    "value_fa": "۴ برابر",
+    "label_en": "Gilan's precipitation relative to its water need",
+    "label_fa": "بارش گیلان نسبت به نیاز آبی آن",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-h3c7e521-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3c7e521/",
+  "date": "2019-11-15",
+  "title_fa": "چرا باید از واقعی‌شدنِ قیمت حامل‌های انرژی استقبال کرد؟",
+  "quote_fa": "در هر متر مربع ساختمان‌های ایران به طور متوسط ۳۰ متر مکعب گاز مصرف می‌شود، در حالیکه رقم مشابه برای اروپا ۵.۵ مترمکعب است. این در حالی است که میانگین دمای هوا و تابش خورشید در ایران آشکارا بیشتر از اروپاست. ارزش انرژی هدررفته به سالی ۵ میلیارد دلار می‌رسد",
+  "quote_en": "On average, 30 cubic metres of gas are consumed per square metre of building in Iran, while the equivalent figure for Europe is 5.5 cubic metres. And this while the average air temperature and sunshine in Iran are clearly higher than in Europe. The value of the wasted energy reaches 5 billion dollars a year",
+  "topics": [
+   "energy"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "30 m³",
+    "value_fa": "۳۰ مترمکعب",
+    "label_en": "of gas used per square metre of building in Iran (Europe: 5.5)",
+    "label_fa": "گاز مصرفی در هر متر مربع ساختمان در ایران (اروپا: ۵٫۵)",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Europe",
+      "label_fa": "اروپا",
+      "value": 5.5
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 30
+     }
+    ]
+   },
+   {
+    "value_en": "$5 billion",
+    "value_fa": "۵ میلیارد دلار",
+    "label_en": "value of energy wasted in Iran's buildings each year",
+    "label_fa": "ارزش انرژی هدررفته در ساختمان‌های ایران در هر سال",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h3c7e521-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3c7e521/",
+  "date": "2019-11-15",
+  "title_fa": "چرا باید از واقعی‌شدنِ قیمت حامل‌های انرژی استقبال کرد؟",
+  "quote_fa": "میانگین سرانه مصرف آب شرب در ایران ۲۰۴ لیتر در روز است. در حالیکه این رقم در سوئد ۱۶۴، در دانمارک، ۱۵۹؛ در اتریش ۱۵۳، در ایرلند ۱۴۲، در آلمان ۱۲۹، در بلژیک ۱۱۲ و در لهستان ۹۸ لیتر است. شما فکر می‌کنید چرا درکشوری که محدودیت منابع آب شیرین یک تهدید جدی محسوب شده و رکورد بالاترین میزان نشست زمین در جهان را به نام خود سند زده است، میزان مصرف سرانه آب مردمش از سرانه مصرف مردم قاره اروپا بیشتر است؟ آن هم قاره‌‌ای که سرانه آب در دسترسش دستکم چند برابر بیشتر از ایران است!",
+  "quote_en": "Average per-capita drinking-water consumption in Iran is 204 litres a day. Whereas this figure is 164 in Sweden, 159 in Denmark, 153 in Austria, 142 in Ireland, 129 in Germany, 112 in Belgium and 98 litres in Poland. Why do you think that in a country where limited freshwater is considered a serious threat, and which has set the world record for the highest rate of land subsidence, per-capita water use is higher than that of the people of the European continent? A continent whose per-capita available water is at least several times greater than Iran's!",
+  "topics": [
+   "water"
+  ],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "204 L/day",
+    "value_fa": "۲۰۴ لیتر در روز",
+    "label_en": "per-capita drinking-water use in Iran (Germany: 129, Poland: 98)",
+    "label_fa": "سرانه مصرف آب شرب در ایران (آلمان: ۱۲۹، لهستان: ۹۸)",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Germany",
+      "label_fa": "آلمان",
+      "value": 129
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 204
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h3c7e521-3",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3c7e521/",
+  "date": "2019-11-15",
+  "title_fa": "چرا باید از واقعی‌شدنِ قیمت حامل‌های انرژی استقبال کرد؟",
+  "quote_fa": "مصرف روزانه بنزین در ایران دستکم شش برابر متوسط جهانی و هفت برابر کشور همسایه، ترکیه است. به نحوی که شرکت ملی نفت ایران در بین ۵شرکت بزرگ تولیدکننده گازهای گلخانه‌ای – بالاتر از کارتل غول‌آسا و چند ملیتی BP – قرار گرفته … آیا می‌دانیم که فقط از محل آلودگی هوا در تهران سالانه ۲.۲ میلیارد دلار خسارت را به قیمت سال ۲۰۰۲ تحمل می‌کنیم؟!",
+  "quote_en": "Daily petrol consumption in Iran is at least six times the world average and seven times that of neighbouring Turkey. So much so that the National Iranian Oil Company ranks among the 5 largest producers of greenhouse gases – above the giant multinational cartel BP … Do we know that from air pollution in Tehran alone we bear 2.2 billion dollars of damage a year, at 2002 prices?!",
+  "topics": [
+   "energy",
+   "dust-air",
+   "climate"
+  ],
+  "places": [
+   "tehran"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "6×",
+    "value_fa": "۶ برابر",
+    "label_en": "Iran's daily petrol consumption against the world average (7× Turkey's)",
+    "label_fa": "مصرف روزانه بنزین ایران در برابر میانگین جهانی (۷ برابر ترکیه)",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "World average",
+      "label_fa": "میانگین جهان",
+      "value": 1
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 6
+     }
+    ]
+   },
+   {
+    "value_en": "$2.2 billion",
+    "value_fa": "۲٫۲ میلیارد دلار",
+    "label_en": "yearly damage from air pollution in Tehran alone (2002 prices)",
+    "label_fa": "خسارت سالانه آلودگی هوا فقط در تهران (به قیمت سال ۲۰۰۲)",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-e399f181-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/e399f181/",
+  "date": "2019-12-22",
+  "title_fa": "یک حرکت ارزشمند دیگر از شیرازی‌ها!",
+  "quote_fa": "از ایستگاه آبخوانداری کوثر واقع در گربایگان فسا هم خبر می‌رسد که طرح بزرگ جایگزینی گونه‌های بومی به جای درختان غیربومی اکالیپتوس آغاز شده که در مرحله نخستین، گونه‌هایی چون کُنار ایرانی (زیزیفوس اسپیناکریستی)، کنار رملک (زیزیفوس نومولاریا) ، اقاقیا (آکاسیا سالیسینا) و بادام تلخ (آمیگدالوس اسکوپاریا) در سطح ۱.۲ هکتار از قلمرو ۸۰ هکتاری جایگزین خواهد شد و به‌تدریج با بررسی نشانزدها قرار است ظرف ۱۰ سال آینده، گونه‌هایی در منطقه مستقر شوند که توانمندی‌ها و خواش‌های بوم‌شناختی سازگارتری با اقلیم و منابع آبی منطقه دارند. … امیدوارم این آغاز نهضتی باشد برای آنکه گونه‌های غیربومی چون پالونیا، کهور آمریکایی، کنوکارپوس، آتریپلکس و … به تدریج جای‌شان را به نمایندگان خزانه‌ی واقعی و بومی طبیعت وطن دهند.",
+  "quote_en": "From the Kowsar aquifer-management station in Gareh Bygone, Fasa, too, news arrives that a major plan to replace non-native eucalyptus trees with native species has begun; in the first phase, species such as Christ's thorn (Ziziphus spina-christi), Ziziphus nummularia, Acacia salicina and bitter almond (Amygdalus scoparia) will replace them on 1.2 hectares of the 80-hectare area, and gradually, by examining the indicators, species whose capabilities and ecological needs are better suited to the region's climate and water resources are to be established over the next 10 years. … I hope this is the beginning of a movement so that non-native species such as paulownia, American mesquite, conocarpus, atriplex and … gradually give way to representatives of the real, native treasury of our homeland's nature.",
+  "topics": [
+   "forests-rangelands",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "gareh-bygone"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "1.2 of 80 ha",
+    "value_fa": "۱٫۲ از ۸۰ هکتار",
+    "label_en": "first phase of replacing eucalyptus with native species at the Kowsar station, Fasa",
+    "label_fa": "مرحله نخست جایگزینی اکالیپتوس با گونه‌های بومی در ایستگاه کوثر فسا",
+    "kind": "target",
+    "tone": "recovery",
+    "share": 0.015
+   }
+  ]
+ },
+ {
+  "id": "web-b83f1cf7-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/b83f1cf7/",
+  "date": "2020-01-20",
+  "title_fa": "دوچرخه، سندرم باکستر، ترافیک و طرحهای انتقال آب!",
+  "quote_fa": "هم اکنون اعلام شده که تعداد خودروهای موجود در سطح معابر عمومی تهران، شش برابر ظرفیت خیابانهای پایتخت است. نتیجه اینکه بیش از ۲۰ میلیون ساعت از عمر تهرانیها روزانه در ترافیک تلف میشود معادل ۱۰ هزارمیلیارد تومان در سال. … اینکه در بسیاری از کشورهای جهان اینک دریافته اند راه مهار ترافیک و آلودگی هوا از ایجاد مسیرهای ایمن برای دوچرخه سواری، پیاده روی و گسترش وسایل حمل و نقل عمومی می گذرد، آشکارا نشانه آن است که باید نهضت بزرگراه سازی، تونل سازی، پل سازی و پارکینگ طبقاتی سازی را متوقف کرده و هزینه های گزاف این عملیات سازه ای را اختصاص به آفرینش و طراحی شهری با مبلمانی زیست محور دهیم.",
+  "quote_en": "It has now been announced that the number of cars on Tehran's public roads is six times the capacity of the capital's streets. As a result, more than 20 million hours of Tehranis' lives are wasted in traffic every day, equal to 10 thousand billion tomans a year. … That many countries around the world have now realized that the way to curb traffic and air pollution runs through creating safe routes for cycling and walking and expanding public transport is a clear sign that we must stop the movement of building highways, tunnels, bridges and multi-storey car parks and devote the huge costs of these structural operations to creating and designing cities with eco-centred urban furniture.",
+  "topics": [
+   "dust-air",
+   "policy-governance"
+  ],
+  "places": [
+   "tehran"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "6×",
+    "value_fa": "۶ برابر",
+    "label_en": "cars on Tehran's roads against the streets' capacity",
+    "label_fa": "خودروهای معابر تهران نسبت به ظرفیت خیابان‌ها",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Street capacity",
+      "label_fa": "ظرفیت خیابان‌ها",
+      "value": 1
+     },
+     {
+      "label_en": "Cars",
+      "label_fa": "خودروها",
+      "value": 6
+     }
+    ]
+   },
+   {
+    "value_en": ">20 million hours",
+    "value_fa": "بیش از ۲۰ میلیون ساعت",
+    "label_en": "lost by Tehranis in traffic every day (10,000 billion tomans a year)",
+    "label_fa": "عمر تهرانی‌ها که روزانه در ترافیک تلف می‌شود (۱۰ هزار میلیارد تومان در سال)",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-b83f1cf7-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/b83f1cf7/",
+  "date": "2020-01-20",
+  "title_fa": "دوچرخه، سندرم باکستر، ترافیک و طرحهای انتقال آب!",
+  "quote_fa": "آن مدیری که هدررفت ۳۵ میلیون تن مواد غذایی را در سال می بیند و میداند که سالی ۲۶.۷ میلیاردمتر مکعب از آبی که در اختیار بخش کشاورزی قرار میگیرد، به دلیل ضایعات نابود میشود و آنگاه نشانی غلط داده و برای حل بحران کمبود غذا و آب از تولید محصولات تراریخته دفاع میکند، در بهترین حالت دچار سندرم باکستر است!",
+  "quote_en": "The manager who sees 35 million tonnes of food wasted every year and knows that 26.7 billion cubic meters a year of the water given to the agriculture sector is lost through waste, and then points in the wrong direction and defends producing GM crops to solve the food and water shortage, has at best Boxer syndrome!",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "35 million t",
+    "value_fa": "۳۵ میلیون تن",
+    "label_en": "of food wasted in Iran every year",
+    "label_fa": "مواد غذایی هدررفته در ایران در سال",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "26.7 billion m³",
+    "value_fa": "۲۶٫۷ میلیارد مترمکعب",
+    "label_en": "of agricultural water lost each year through food waste",
+    "label_fa": "آب بخش کشاورزی که هر سال با ضایعات از دست می‌رود",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-c6bf4050-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/c6bf4050/",
+  "date": "2020-01-21",
+  "title_fa": "درسِ تلخی که از آبگیری سد ایلی‌سو باید بگیریم! بخش دوم و پایانی:",
+  "quote_fa": "در ماجرای غم‌انگیز آبگیری سد ایلی‌سو و دفنِ حسن‌کیف، ما اگر بیشتر از عراقی‌ها آسیب ندیده باشیم، کمتر هم آسیب ندیده‌ایم؛ چرا که جهت باد غالب از غرب به شرق است و دودِ خاک‌ِ خشک‌شده در پایین‌دست دجله به چشمِ مردم ما در کرمانشاه، ایلام و خوزستان خواهد رفت.",
+  "quote_en": "In the sad affair of filling the Ilisu dam and burying Hasankeyf, if we have not been harmed more than the Iraqis, we have not been harmed less either; because the prevailing wind blows from west to east, and the dust from the dried-up soil of the lower Tigris will get into the eyes of our people in Kermanshah, Ilam and Khuzestan.",
+  "topics": [
+   "dust-air",
+   "water"
+  ],
+  "places": [
+   "khuzestan",
+   "kermanshah-province",
+   "ilam-province"
+  ],
+  "scope": "international",
+  "figures": []
+ },
+ {
+  "id": "web-h81c9193-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h81c9193/",
+  "date": "2020-02-09",
+  "title_fa": "اگر در گیلان بودجه نیست تا تصفیه‌خانه‌ها تکمیل شده و کیفیت آب محافظت شود؛ پس سد خالصان چه می‌گوید؟!",
+  "quote_fa": "این سد که قرار است در دوازده‌کیلومتری پایین‌دست روستای زیبای ماسوله – در محلی موسوم به برکیله – و به گنجایش یازده میلیون متر مکعب روی رودخانه رودخان ساخته شود، میلیاردها تومان هزینه خواهد داشت. افزون برآن، دستکم بیست و نه هکتار از ارزشمندترین جنگل‌های هیرکانی را نابوده کرده و منجر به جابجایی اجباری حداقل پنجاه خانوار خواهد شد. دقت کنید که سد جدید در حالی در دستور کار قرارگرفته که چندین سد دیگر در استان گیلان به دلیل کمبود اعتبار سالهاست که به صورت نیمه‌کاره رها شده و بین ده تا شصت‌درصد پیشرفت کار داشته است. در عین حال، همه‌ی این سدها بخش مخرب خودشان، یعنی پاکتراشی جنگل را انجام داده‌اند!",
+  "quote_en": "This dam, which is to be built 12 kilometres downstream of the beautiful village of Masuleh – at a place called Barkileh – with a capacity of eleven million cubic metres on the Rudkhan river, will cost billions of tomans. Moreover, it will destroy at least twenty-nine hectares of the most valuable Hyrcanian forests and lead to the forced displacement of at least fifty households. Note that the new dam is on the agenda while several other dams in Gilan province have been left half-finished for years for lack of funds, at between ten and sixty percent progress. Meanwhile, all these dams have already done their destructive part, namely clear-cutting the forest!",
+  "topics": [
+   "water",
+   "forests-rangelands"
+  ],
+  "places": [
+   "khalesan-dam",
+   "hyrcanian-forests"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "29 ha",
+    "value_fa": "۲۹ هکتار",
+    "label_en": "of Hyrcanian forest the planned Khalesan dam would destroy",
+    "label_fa": "جنگل هیرکانی که سد خالصان نابود خواهد کرد",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "50 households",
+    "value_fa": "۵۰ خانوار",
+    "label_en": "to be forcibly displaced by the Khalesan dam",
+    "label_fa": "که با سد خالصان به اجبار جابه‌جا می‌شوند",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "11 million m³",
+    "value_fa": "۱۱ میلیون مترمکعب",
+    "label_en": "capacity of the planned Khalesan dam near Masuleh",
+    "label_fa": "گنجایش سد خالصان در نزدیکی ماسوله",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-h8685c4e-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h8685c4e/",
+  "date": "2020-02-13",
+  "title_fa": "سیلی سختِ طبیعت!",
+  "quote_fa": "زمانی که دشت مسیله قم روزگاری تاب‌آور و رویایی را سپری می‌کرد، ارتفاع پوشش‌های گیاهی در پایاب قم‌رود چنان زیاد بود که به راحتی می‌شد آنجا استتار کرد و به همین دلیل جولانگاهِ شکارچیانِ فراوانی برای شکار انواع علفخوارانی چون جبیر و پرندگان بود. … تقریباً روی همه‌ی رودخانه‌های منتهی به حوض‌سلطان و دریاچه نمک سد زدیم و اجازه ندادیم تا قطره‌ای آب از سوی قم‌رود، قره‌سو، وفرقان، جاجرود، کرج و خررود به سمت مسیله حرکت کند. اینک کار به جایی رسیده که شهرداری قم مجبور است روزانه چند تن ماسه را از کف معابر عمومی‌اش جمع کند و گنبد طلایی بارگاه حضرت معصومه (ع) پیوسته در معرض اصابتِ دانه‌های شن و ماسه، درخشندگی خود را از دست داده و مجبور به صرف هزینه‌های گزاف برای مرمت دوباره هستند. حالا قم به یکی از کلان‌شهرهای آسیب‌پذیر در مواجهه با پدیده‌ی جزیره‌گرمایی تبدیل شده و هرساله از تاب‌آوری‌اش کاسته می‌شود.",
+  "quote_en": "At a time when the Masileh plain of Qom was going through resilient, dreamlike days, the vegetation in the lower reaches of the Qom Rud was so tall that one could easily hide there, and for that reason it was the haunt of many hunters after herbivores such as the jebeer (Persian gazelle) and birds. … We dammed almost all the rivers flowing into Hoz-e Soltan and the Salt Lake and did not let a single drop of water from the Qom Rud, Qareh Su, Vafarqan, Jajrud, Karaj and Khar Rud move toward Masileh. Now things have reached the point where Qom municipality must collect several tonnes of sand from its public streets every day, and the golden dome of the shrine of Hazrat Masoumeh, constantly struck by grains of sand and grit, has lost its shine, and they must spend huge sums on restoring it again. Qom has now become one of the metropolises vulnerable to the urban heat-island effect, and its resilience diminishes every year.",
+  "topics": [
+   "desertification-land",
+   "water",
+   "dust-air"
+  ],
+  "places": [
+   "masileh-plain"
+  ],
+  "scope": "regional",
+  "figures": []
+ },
+ {
+  "id": "web-h669c107-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h669c107/",
+  "date": "2020-02-15",
+  "title_fa": "هرمز، چگونه هرمز می‌ماند؟!",
+  "quote_fa": "جزیره‌ای کوچکتر از پنجاه کیلومتر مربع که دستکم روزی هزارنفر از آن بازدید می‌کنند و گاه تعدادِ گردشگرانش بیشتر از حدود ۶هزارنفر اهالی ثابت هرمز است، چرا نمی‌تواند از محل عوارض ورود گردشگر مشکل زباله را به یک فرصت بدل کند؟ … چرا باید زباله را همچنان در جایی از جزیره، آنهم در زیستگاه لاکپشت پوزه‌عقابی و در جنب پاسگاه محیط‌بانی سازمان حفاظت محیط‌زیست رها کرده و سوزاند؟",
+  "quote_en": "Why can't an island smaller than fifty square kilometres, visited by at least a thousand people a day and whose tourists sometimes outnumber its roughly 6,000 permanent residents, turn its waste problem into an opportunity using tourist entry fees? … Why should waste still be dumped and burned in one part of the island, in the habitat of the hawksbill turtle and next to the Department of Environment's ranger post?",
+  "topics": [
+   "pollution",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "hormuz-island"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "1,000 a day",
+    "value_fa": "روزانه ۱۰۰۰ نفر",
+    "label_en": "visitors to Hormuz island, against about 6,000 permanent residents",
+    "label_fa": "بازدیدکننده جزیره هرمز، در برابر حدود ۶ هزار ساکن دائم",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-h5da48e3-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h5da48e3/",
+  "date": "2020-03-10",
+  "title_fa": "در حالیکه اروپا از زباله‌سوزها فاصله می‌گیرد، ایران به سمت آنها چراغ سبز نشان می‌دهد! چرا؟ بخش دوم و پایانی:",
+  "quote_fa": "در کشوری مانند ایران که به شدت با کمبود آب روبروست، اصولاً استفاده از زباله‌سوز که میزان مصرف آب زیادی دارد، نابخردانه است. این در حالی است که اصولاً بر مبنای مکتب اقتصاد آبی، چرا باید مواد با ارزشی که به غلط زباله نامیده می‌شود، به جای ورود به چرخه‌ی بازیافت، بسوزانیم و بدین‌ترتیب بر میزان انتشار گازهای گلخانه‌ای نیز بیافزاییم؟ تلاش برای تفکیک زباله از مبدا و بازیافت زباله‌های خشک و نیز تبدیل زباله‌های تر به کمپوست، بهترین و خردمندانه‌ترین راهکار است.",
+  "quote_en": "In a country like Iran that faces a severe water shortage, using incinerators, which consume a lot of water, is fundamentally unwise. And besides, on the basis of the blue economy, why should we burn valuable materials wrongly called waste instead of sending them into the recycling cycle, and thereby also add to greenhouse gas emissions? Efforts to separate waste at source, recycle dry waste and turn wet waste into compost are the best and wisest solution.",
+  "topics": [
+   "pollution",
+   "water",
+   "climate"
+  ],
+  "scope": "national",
+  "figures": []
+ },
+ {
+  "id": "web-h851df0f-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h851df0f/",
+  "date": "2020-04-18",
+  "title_fa": "مازندران چگونه به بیابانی سبز تبدیل خواهد شد؟",
+  "quote_fa": "حالا از مازندران خبر می‌رسد که قصه تلخ آمازون، شتابان در یکی از پرباران‌ترین مناطق ایران ممکن است تکرار شود، اگر با سوداگرانِ قاچاق خاک با جدیت و آنی برخورد نشود. تغییر کاربری آب‌بندان‌ها، برکه‌ها و تالاب‌های محلی به بهانه لایروبی که در جای‌جای مناطق شمالی کشور، به‌ویژه سه استان گیلان، گلستان و مازندران در حال وقوع است، به همراه تجاوز به عرصه‌های جنگلی، رشد قارچ‌گونه ویلا به جای بلوط و نابودی نظام آب‌شناختی رودخانه‌ها به دلیل برداشت‌های افزاینده شن و ماسه و ورود شیرابه‌ها و پساب‌ها به اندوخته‌های آب شیرین از جمله مهم‌ترین دلیل این رخداد مهیب است. … اینک یک پهنه‌ی بیست و سه هکتاری در قلمرو شهرستان بابل – بخش گَتاب، روستای ولوکلا – نیلوفرها و لاله‌های مردابی هوش‌ربا، خاک حاصلخیز و تاب‌آوری‌اش را از دست داد؛ آن هم به بهانه لایروبی و البته برای چند ریال سودِ آنی!",
+  "quote_en": "Now news comes from Mazandaran that the bitter story of the Amazon may be repeated, and fast, in one of Iran's rainiest regions, unless soil smugglers are dealt with seriously and immediately. The conversion of ab-bandans, ponds and local wetlands under the pretext of dredging, which is happening all over the northern regions of the country, especially the three provinces of Gilan, Golestan and Mazandaran, together with encroachment on forest lands, villas mushrooming in place of oaks, and the destruction of the rivers' hydrological system through increasing sand and gravel extraction and the entry of leachate and wastewater into freshwater reserves, are among the most important causes of this dreadful event. … Now a 23-hectare expanse in Babol county – Gatab district, Velukola village – has lost its captivating water lilies and marsh tulips, its fertile soil and its resilience; and that under the pretext of dredging and, of course, for a few rials of instant profit!",
+  "topics": [
+   "water",
+   "desertification-land",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "velukola"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "23 ha",
+    "value_fa": "۲۳ هکتار",
+    "label_en": "ab-bandan wetland at Velukola, Babol, destroyed for its soil",
+    "label_fa": "آب‌بندان ولوکلای بابل که برای فروش خاکش نابود شد",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h7487af0-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h7487af0/",
+  "date": "2020-04-21",
+  "title_fa": "وقتی وزارت نفت خطاهای نابخشودنی خویش را در هورالعظیم، عسلویه و عثمانوند را اینبار در اهرم بوشهر تکرار می‌کند!",
+  "quote_fa": "جایی در اهرم بوشهر، قلب یکی از طرح‌های مهم آبخوانداری منطقه به وسعت دوهزار و پانصد هکتار که حدود ربع قرن قدمت دارد و توانسته هم از شدت سیلاب‌های مخرب بکاهد و هم بر میزان ذخیره سفره‌های آب زیرزمینی به میزان شش‌میلیون‌متر مکعب در سال بیافزاید تا کشاورزان منطقه با امنیت بیشتر به کشت و کار خود ادامه دهند. … اینک اما پیمانکاران شرکت نفت با یازده دستگاه بلدوزر و بیل مکانیکی بدون هماهنگی و اطلاع متولیان پروژه در مرکز تحقیقات کشاورزی و منابع طبیعی استان وارد شده و اقدام به تخریب سازه‌های خاکی، سنگی ملاتی، توری گابیونی و بندهای خاکی ذخیره آب سیلاب کرده‌اند. درواقع با این اقدام شرکت نفت، دیگر نه تنها کل مسیرهای آبراهه‌های کنترل شده به عرض ۲۰ متر باز شده و دیگر آبی کنترل و ذخیره نمی‌شود، بلکه اراضی کشاورزی، جاده‌ها و منازل مسکونی نیز از خطر سیلاب در امان نخواهند بود.",
+  "quote_en": "Somewhere in Ahram, Bushehr, the heart of one of the region's important aquifer-management projects, covering 2,500 hectares, which is about a quarter of a century old and has managed both to reduce the severity of destructive floods and to add 6 million cubic meters a year to groundwater reserves, so that the region's farmers can carry on farming with greater security. … Now, however, oil company contractors with eleven bulldozers and excavators have entered without coordinating with or informing the project's custodians at the province's agriculture and natural resources research center, and have destroyed the earthen structures, stone-and-mortar structures, gabion mesh and earthen dikes that store floodwater. In fact, with this action by the oil company, not only have all the controlled waterways been opened up to a width of 20 meters, so that no water is controlled or stored any more, but farmland, roads and homes will no longer be safe from floods either.",
+  "topics": [
+   "water",
+   "desertification-land",
+   "energy"
+  ],
+  "places": [
+   "ahram-aquifer"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "6 million m³/yr",
+    "value_fa": "شش‌میلیون‌متر مکعب در سال",
+    "label_en": "added to groundwater by the Ahram aquifer-management project",
+    "label_fa": "افزایش ذخیره آب زیرزمینی به کمک طرح آبخوانداری اهرم",
+    "kind": "claim",
+    "tone": "recovery"
+   },
+   {
+    "value_en": "2,500 ha",
+    "value_fa": "دوهزار و پانصد هکتار",
+    "label_en": "area of the Ahram aquifer-management project",
+    "label_fa": "وسعت طرح آبخوانداری اهرم",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-acc26fb6-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/acc26fb6/",
+  "date": "2020-04-27",
+  "title_fa": "آلودگی دریای خزر ۴۰ برابر حد مجاز است!",
+  "quote_fa": "مهمترین ورودی آب به خزر از ولگا است که سالانه حدود ۲۶۰ میلیارد مترمکعب است و این در حالی است که کل آب قابل استحصال ایران ۱۰۰ میلیارد مترمکعب است بنابراین ولگا به تنهایی ۲،۶ برابر آب قابل استحصال ایران، آب وارد خزر می‌کند، علاوه بر آن ۲۰۰ رود دیگر هم آب وارد خزر می‌کنند.\n\nپایداری خزر وابستگی مستقیم به رودخانه‌ها و سدهای بالادست این رودها دارد، تا زمانی که وضعیت به همین شکل باشد، پیش‌بینی نمی‌شود ما با پدیده‌ای بنام خشک شدن خزر روبرو باشیم.\n\nالبته برنامه‌های درازمدت همه دولت‌های اطراف خزر ساختن سد است که تعداد احداث این سازه را به حدود ۲۰۰ می‌رساند، اگر این اتفاق بیفتد طبیعی است که میزان آبدهی ورودی به خزر به شدت کاهش یابد.\n\nبا این اوصاف مشکل اصلی خزر افت کیفیت آب و ورود گونه‌هایی از کانال دریای سیاه است که دشمن طبیعی ندارند و باعث از بین رفتن آبزیان موجود در این دریاچه می‌شوند.",
+  "quote_en": "The most important water inflow to the Caspian is from the Volga, about 260 billion cubic meters a year, while Iran's entire extractable water is 100 billion cubic meters; so the Volga alone brings 2.6 times Iran's extractable water into the Caspian, and on top of that 200 other rivers also bring water into the Caspian. The Caspian's sustainability depends directly on the rivers and the dams upstream of them; as long as the situation stays like this, we are not expected to face a phenomenon called the drying of the Caspian. Of course, the long-term plans of all the governments around the Caspian are to build dams, which would bring the number of these structures to about 200; if this happens, the inflow to the Caspian will naturally fall sharply. That said, the Caspian's main problem is the decline in water quality and the entry, through the Black Sea canal, of species that have no natural enemy and are destroying the existing aquatic life of this lake.",
+  "topics": [
+   "water",
+   "biodiversity-wildlife",
+   "pollution"
+  ],
+  "places": [
+   "caspian-sea"
+  ],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "2.6×",
+    "value_fa": "۲٫۶ برابر",
+    "label_en": "Volga's yearly inflow to the Caspian against all of Iran's extractable water",
+    "label_fa": "آب ورودی سالانه ولگا به خزر در برابر کل آب قابل استحصال ایران",
+    "kind": "claim",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "Iran's extractable water",
+      "label_fa": "آب قابل استحصال ایران",
+      "value": 100
+     },
+     {
+      "label_en": "Volga inflow",
+      "label_fa": "ورودی ولگا",
+      "value": 260
+     }
+    ]
+   },
+   {
+    "value_en": "~200 dams",
+    "value_fa": "حدود ۲۰۰ سد",
+    "label_en": "planned by the Caspian states on rivers feeding the sea",
+    "label_fa": "سدهای برنامه‌ریزی‌شده کشورهای حاشیه خزر روی رودهای ورودی",
+    "kind": "target",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-ce6e7ada-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/ce6e7ada/",
+  "date": "2020-04-29",
+  "title_fa": "در ستایش حالِ خوبِ مرغ‌های جیرفتی در پاقلات!",
+  "context_fa": "درباره مرغ جیرفتی (کمنزیل) در جنوب ایران",
+  "context_en": "On the grey francolin (Jiroft partridge) in southern Iran",
+  "quote_fa": "متاسفانه این عضو مسوولیت‌پذیر، زیبا و خوش‌صدای بوم‌سازگان – اکوسیستم – حدود دو دهه است که در قلمرو زیستی‌اش در ایران – عمدتاً در بلوچستان، هرمزگان، کرمان و جنوب استان فارس – تا آستانه‌ی انقراض کامل پیش رفته؛ چرا که شکارچی‌ها گوشتش را لذیذ می‌دانند و کندودارها او را دشمنِ زنبورهای عسل! … وقتی علی نصیری و یارانش موجی بزرگ و امیدبخش در پاقلات و آبادبوم‌های اطرافش راه انداخته و به کمک مردم، یک منطقه چندهزارهکتاری شکار ممنوع را حراست می‌کنند، به نحوی که بر شمارِ کل و بزها، روباه‌ها، پلنگ‌ها، کفتارها، زنبورها، کهورها و کُنارها هم افزوده شده است",
+  "quote_en": "Unfortunately, this responsible, beautiful and sweet-voiced member of the ecosystem has for about two decades been pushed to the brink of complete extinction across its range in Iran – mainly Baluchestan, Hormozgan, Kerman and the south of Fars province – because hunters find its meat tasty and beekeepers see it as the enemy of honeybees! … When Ali Nasiri and his companions start a great and hopeful wave in Paqalat and the villages around it and, with the people's help, guard a no-hunting area of several thousand hectares, so that the numbers of wild goats, foxes, leopards, hyenas, bees, kahur and kunar trees have also increased",
+  "topics": [
+   "biodiversity-wildlife",
+   "activism-society"
+  ],
+  "places": [
+   "paqalat"
+  ],
+  "scope": "local",
+  "figures": []
+ },
+ {
+  "id": "web-h7043fab-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h7043fab/",
+  "date": "2020-05-03",
+  "title_fa": "چرا کامِ کافتر همچنان تلخ است؟!",
+  "quote_fa": "دریاچه کافتر یا شادکام با بیست و پنج میلیون متر مکعب گنجایش و حدود پنج‌هزار هکتار وسعت یکی از مهم‌ترین تالاب‌های آب شیرین استان فارس در قلمرو شهرستان اقلید است که متاسفانه با وجود آنکه برای دومین سال پیاپی در ترسالی به‌سر برده و میزان ریزش‌های آسمانی‌اش به حدود پانصدمیلی‌متر – ۶۰درصد بیشتر از میانگین درازمدت – رسیده است، اما همچنان سهم عمده‌ای از مساحتش خشک مانده است! … درحالیکه متهم شماره نخست در فروپاشی کافتر، همانا کشاورزی افسارگسیخته، رانتی و آزمندانه است. … ظاهراً بخشی از حریم و بستر رودخانه شادکام در بالادست کافتر تغییرکاربری پیدا کرده و با ساخت یک سد مخزنی، عملاً نظام آب‌شناختی حوضه آبخیز رودخانه شادکام مختل شده است.",
+  "quote_en": "Lake Kaftar, or Shadkam, with a capacity of 25 million cubic meters and an area of about 5,000 hectares, is one of the most important freshwater wetlands of Fars province, in Eqlid county; unfortunately, although it has been in a wet period for the second year running and its rainfall has reached about 500 millimeters – 60 percent above the long-term average – a large part of its area is still dry! … Yet the number-one culprit in Kaftar's collapse is unbridled, rent-seeking and greedy agriculture. … Apparently part of the buffer zone and bed of the Shadkam river upstream of Kaftar has had its land use changed, and with the construction of a storage dam the hydrological system of the Shadkam river basin has effectively been disrupted.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "kaftar"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "+60%",
+    "value_fa": "۶۰درصد بیشتر",
+    "label_en": "rainfall at Kaftar above the long-term average, yet the lake stayed largely dry",
+    "label_fa": "بارش کافتر بالاتر از میانگین درازمدت، با این حال دریاچه عمدتاً خشک ماند",
+    "kind": "claim",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "5,000 ha",
+    "value_fa": "پنج‌هزار هکتار",
+    "label_en": "area of Lake Kaftar (capacity 25 million m³)",
+    "label_fa": "وسعت دریاچه کافتر (گنجایش ۲۵ میلیون مترمکعب)",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-h255c6c2-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h255c6c2/",
+  "date": "2020-05-06",
+  "title_fa": "سر اومد زمستون در کم‌جان …",
+  "quote_fa": "این تالاب ارزشمند، با وسعتی بالغ بر پنج‌هزار هکتار – متعلق به مجموعه‌ای از تالاب‌های آب شیرین دایمی و فصلی است که با پوشش غالب نی و لویی در ناحیه‌ی سفلی رودخانه کُر و دلتای کربال واقع شده و به‌ دلیل برخورداری از ویژگی‌هایی کم‌نظیر، در سیاهه‌ی تالاب‌های بین‌المللی ثبت شده در کنوانسیون رامسر قرار گرفته است … شاید باور نکنید که کم‌جان یک گورستان دارد که اغلب جان‌باختگانِ آرمیده در آن کمتر از چهل سال داشته و علت مرگ جملگی، سرطان بوده است … زهکشی اراضی به بهانه نمک‌زدایی از خاک و رونق کشاورزی به همراه طرح افیونی پوشش انهار، سدسازی و طرح‌های انتقال آب، یکی از فاجعه‌بارترین رفتارهایی بوده که عملاً هم تاب‌آوری را کاهش داده و هم به متروکه‌شدنِ روستاها و افزایش چشمه‌های تولید گرد و خاک در بالادست و پایین‌دست حوضه‌های آبخیز شتاب بخشیده است.",
+  "quote_en": "This valuable wetland, covering some 5,000 hectares – belongs to a complex of permanent and seasonal freshwater wetlands dominated by reed and cattail, lying in the lower reaches of the Kor River and the Korbal delta, and because of its rare features it has been included in the list of international wetlands registered under the Ramsar Convention … You may not believe that Kamjan has a cemetery where most of those laid to rest were under forty, and the cause of death of all of them was cancer … Draining land under the pretext of desalinating the soil and boosting farming, along with the 'opiate' scheme of lining irrigation canals, dam building and water-transfer projects, has been one of the most catastrophic behaviours, which has both reduced resilience and accelerated the abandonment of villages and the growth of dust sources upstream and downstream in the watersheds.",
+  "topics": [
+   "water",
+   "desertification-land",
+   "dust-air"
+  ],
+  "places": [
+   "kamjan",
+   "kor-bakhtegan"
+  ],
+  "scope": "local",
+  "figures": []
+ },
+ {
+  "id": "web-ca896be1-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/ca896be1/",
+  "date": "2020-05-18",
+  "title_fa": "قصه‌ هشیلان، قصه آدم‌هایی است که می‌توانند گذشته را جبران کنند!",
+  "quote_fa": "اینجا هشیلان است. مهم‌ترین پهنه‌ی آبی کرمانشاه با وسعت حدود پانصدهکتار که تداومِ حیاتش در گروه سراب سبزعلی است؛ البته اگر موتورپمپ‌هایی که خونِ زمین را می‌مکند، اجازه دهند! بیش از یکصد و ده جزیره کوچک و بزرگ به همراه آبزیانی منحصربه‌فرد چون سگ‌ماهی کیابی و پرندگانی هوش‌ربا از جمله ویژگی‌های بی‌رقیب تالابی است که به دلیل زمین‌خواری‌ها و دست‌درازی‌های انسانی حتی نتوانسته‌ایم هنوز در سیاهه‌ی بین‌المللی کنوانسیون رامسر ثبتش کنیم!",
+  "quote_en": "This is Hashilan. The most important body of water in Kermanshah, covering about 500 hectares, whose continued life depends on the Sarab-e Sabzali spring; that is, if the motor pumps sucking the blood of the earth allow it! More than 110 small and large islands, along with unique aquatic species such as Kiabi's loach and captivating birds, are among the unrivalled features of a wetland that, because of land grabbing and human encroachment, we have not even managed to register on the international list of the Ramsar Convention yet!",
+  "topics": [
+   "water",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "hashilan"
+  ],
+  "scope": "local",
+  "figures": []
+ },
+ {
+  "id": "web-h5e6b85b-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h5e6b85b/",
+  "date": "2020-06-22",
+  "title_fa": "مقابله با بیابان‌زایی در گرو مهار بیابان‌زایی انسانی است!",
+  "quote_fa": "بنابراین هر جایی که زمین، حاصلخیزی خودش را از دست بدهد و شورتر شود، آب سفره های زیرزمینی کاهش یابد، قنات ها از بین برود، از روستاها، متروکه ای به جا بماند و تنوع زیستی کم شود، به این معناست که بیابان زایی یا تخریب سرزمین اتفاق می افتد. آن پنداری که گمان می کند اگر دور مناطق بیابانی را درختکاری کنیم، می توانیم از پیشروی بیابان جلوگیری کنیم، پنداری باطل است. یادمان باشد در کل دنیا بیش از ۵میلیارد هکتار یعنی بیش از یک سوم کل خشکی های جهان متاثر از جنبه های بیابان زایی است. درصورتی که فقط حدود ۱۰۰ میلیون هکتار از خشکی های جهان در اثر پیشروی ناهمواری های ماسه ای از حیز انتفاع خارج شده است. … پس ما باید بیشتر از اینکه نگران پیشروی شن زارها باشیم، نگران از دست رفتن حاصلخیزی خاک، شورشدن اراضی، تغییر کاربری ها و ویلاکاری به جای درختکاری در رویشگاه های جنگلی باشیم.",
+  "quote_en": "So wherever the land loses its fertility and grows saltier, groundwater declines, qanats are lost, villages are left abandoned and biodiversity falls, it means desertification, or land degradation, is happening. The notion that planting trees around desert areas can stop the desert from advancing is a false notion. Remember that worldwide more than 5 billion hectares, more than a third of the world's land, is affected by aspects of desertification, whereas only about 100 million hectares of the world's land has been put out of use by the advance of sand dunes. … So rather than worrying about the advance of sand fields, we should worry more about the loss of soil fertility, the salinization of land, land-use change, and villa building instead of tree planting in forest habitats.",
+  "topics": [
+   "desertification-land",
+   "policy-governance"
+  ],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "5 billion ha",
+    "value_fa": "۵میلیارد هکتار",
+    "label_en": "of the world's land affected by desertification, against 100 million ha lost to moving sand",
+    "label_fa": "از خشکی‌های جهان متأثر از بیابان‌زایی، در برابر ۱۰۰ میلیون هکتار از دست رفته به دست شن‌های روان",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Lost to moving sand",
+      "label_fa": "از دست رفته با پیشروی شن",
+      "value": 0.1
+     },
+     {
+      "label_en": "Affected by desertification",
+      "label_fa": "متأثر از بیابان‌زایی",
+      "value": 5
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-f967027e-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/f967027e/",
+  "date": "2020-07-05",
+  "title_fa": "چه کنیم تا حالِ محیط‌بان و طبیعت هر دو خوب شود؟",
+  "quote_fa": "بیش از ۱۳۰ نفر از محیط‎بانان ما تاکنون شهید شده‌اند. … در ایالات‎متحده آمریکا که پنج برابر ایران وسعت مناطق حفاظت‎شده دارد، در طول ۹۰سال گذشته ۲۵نفر از رنجر‌ها یا محیط‎بانان کشته شده‌اند و همه در اثر حوادث طبیعی بوده است … در همه‌جای دنیا محیط‎بانان به تجهیزات سنجش از راه دور مجهز هستند. … به‎جای اینکه محیط‎بان را مجهز به آخرین سلاح‌‌های کشنده روز و جلیقه ضدگلوله کنیم، آنها را مجهز به دستگاه‌‌های فناورانه روز کنیم تا بتوانند در همان مقری که نشسته‌اند همه منطقه خود را تحت‎پوشش قرار دهند.",
+  "quote_en": "More than 130 of our rangers have been martyred so far. … In the United States, which has five times Iran's area of protected areas, 25 rangers have been killed over the past 90 years, and all of them from natural accidents … Everywhere in the world rangers are equipped with remote-sensing equipment. … Instead of equipping rangers with the latest lethal weapons and bulletproof vests, let us equip them with up-to-date technological devices so that they can cover their whole area from the very post where they sit.",
+  "topics": [
+   "biodiversity-wildlife",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "130+",
+    "value_fa": "بیش از ۱۳۰",
+    "label_en": "Iranian rangers killed on duty, against 25 in the US over 90 years",
+    "label_fa": "محیط‌بان ایرانی جان‌باخته، در برابر ۲۵ نفر در آمریکا طی ۹۰ سال",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "United States (90 years)",
+      "label_fa": "آمریکا (۹۰ سال)",
+      "value": 25
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 130
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h29153f1-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h29153f1/",
+  "date": "2020-07-12",
+  "title_fa": "نشانه ماندگاری زاگرس برای نسل‌های آینده!",
+  "quote_fa": "سالانه به طور متوسط ۶میلیون تن دانه بلوط در رویشگاه جنگلی زاگرس تولید می‌شود که کاربردهای گوناگون غذایی و دارویی برای انسان، دام و حیات وحش داشته و دارد. اگر فقط یک‌درصد از این دانه‌ها را اجازه دهیم تا سهمِ خودِ بلوط‌ها شده و دوباره مجال رویش و زادآوری یابند؛ هرگز با کابوسی به نام ایرانِ بدون زاگرس روبرو نخواهیم شد. اما خبر بد این است که به دلیل فشار بیش از حد دام، کشاورزی در زیراشکوب جنگل، آتش‌سوزی‌های گسترده، گلازنی‌های افراطی، کت‌زنی، قاچاق چوب، تغییر کاربری اراضی، آفت‌ها و بیماری‌هایی نظیر سوسک چوبخوار، لورانتوس، ریزگردها و جمع‌آوری گسترده و آزمندانه دانه‌های بلوط از کف جنگل برای مصارف گوناگون، عملا شانس زادآوری این بلوط‌ها و امکان جوانه‌زدن دوباره آنها در خاک به کمتر از یک‌ده‌هزارم کاهش یافته است.",
+  "quote_en": "Every year, on average, 6 million tonnes of acorns are produced in the Zagros forests, which have had, and still have, various food and medicinal uses for people, livestock and wildlife. If we let just one percent of these acorns remain the oaks' own share and have the chance to sprout and regenerate again, we will never face a nightmare called Iran without the Zagros. But the bad news is that because of excessive livestock pressure, farming under the forest canopy, widespread fires, excessive gall harvesting, kat-zani, timber smuggling, land-use change, pests and diseases such as the wood-boring beetle and Loranthus, dust, and the widespread and greedy collection of acorns from the forest floor for various uses, the oaks' chance of regenerating and sprouting again in the soil has effectively fallen to less than one in ten thousand.",
+  "topics": [
+   "forests-rangelands",
+   "biodiversity-wildlife"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "6 million t",
+    "value_fa": "۶میلیون تن",
+    "label_en": "of acorns produced in the Zagros forests each year",
+    "label_fa": "دانه بلوطی که هر سال در جنگل‌های زاگرس تولید می‌شود",
+    "kind": "claim",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "< 1 in 10,000",
+    "value_fa": "کمتر از یک‌ده‌هزارم",
+    "label_en": "chance a Zagros acorn regenerates today (1% would be enough to save the forest)",
+    "label_fa": "شانس زادآوری دانه بلوط زاگرس امروز (یک درصد برای ماندگاری کافی است)",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-fef6c2df-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/fef6c2df/",
+  "date": "2020-07-14",
+  "title_fa": "درس‌آموخته‌های مردم روستای الگن به مدیران کشور در حوزه منابع‌طبیعی و محیط‌زیست!",
+  "quote_fa": "از تاسیس سازمان متولی منابع طبیعی کشور حدود ۱۱۰سال می‌گذرد. … واقعیت تاسف‌بار آن است که حتی نمی‌توانند نشانی دو هکتار جنگل‌کاری موفق و تاب‌آور در زاگرس را بدهند، در حالیکه هزاران هکتار نهالکاری و بذرکاری دستکم در طول نیم‌قرن اخیر انجام گرفته است! … دولت بودجه اختصاص می‌دهد و سازمان جنگل‌ها می‌کارد و البته جامعه محلی و دامدار هم بلافاصله آنجا زراعت کرده و یا مورد تعلیف دام قرار می‌دهد! … اهل آبادی به سعید اعتماد کرده، میثاق‌نامه‌ای را امضاء کرده و متعهد می‌شوند تا پنج‌سال دام خود را وارد قلمرو هزارهکتاری نکنند.",
+  "quote_en": "About 110 years have passed since the founding of the country's natural resources authority. … The regrettable truth is that they cannot even give the address of two hectares of successful, resilient afforestation in the Zagros, while thousands of hectares of seedling planting and seeding have been done over at least the past half century! … The government allocates a budget and the Forests Organization plants, and of course the local community and herders immediately farm there or graze their livestock on it! … The villagers trusted Saeed, signed a covenant and committed not to bring their livestock into the thousand-hectare area for five years.",
+  "topics": [
+   "forests-rangelands",
+   "activism-society",
+   "policy-governance"
+  ],
+  "places": [
+   "elgan"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "< 2 ha",
+    "value_fa": "کمتر از دو هکتار",
+    "label_en": "of successful Zagros afforestation the forestry agency can point to in about 110 years",
+    "label_fa": "جنگل‌کاری موفق در زاگرس که سازمان متولی پس از ۱۱۰ سال می‌تواند نشان دهد",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-c860b09f-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/c860b09f/",
+  "date": "2020-07-21",
+  "title_fa": "یک عکس و دنیایی از حرف!",
+  "quote_fa": "چگونه ممکن است مردمی که در ساحلِ پرآب‌ترین رود ایران – کارون – زندگی می‌کنند، دچار کمبود آب شیرین باشند؟ اگر کمبود آب شرب اینک هم مساله استان‌های برخوردار چون خوزستان، گیلان، گلستان، چهارمحال و بختیاری و مازندران است و هم مساله استان‌های کم‌آب چون یزد، اصفهان، کرمان، خراسان و سمنان است؛ پس پازلی به نام مدیریت باید گمشده باشد! نه؟ … چرا باید اجازه دهیم بخش بزرگی از بیش از سی‌میلیارد مترمکعب پساب و فاضلابِ کشور، به‌ویژه در استان‌هایی چون خوزستان و گیلان همچنان بدون استفاده و تصفیه رهاشده و بر بار آلایندگی سرزمین، رودخانه‌ها، تالاب‌ها و آبخوان‌ها بیافزاید و آنگاه در جبران این آتش‌سوزی حیرت‌انگیز و تاراج اندوخته‌های طبیعی، مجبور به سدسازی و طرح‌های انتقال آب و تحمل آن همه عوارض محیط‌زیستی، اجتماعی و امنیتی باشیم؟!",
+  "quote_en": "How is it possible that people living on the banks of Iran's fullest river – the Karun – suffer from a shortage of fresh water? If drinking-water shortage is now a problem both for well-endowed provinces such as Khuzestan, Gilan, Golestan, Chaharmahal and Bakhtiari and Mazandaran, and for water-poor provinces such as Yazd, Isfahan, Kerman, Khorasan and Semnan, then a puzzle piece called management must be missing! Right? … Why should we allow a large part of the country's more than thirty billion cubic meters of effluent and wastewater, especially in provinces such as Khuzestan and Gilan, to keep being released unused and untreated, adding to the pollution load on the land, rivers, wetlands and aquifers, and then, to make up for this astonishing burning-up and plunder of natural reserves, be forced into dam building and water-transfer projects and endure all their environmental, social and security side effects?!",
+  "topics": [
+   "water",
+   "pollution",
+   "policy-governance"
+  ],
+  "places": [
+   "karun"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "30 billion m³+",
+    "value_fa": "بیش از سی‌میلیارد مترمکعب",
+    "label_en": "of Iran's effluent and wastewater, much of it released untreated",
+    "label_fa": "پساب و فاضلاب کشور که بخش بزرگی از آن بی‌تصفیه رها می‌شود",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-f9446cec-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/f9446cec/",
+  "date": "2020-08-02",
+  "title_fa": "منابع‌طبیعی مازندران: چگونه ممکن است کره ماه را وقف کنم وقتی مالکش نیستم؟!",
+  "context_fa": "درباره جنگل ۵۶۰۰ هکتاری آق‌مشهد در ساری که دادگاه تجدیدنظر آن را جنگلی دست‌کاشت و وقفی دانست",
+  "context_en": "On the 5,600-hectare Agh-Mashhad forest near Sari, which an appeals court ruled to be a planted forest belonging to a religious endowment",
+  "quote_fa": "جنگلی که بهترین رویشگاه شمشاد ایرانی در کل هیرکانی – به عنوان گونه اندمیک – محسوب می‌شود، بیش از چهارصد و پنجاه گونه درختی، درختچه‌ای و علفی داشته و سیزده‌گونه از ارکیده‌های نادر ایران انحصاراً در آن رویش دارد، چگونه می‌تواند دست‌کاشت باشد؟",
+  "quote_en": "A forest that is the best habitat of the Persian boxwood – an endemic species – in the whole Hyrcanian region, has more than four hundred and fifty tree, shrub and herbaceous species, and where thirteen species of Iran's rare orchids grow exclusively: how can it be hand-planted?",
+  "topics": [
+   "forests-rangelands",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "agh-mashhad"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "450+",
+    "value_fa": "بیش از چهارصد و پنجاه",
+    "label_en": "tree, shrub and herb species in the Agh-Mashhad forest (13 rare orchids found only there)",
+    "label_fa": "گونه درختی، درختچه‌ای و علفی در جنگل آق‌مشهد (۱۳ گونه ارکیده نادر انحصاری)",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-h5c0dc6d-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h5c0dc6d/",
+  "date": "2020-08-16",
+  "title_fa": "فرض کنیم که بعضی‌ها کمک نمی‌کردند!",
+  "quote_fa": "نیروگاه شهید مفتح همدان در دشت فامنین به بهره‌برداری رسید به هدف تولید انرژی و اشتغال‌زایی. اما به دلیل جانمایی غلط نیروگاه، سفره‌های آب زیرزمینی به شدت پایین رفت و یازده فروچاله عظیم در منطقه ایجاد شده و حدود پنجاه‌هزار نفر بیکار شده و یا از منطقه مهاجرت کردند! … سد عظیم کریت بر روی یک آب باریکه ساخته شد در نزدیکی طبس به هدف رونق کشاورزی و ایجاد مهاجرت معکوس. اما عملاً قطره‌ای آب پشت آن جمع نشد و متاسفانه سبب نابودی یکی از کهن‌سازه‌های پرافتخار صنعت آبیاری ایران به قدمت بیش از هفتصدسال را فراهم کرد! … سد گتوند به رغم مشکلات جدی با بودجه سه‌هزار و هشتصدمیلیارد تومان آبگیری شد تا بر غلظت شوری کارون بیافزاید، به نحوی که برای حذفش نیاز به نه‌هزار میلیارد تومان بود که دیگر پولی موجود نبود!",
+  "quote_en": "The Shahid Mofatteh power plant of Hamadan came into operation in the Famenin plain with the aim of producing energy and creating jobs. But because of the plant's wrong siting, groundwater dropped sharply, eleven huge sinkholes formed in the area, and about fifty thousand people lost their jobs or migrated from the area! … The huge Kerit dam was built on a trickle of water near Tabas with the aim of boosting agriculture and reversing migration. But in practice not a drop of water collected behind it, and unfortunately it caused the destruction of one of the proudest ancient structures of Iran's irrigation industry, more than seven hundred years old! … The Gotvand dam, despite serious problems, was filled with a budget of 3,800 billion tomans, only to raise the salinity of the Karun, to the point that 9,000 billion tomans were needed to remove it, money that no longer existed!",
+  "topics": [
+   "water",
+   "desertification-land",
+   "energy"
+  ],
+  "places": [
+   "famenin",
+   "gotvand-dam",
+   "karun"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "11 sinkholes",
+    "value_fa": "یازده فروچاله",
+    "label_en": "formed in the Famenin plain after the Shahid Mofatteh power plant; ~50,000 people jobless or emigrated",
+    "label_fa": "فروچاله ایجادشده در دشت فامنین پس از نیروگاه شهید مفتح؛ حدود ۵۰ هزار نفر بیکار یا مهاجر",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "9,000 billion tomans",
+    "value_fa": "نه‌هزار میلیارد تومان",
+    "label_en": "needed to undo the Gotvand dam's salinity, after 3,800 billion spent building it",
+    "label_fa": "لازم برای رفع شوری سد گتوند، پس از ۳۸۰۰ میلیارد تومان هزینه ساخت",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Cost to fill the dam",
+      "label_fa": "هزینه آبگیری سد",
+      "value": 3800
+     },
+     {
+      "label_en": "Cost to fix the salinity",
+      "label_fa": "هزینه رفع شوری",
+      "value": 9000
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h3301cb6-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3301cb6/",
+  "date": "2020-08-31",
+  "title_fa": "⚘در ستایش مردی که با قوچ‌ها، خرس‌های بلوچی و کل‌های کَلمُرزی می‌رقصد …⚘",
+  "quote_fa": "عادل، انجمن دوستداران محیط‌زیست کلمرز را در سال هزار و سیصد و نود ثبت کرد. دامداران، کشاورزان، عشایر و شکارچیان منطقه را به خط کرد و به کمک دوستانش کوشید تا شرایطی ایمن و بدون شلیک گلوله برای حیات وحش منطقه بیافریند. به نحوی که اینک شمار کل و بزها و قوچ و میش‌ها از هزار و پانصد راس گذر کرده است؛ در حالیکه یک‌دهه‌ی پیش تقریباً چیزی از این وحوش باقی نمانده بود.",
+  "quote_en": "Adel registered the Kolmarz Environment Lovers' Association in 1390 (2011). He brought the area's herders, farmers, nomads and hunters on board and, with the help of his friends, tried to create safe conditions without gunfire for the area's wildlife. As a result, the number of wild goats and wild sheep has now passed 1,500 head, whereas a decade ago almost nothing of these animals remained.",
+  "topics": [
+   "biodiversity-wildlife",
+   "activism-society"
+  ],
+  "places": [
+   "kahnuj-kolmarz"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "1,500+",
+    "value_fa": "هزار و پانصد",
+    "label_en": "wild goats and wild sheep in Kolmarz, up from almost none a decade ago",
+    "label_fa": "کل و بز و قوچ و میش در کلمرز، از تقریباً هیچ در یک دهه پیش",
+    "kind": "claim",
+    "tone": "recovery"
+   }
+  ]
+ },
+ {
+  "id": "web-h53be4c1-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h53be4c1/",
+  "date": "2020-10-13",
+  "title_fa": "چرا نباید پرنده مهاجر را شکار کرد؟",
+  "quote_fa": "متاسفانه گزارش‌های متعددی سالانه منتشر می‌شود که در محیط‌های ساحلی شمال و جنوب کشور، دست‌کم بیش از یک تا یک و نیم‌میلیون پرنده مهاجر شکار می‌شود که در نوع خود بزرگترین قتل‌عام مهمان توسط میزبان است؛ آن‌هم توسط مردمی که به مهمان‌نوازی در جهان شهره‌اند! … در کنارش باید تقاضا برای گوشت پرنده کاهش یافته و به معیشت‌های مکمل در گرانیگاه‌های حساس ساحلی برای جامعه محلی اندیشید و البته با قانون‌شکنان با قاطعیت برخورد کرد.",
+  "quote_en": "Unfortunately, numerous reports are published every year that in the coastal areas of the north and south of the country at least more than one to one and a half million migratory birds are hunted, which is in its own way the greatest massacre of guests by a host; and by a people famed worldwide for their hospitality! … Alongside it, demand for bird meat must be reduced, complementary livelihoods must be considered for the local community in sensitive coastal hotspots, and of course lawbreakers must be dealt with firmly.",
+  "topics": [
+   "biodiversity-wildlife"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "1–1.5 million",
+    "value_fa": "۱ تا ۱٫۵ میلیون",
+    "label_en": "migratory birds hunted each year on Iran's coasts",
+    "label_fa": "پرنده مهاجری که هر سال در سواحل ایران شکار می‌شود",
+    "kind": "study",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h651f582-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h651f582/",
+  "date": "2022-05-03",
+  "title_fa": "آهای مردم شریف ارسنجان، فارس و ایران؛ اجازه ندهید به بهای ساخت جاده جدید شیراز به یزد، میراث طبیعی و فرهنگی کهن‌تان به یغما رود!",
+  "quote_fa": "بسیاری از ایرانیان شاید ندانند که در نزدیک‌ترین فاصله به ارسنجان در قلب استان فارس، رویشگاهی جنگلی و ارزشمند به وسعت چند هزار هکتار از درختان کهنسال بنه و ارژن وجود دارد که فخر طبیعت وطن است … به راحتی می‌توان با تغییر مسیر جاده، اجازه نداد تا پایه‌های پانصدساله درختان بنه و کهن‌سازه‌های غیرقابل ارزشگذاری منطقه، قربانی این مسیر انتخابی شوم شود",
+  "quote_en": "Many Iranians may not know that very close to Arsanjan, in the heart of Fars province, there is a valuable forest habitat of several thousand hectares of ancient wild pistachio (baneh) and almond (arzhan) trees that is the pride of the homeland's nature … By simply changing the route of the road, one can prevent the five-hundred-year-old wild pistachio trees and the priceless ancient structures of the area from falling victim to this ill-fated chosen route.",
+  "topics": [
+   "forests-rangelands"
+  ],
+  "places": [
+   "arsanjan-forests"
+  ],
+  "scope": "local",
+  "figures": []
+ },
+ {
+  "id": "web-h20c7d1e-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h20c7d1e/",
+  "date": "2022-05-12",
+  "title_fa": "خیلی سخته که فکر کنیم نمی‌دانند فرجام طرحی که می‌خواهند مصوب کنند، چیست!",
+  "quote_fa": "یادتان هست چند سال پیش نمایندگان مجلس طرحی را تصویب کردند که به موجب آن هر کسی تا سال هشتاد و پنج چاه حفر کرده، دولت موظف است به وی پروانه بهره‌برداری دهد. هرقدر فریاد زدیم که چنین طرحی چراغ سبز نشان دادن به تخلف و تجاوز بیشتر به طبیعت است، به گوش‌شان نرفت تا فاجعه‌ای بزرگ رقم خورد. آنها می‌خواستند تکلیف چاه‌های غیرمجاز را حل کنند؛ اما هر سال بر شمار چنین چاه‌هایی افزوده و آبخوان‌ها بیشتر به تاراج رفته و نرخ فرونشست افزایش یافت.",
+  "quote_en": "Do you remember that a few years ago members of parliament passed a bill under which the government was obliged to give an operating permit to anyone who had dug a well up to the year 1385 [2006]? However much we shouted that such a bill was a green light to violations and more aggression against nature, they did not listen, until a great catastrophe happened. They wanted to settle the status of illegal wells; but every year the number of such wells grew, the aquifers were plundered more and the rate of subsidence increased.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": []
+ },
+ {
+  "id": "web-f71020ec-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/f71020ec/",
+  "date": "2022-05-25",
+  "title_fa": "راه درمان این بیچارگی از مطالبه‌گری، شجاعت، امید و قانون‌گرایی می‌گذرد!",
+  "quote_fa": "هر نوع فعالیت معدنی در سرچشمه‌های کرکس‌کوه که سالانه صدها میلیون متر مکعب آب شیرین را در دشت‌های اصفهان، کاشان، نطنز، میمه، مورچه‌خورت، نراق و دلیجان تولید می‌کند، یک بدسلیقگی در بهترین حالت و یک جنایت علیه آینده تاب‌آوری استان اصفهان در واقعیت ماجراست.",
+  "quote_en": "Any kind of mining activity in the headwaters of Karkas mountain, which every year produces hundreds of millions of cubic meters of fresh water in the plains of Isfahan, Kashan, Natanz, Meymeh, Murcheh Khort, Naraq and Delijan, is bad taste at best and, in reality, a crime against the future resilience of Isfahan province.",
+  "topics": [
+   "water",
+   "pollution"
+  ],
+  "places": [
+   "karkas-mountains"
+  ],
+  "scope": "regional",
+  "figures": []
+ },
+ {
+  "id": "web-h97519de-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h97519de/",
+  "date": "2022-05-25",
+  "title_fa": "#محیط_زیست",
+  "quote_fa": "امسال به دلیل خشکسالی‌های موجود در منطقه و البته اجرای طرح‌های آبی بلندپروازانه ترکیه و کاهش حق‌آبه دجله و فرات به یک سوم توسط دولت ترکیه معضل آلودگی هوا تشدید شده است.",
+  "quote_en": "This year, because of the droughts in the region and of course Turkey's ambitious water projects and the Turkish government's reduction of the Tigris and Euphrates water share to one-third, the air pollution problem has worsened.",
+  "topics": [
+   "dust-air",
+   "water"
+  ],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "1/3",
+    "value_fa": "یک‌سوم",
+    "label_en": "of the Tigris and Euphrates water share left after Turkey's projects",
+    "label_fa": "از حقابه دجله و فرات که پس از طرح‌های ترکیه مانده",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.3333333333333333
+   }
+  ]
+ },
+ {
+  "id": "web-h069ca65-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h069ca65/",
+  "date": "2022-06-02",
+  "title_fa": "پیامِ نخلی که در متروپل زنده ماند!",
+  "quote_fa": "با دیدن سه عکس انتهایی کلیپ که مربوط به آخرین بازدیدم از گورستان نخل‌ها در حاشیه اروندکنار و بهمن‌شیر در سال گذشته است، بهتر عظمت غم و درد و رنج مردم شریف خوزستان را می‌توان درک کرد که چگونه تحمل کرده‌اند مرگ جانگداز میلیون‌ها نخل در طول سه دهه اخیر را در اثر افزایش بارگذاری در بالادست خوزستان، ورود فاضلاب کشت و صنعت نیشکر، شور شدن اراضی در اثر ساخت سد گتوند، طرح‌های انتقال آب و توسعه بی‌رویه کشت گیاهان آب‌بر در شمال خوزستان. ساخت سد‌هایی چون چرم‌شیر یا مارون دو و اجرای طرح‌های جدید انتقال آب در بالادست خوزستان می‌تواند آخرین میخ به تابوت نخلستان‌های جنوب جلگه خوزستان باشد!",
+  "quote_en": "Seeing the last three photos of the clip, which are from my last visit to the palm graveyard on the edge of Arvandkenar and the Bahmanshir last year, one can better understand the magnitude of the grief, pain and suffering of the noble people of Khuzestan, how they have endured the heartbreaking death of millions of palms over the past three decades as a result of increased loading upstream in Khuzestan, the inflow of sewage from the sugarcane agro-industry, the salinization of land due to the construction of Gotvand dam, water transfer schemes and the excessive expansion of water-intensive crops in northern Khuzestan. Building dams such as Chamshir or Maroon-2 and carrying out new water transfer schemes upstream of Khuzestan could be the last nail in the coffin of the palm groves of the southern Khuzestan plain.",
+  "topics": [
+   "water",
+   "forests-rangelands",
+   "pollution"
+  ],
+  "places": [
+   "khuzestan",
+   "gotvand-dam"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "Millions",
+    "value_fa": "میلیون‌ها",
+    "label_en": "of palms dead in Khuzestan over three decades",
+    "label_fa": "نخلی که در سه دهه در خوزستان مرده‌اند",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h1e7f746-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h1e7f746/",
+  "date": "2022-06-14",
+  "title_fa": "چرا با احداث سد مارون ۲، باید مخالفت کرد؟",
+  "quote_fa": "نخست آنکه جانمایی سد مارون ۲ در منطقه‌ای متراکم از رویشگاه بلوط و درختچه‌های ارزشمند مورد – Myrtus – است. یعنی به بهانه ساخت مخزن یکصد و سی میلیون مترمکعبی سد مارون۲، متاسفانه هزاران پایه درخت ارزشمند زاگرس را از دست خواهیم داد. این در شرایطی است که حدود سی‌درصد از این رویشگاه راهبردی ایران و تامین‌کننده ۴۵درصد آب شیرین کشور در طول دو دهه اخیر از حیز انتفاع ساقط شده و تحت هیچ شرایطی نباید خودخواسته بر شمار کمی و کیفی این تخریب بیافزاییم.",
+  "quote_en": "First, the Maroon-2 dam is sited in an area dense with oak habitat and valuable myrtle (Myrtus) shrubs. That is, on the pretext of building the 130-million-cubic-meter reservoir of Maroon-2 dam, we will unfortunately lose thousands of valuable Zagros trees. This while about thirty percent of this strategic habitat of Iran, which supplies 45 percent of the country's fresh water, has been put out of use over the past two decades, and under no circumstances should we willingly add to the quantity and quality of this destruction.",
+  "topics": [
+   "forests-rangelands",
+   "water",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "maroon-river",
+   "kohgiluyeh"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "130 million m³",
+    "value_fa": "۱۳۰ میلیون مترمکعب",
+    "label_en": "reservoir of the planned Maroon-2 dam",
+    "label_fa": "مخزن سد مارون ۲",
+    "kind": "target",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "30%",
+    "value_fa": "۳۰ درصد",
+    "label_en": "of the Zagros forest habitat lost in two decades",
+    "label_fa": "از رویشگاه زاگرس که در دو دهه از دست رفته",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.3
+   },
+   {
+    "value_en": "45%",
+    "value_fa": "۴۵ درصد",
+    "label_en": "of Iran's fresh water supplied by the Zagros",
+    "label_fa": "از آب شیرین کشور که زاگرس تامین می‌کند",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.45
+   }
+  ]
+ },
+ {
+  "id": "web-h1e7f746-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h1e7f746/",
+  "date": "2022-06-14",
+  "title_fa": "چرا با احداث سد مارون ۲، باید مخالفت کرد؟",
+  "quote_fa": "دوم اینکه گنجایش سد مارون یک در خوزستان، ۱.۳ میلیارد مترمعکب است و در تمام این سال‌هایی که ساخته شده، یعنی در بازه ۲۰سال گذشته، فقط یک‌بار پر شده است. الان آورد کل سالانه رودخانه مارون کمتر از ۹۰۰میلیون مترمکعب است و بر‌اساس این آورد، کلی هم بارگذاری در پایین‌دست، به‌خصوص در رامشیر و جایزان و بهبهان شده و تنها منبع آب شیرین تالاب بین‌المللی شادگان هم همین آب رود مارون است. از سویی با توجه به وضعیت تغییر اقلیم و جهان‌گرمایی انتظار می‌رود که وضعیت هر سال بدتر از شرایط فعلی هم بشود. یعنی اگر سد مارون ۲ ساخته شود ما با دو سد نیمه خالی روبه‌رو هستیم و این یعنی سد مارون ۲ یک ضربه مهلک به سد مارون یک خواهد زد.",
+  "quote_en": "Second, the capacity of Maroon-1 dam in Khuzestan is 1.3 billion cubic meters, and in all the years since it was built, that is, over the past 20 years, it has filled only once. Now the total annual flow of the Maroon river is less than 900 million cubic meters, and on the basis of this flow a great deal of development has been loaded downstream, especially in Ramshir, Jayezan and Behbahan, and the only fresh water source of the international Shadegan wetland is this same Maroon river water. Moreover, given climate change and global warming, the situation is expected to get worse every year. That is, if Maroon-2 dam is built we will face two half-empty dams, and this means Maroon-2 dam will deal a fatal blow to Maroon-1 dam.",
+  "topics": [
+   "water",
+   "climate"
+  ],
+  "places": [
+   "maroon-river",
+   "shadegan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "1.3 billion m³",
+    "value_fa": "۱٫۳ میلیارد مترمکعب",
+    "label_en": "capacity of Maroon-1 dam, filled only once in 20 years (annual river flow: under 900 million m³)",
+    "label_fa": "گنجایش سد مارون یک که در ۲۰ سال فقط یک‌بار پر شده (آورد سالانه رود: کمتر از ۹۰۰ میلیون مترمکعب)",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Annual flow (under)",
+      "label_fa": "آورد سالانه (کمتر از)",
+      "value": 0.9
+     },
+     {
+      "label_en": "Dam capacity",
+      "label_fa": "گنجایش سد",
+      "value": 1.3
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h4ee427a-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h4ee427a/",
+  "date": "2022-06-15",
+  "title_fa": "محمد درویش: ۱۲ برابر نیاز کشور منبع آب داریم، مدیریت نداریم",
+  "quote_fa": "خردمندانه‌تر از اینها آن است که ما چیدمان توسعه‌مان را به نحوی در این کشور طراحی کنیم که آنقدر چشم‌مان به آسمان و بارندگی نباشد. شما نگاه کنید، کشور همسایه جنوبی ما، عربستان سعودی، کل آب قابل‌استحصالش در سال، یک‌میلیارد مترمکعب است، این درحالی است که ما صدمیلیارد مترمکعب آب قابل‌استحصال داریم. عربستان ۳۰ میلیون نفر جمعیت دارد و فقط برای تامین آب شرب مردمش به سه میلیارد مترمکعب آب نیاز دارد و این یعنی ۳۰۰ درصد آب قابل‌استحصالش، اما نیاز مردم ما تنها هشت تا ۸٫۵ درصد آب قابل‌استحصال‌مان است. به‌عبارتی ما با کمبود خرد مدیریتی در این سرزمین روبه‌رو هستیم.",
+  "quote_en": "But wiser than all this is that we design our pattern of development in this country so that our eyes are not so fixed on the sky and rainfall. Look, our southern neighbor, Saudi Arabia, has a total of one billion cubic meters of exploitable water a year, whereas we have a hundred billion cubic meters of exploitable water. Saudi Arabia has a population of 30 million and needs three billion cubic meters of water just to supply its people's drinking water, which means 300 percent of its exploitable water, but our people's need is only eight to 8.5 percent of our exploitable water. In other words, we face a shortage of managerial wisdom in this land.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "100 billion m³",
+    "value_fa": "۱۰۰ میلیارد مترمکعب",
+    "label_en": "Iran's exploitable water a year (Saudi Arabia: 1 billion)",
+    "label_fa": "آب قابل استحصال سالانه ایران (عربستان: ۱ میلیارد)",
+    "kind": "claim",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "Saudi Arabia",
+      "label_fa": "عربستان",
+      "value": 1
+     },
+     {
+      "label_en": "Iran",
+      "label_fa": "ایران",
+      "value": 100
+     }
+    ]
+   },
+   {
+    "value_en": "8–8.5%",
+    "value_fa": "۸ تا ۸٫۵ درصد",
+    "label_en": "of Iran's exploitable water needed for drinking (Saudi Arabia: 300%)",
+    "label_fa": "از آب قابل استحصال ایران که برای شرب لازم است (عربستان: ۳۰۰ درصد)",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.085
+   }
+  ]
+ },
+ {
+  "id": "web-h9e9db88-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h9e9db88/",
+  "date": "2022-06-17",
+  "title_fa": "زنوز زیبا به محل تولید گرد و خاک بدل می شود، اگر چشم خود را بر فعالیت‌های معدنی افسارگسیخته ببندیم!",
+  "quote_fa": "باورکردنی نیست در جایی که پوشش مراتع آن نزدیک به صد درصد و بسیار باکیفیت است، در جایی که بهترین کیفیت آب به صورت دایمی وجود دارد، در جایی که مردمش هرگز از کولر در تابستان استفاده نکرده‌اند و درجایی که قطب کشاورزی و محصولات لبنی استان است، اینک گرد و خاک شتابان در حال افزایش باشد!",
+  "quote_en": "It is unbelievable that in a place where rangeland cover is close to one hundred percent and of very high quality, in a place where the best quality water is permanently present, in a place whose people have never used air conditioners in summer, and in a place that is the province's hub of agriculture and dairy products, dust should now be rapidly increasing!",
+  "topics": [
+   "dust-air",
+   "forests-rangelands",
+   "pollution"
+  ],
+  "places": [
+   "zonuz"
+  ],
+  "scope": "local",
+  "figures": []
+ },
+ {
+  "id": "web-h3d86a7b-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3d86a7b/",
+  "date": "2022-06-24",
+  "title_fa": "بیابان؛ پاسخ طبیعت به زیست‌بوم",
+  "quote_fa": "ما یکی از بدترین کشورها از نظر گسترش بیابان هستیم. لااقل از منظر دو معیار این ادعا قابل راستی‌آزمایی است؛ یکی از منظر فرونشست زمین که میزان نشست زمین در ایران بالاترین حد در کل کره زمین است. آخرین گزارش سازمان زمین‌شناسی ایران اشاره می‌کند که در استان فارس در فاصله بین دشت صفا و جهرم فرونشست زمین به رقمی حدود ۵۴ سانتی‌متر در سال رسیده است. رقمی که ۱۴۰ برابر آن چیزی است که از آن به عنوان شرایط بحرانی نام می‌برند. نشست زمین مساله مهمی است که برای درمان آن به ۵۰ تا ۷۰ هزار سال زمان نیاز داریم.",
+  "quote_en": "We are one of the worst countries in terms of the spread of desert. This claim can be verified by at least two criteria; one is land subsidence, where the rate of subsidence in Iran is the highest on the entire planet. The latest report of the Geological Survey of Iran points out that in Fars province, between the Safa plain and Jahrom, land subsidence has reached a figure of about 54 centimeters a year. A figure that is 140 times what is called the critical condition. Land subsidence is an important issue, and to cure it we need 50 to 70 thousand years.",
+  "topics": [
+   "desertification-land",
+   "water"
+  ],
+  "places": [
+   "fasa-jahrom"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "54 cm/yr",
+    "value_fa": "۵۴ سانتی‌متر در سال",
+    "label_en": "land subsidence between the Safa (Fasa) plain and Jahrom, Fars",
+    "label_fa": "فرونشست زمین میان دشت صفا (فسا) و جهرم، فارس",
+    "kind": "study",
+    "tone": "loss"
+   },
+   {
+    "value_en": "140×",
+    "value_fa": "۱۴۰ برابر",
+    "label_en": "the subsidence rate there against the critical threshold",
+    "label_fa": "نرخ فرونشست آنجا در برابر آستانه بحرانی",
+    "kind": "study",
+    "tone": "loss"
+   },
+   {
+    "value_en": "50–70 thousand years",
+    "value_fa": "۵۰ تا ۷۰ هزار سال",
+    "label_en": "needed to cure land subsidence",
+    "label_fa": "زمان لازم برای درمان فرونشست زمین",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h3d86a7b-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3d86a7b/",
+  "date": "2022-06-24",
+  "title_fa": "بیابان؛ پاسخ طبیعت به زیست‌بوم",
+  "quote_fa": "بعد از پایان جنگ هشت‌ساله (جنگ تحمیلی عراق علیه ایران) بود که ما متوجه شدیم باید عقب‌افتادگی ناشی از جنگ را جبران کنیم. واقعیت این است که ما در این دوران چشممان را به روی ملاحظات محیط‌زیستی و پایداری توسعه بستیم و این دوران روند بیابانی ایران تشدید شد. بر روی هر رودخانه‌ای سد زدیم و تالاب‌های پایین‌دست رودخانه‌ها را خشک کردیم. تالاب‌های باقی‌مانده را زهکشی کردیم تا بتوانیم به گسترش کشاورزی کمک کنیم. تالاب کمجان در استان فارس یک نمونه از این تالاب‌هاست و تالاب خان‌میرزا در استان چهارمحال و بختیاری نیز از این دست تالاب‌هاست که قربانی توسعه‌طلبی و گسترش کشاورزی در آن سال‌ها شدند. به این ترتیب شتاب بهره‌برداری از سفره‌های آب زیرزمینی به شکل غیرعادی افزایش پیدا کرد.",
+  "quote_en": "It was after the end of the eight-year war (Iraq's imposed war against Iran) that we realized we had to make up for the backwardness caused by the war. The truth is that in this period we closed our eyes to environmental considerations and the sustainability of development, and in this period Iran's desertification intensified. We put a dam on every river and dried up the wetlands downstream of the rivers. We drained the remaining wetlands so that we could help expand agriculture. Kamjan wetland in Fars province is one example of these wetlands, and Khan-Mirza wetland in Chaharmahal and Bakhtiari province is also one of the wetlands that fell victim to expansionism and the spread of agriculture in those years. In this way the pace of exploiting groundwater aquifers increased abnormally.",
+  "topics": [
+   "water",
+   "desertification-land",
+   "policy-governance"
+  ],
+  "places": [
+   "kamjan",
+   "khan-mirza-wetland"
+  ],
+  "scope": "national",
+  "figures": []
+ },
+ {
+  "id": "web-bd460af3-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/bd460af3/",
+  "date": "2022-07-24",
+  "title_fa": "چرا سرانه آب ایرانیان به یک‌پنجم در طول نیم‌قرن کاهش یافت؟!",
+  "quote_fa": "دقت کنید که در طول این پنجاه سال، جمعیت ایران کمتر از سه‌برابر رشد کرده، اما تعداد چاه‌ها بیش از بیست برابر و تعداد سدهای بزرگ مخزنی بیش از شصت برابر رشد کرده و در نهایت، نه‌تنها سرانه آب ایرانیان افزایش نیافته که به یک‌پنجم کاهش هم یافته است.",
+  "quote_en": "Note that over these fifty years Iran's population has grown less than threefold, but the number of wells has grown more than twentyfold and the number of large storage dams more than sixtyfold, and in the end, not only has Iranians' per capita water not increased, it has even fallen to one-fifth.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "20×",
+    "value_fa": "۲۰ برابر",
+    "label_en": "growth in the number of wells in 50 years (population: under 3×)",
+    "label_fa": "رشد تعداد چاه‌ها در ۵۰ سال (جمعیت: کمتر از ۳ برابر)",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Population",
+      "label_fa": "جمعیت",
+      "value": 3
+     },
+     {
+      "label_en": "Wells",
+      "label_fa": "چاه‌ها",
+      "value": 20
+     }
+    ]
+   },
+   {
+    "value_en": "60×",
+    "value_fa": "۶۰ برابر",
+    "label_en": "growth in the number of large storage dams in 50 years",
+    "label_fa": "رشد تعداد سدهای بزرگ مخزنی در ۵۰ سال",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "1/5",
+    "value_fa": "یک‌پنجم",
+    "label_en": "per capita water today against 50 years ago",
+    "label_fa": "سرانه آب امروز نسبت به ۵۰ سال پیش",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.2
+   }
+  ]
+ },
+ {
+  "id": "web-h1ef72e2-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h1ef72e2/",
+  "date": "2022-07-25",
+  "title_fa": "آیا کارِ ارومیه تمام است؟!",
+  "quote_fa": "حوضه آبخیز دریاچه ارومیه دست‌کم بیش از دو برابر میانگین کشوری از ریزش‌های آسمانی بهره‌مند است، بنابراین باید بتواند با طراحی چیدمانی درست از توسعه، ضمن حفظ تاب‌آوری خود به بخش‌های سه‌گانه شرب، کشاورزی و صنعت در حد چهارمیلیارد متر مکعب در سال سرویس دهد.\n\n۳️⃣ مشکل اما از آنجا آغاز می‌شود که میزان بارگذاری صورت گرفته در این پهنه راهبردی وطن بیش از هفت‌میلیارد متر مکعب است! پس اولویت ستاد احیا دریاچه ارومیه باید کاهش این بارگذاری‌ها به میزان حدود چهار میلیارد متر مکعب در سال باشد.",
+  "quote_en": "The Lake Urmia basin enjoys at least more than twice the national average of precipitation, so with the right pattern of development it should be able, while keeping its own resilience, to serve the three sectors of drinking water, agriculture and industry at the level of four billion cubic meters a year. The problem, however, starts from the fact that the load placed on this strategic expanse of the homeland is more than seven billion cubic meters! So the priority of the Lake Urmia Restoration Headquarters must be to reduce these loads by about four billion cubic meters a year.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "lake-urmia"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "7+ billion m³",
+    "value_fa": "بیش از ۷ میلیارد مترمکعب",
+    "label_en": "water use loaded on the Lake Urmia basin, against about 4 billion it can sustain",
+    "label_fa": "بارگذاری آبی در حوضه دریاچه ارومیه، در برابر حدود ۴ میلیاردی که تاب می‌آورد",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Sustainable use",
+      "label_fa": "مصرف پایدار",
+      "value": 4
+     },
+     {
+      "label_en": "Current load",
+      "label_fa": "بارگذاری کنونی",
+      "value": 7
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h3d31a11-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3d31a11/",
+  "date": "2022-08-12",
+  "title_fa": "چرا طوفان‌ها با رییس‌جمهورها هماهنگ نیستند؟!",
+  "quote_fa": "راه پایداری ایران آن است که دست‌کم چهل درصد از منابع آب قابل استحصال کشور به عنوان حقابه محیط‌زیست محترم شمرده شده و وسعت رویشگاه‌های جنگلی ایران به ابتدای قرن گذشته، یعنی بیست‌میلیون هکتار افزایش یابد.",
+  "quote_en": "The path to Iran's sustainability is that at least forty percent of the country's exploitable water resources be respected as the environment's water right, and that the extent of Iran's forest habitats be increased to what it was at the start of the last century, that is, twenty million hectares.",
+  "topics": [
+   "water",
+   "forests-rangelands",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "40%",
+    "value_fa": "۴۰ درصد",
+    "label_en": "of exploitable water he says should be reserved for nature",
+    "label_fa": "از آب قابل استحصال که به گفته او باید حقابه طبیعت باشد",
+    "kind": "claim",
+    "tone": "recovery",
+    "share": 0.4
+   },
+   {
+    "value_en": "20 million ha",
+    "value_fa": "۲۰ میلیون هکتار",
+    "label_en": "Iran's forest area a century ago, his target for restoration",
+    "label_fa": "وسعت جنگل‌های ایران در ابتدای قرن گذشته، هدف او برای احیا",
+    "kind": "claim",
+    "tone": "recovery"
+   }
+  ]
+ },
+ {
+  "id": "web-f3590643-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/f3590643/",
+  "date": "2022-08-17",
+  "title_fa": "چرا برای گنجشک‌ها مترسک می‌سازیم، وقتی مزرعه در معرض تهدیدِ موریانه‌هاست؟!",
+  "quote_fa": "سالهاست که از روند کاهنده و نگران‌کننده اُفت کیفی منابع آب می‌نالیم؛ سالهاست که هشدار می‌دهیم نباید سرنوشت کارون، بهمن‌شیر، دز، تالاب انزلی، زاینده‌رود، سفیدرود، هراز، گوهررود و ده‌ها رودخانه و تالاب ارزشمند وطن قربانی ورود شیرابه، پساب و فاضلاب شهری و صنعتی شود و سالهاست که به شتاب پیش‌رونده تراز منفی آبخوان هشدار داده‌ایم؛ چه آن روز که تراز منفی در آغاز دهه هشتاد پنجاه میلیارد مترمکعب بود و چه امروز که از مرز خطرناک صد و شصت میلیارد متر مکعب عبور کرده است!",
+  "quote_en": "For years we have lamented the declining and worrying trend of falling water quality; for years we have warned that the fate of the Karun, Bahmanshir, Dez, Anzali wetland, Zayandeh Rud, Sefidrud, Haraz, Goharrud and dozens of valuable rivers and wetlands of the homeland must not be sacrificed to the inflow of leachate, effluent and urban and industrial sewage; and for years we have warned about the accelerating negative balance of the aquifers; both on the day when the negative balance at the start of the 1380s [2000s] was fifty billion cubic meters and today, when it has passed the dangerous mark of one hundred and sixty billion cubic meters!",
+  "topics": [
+   "water",
+   "pollution"
+  ],
+  "places": [
+   "karun",
+   "anzali-wetland",
+   "zayandeh-rud"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "160 billion m³",
+    "value_fa": "۱۶۰ میلیارد مترمکعب",
+    "label_en": "cumulative deficit of Iran's aquifers (50 billion in the early 2000s)",
+    "label_fa": "کسری تجمعی آبخوان‌های ایران (۵۰ میلیارد در آغاز دهه هشتاد)",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Early 2000s",
+      "label_fa": "آغاز دهه ۸۰",
+      "value": 50
+     },
+     {
+      "label_en": "2022",
+      "label_fa": "۱۴۰۱",
+      "value": 160
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-h5eea5f7-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h5eea5f7/",
+  "date": "2022-08-19",
+  "title_fa": "به مسابقه زاینده‌رودکُشی پایان دهیم!",
+  "quote_fa": "چگونه ممکن است در مملکتی که میانگین آب قابل استحصال آن بیش از صد میلیارد متر مکعب است، نتوان هشت میلیاردمتر مکعب آب پایدار را تضمین شده فراهم کرد؟ در استان چهارمحال و بختیاری این نسبت شرم‌آورتر است؛ دقت کنید که کل آب شرب مورد نیاز همه مردم این استان فقط صد میلیون متر مکعب در سال است و این استان بین هفت تا ده میلیارد متر مکعب در سال آب تولید می‌کند. … راه سعادت ایران آن است که حقابه محیط‌زیست پس از آب شرب و مقدم بر کشاورزی و صنعت تخصیص داده شده و هرگز مجموع آب مصرفی در هر سه بخش از شصت درصد آب قابل استحصال سالانه عبور نکند.",
+  "quote_en": "How is it possible that in a country whose average exploitable water is more than one hundred billion cubic meters, eight billion cubic meters of sustainable water cannot be guaranteed? In Chaharmahal and Bakhtiari province this ratio is even more shameful; note that the total drinking water needed by all the people of this province is only one hundred million cubic meters a year, while this province produces between seven and ten billion cubic meters of water a year. … The path to Iran's prosperity is that the environment's water right is allocated after drinking water and ahead of agriculture and industry, and that total water use in all three sectors never exceeds sixty percent of the annual exploitable water.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "places": [
+   "chaharmahal"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "100 million m³",
+    "value_fa": "۱۰۰ میلیون مترمکعب",
+    "label_en": "drinking water Chaharmahal and Bakhtiari needs a year, while it produces 7–10 billion",
+    "label_fa": "آب شرب سالانه مورد نیاز چهارمحال و بختیاری، در حالی که ۷ تا ۱۰ میلیارد تولید می‌کند",
+    "kind": "claim",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "60%",
+    "value_fa": "۶۰ درصد",
+    "label_en": "ceiling he proposes for total water use, as a share of exploitable water",
+    "label_fa": "سقف پیشنهادی او برای کل مصرف آب، از آب قابل استحصال",
+    "kind": "claim",
+    "tone": "recovery",
+    "share": 0.6
+   }
+  ]
+ },
+ {
+  "id": "web-bceac069-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/bceac069/",
+  "date": "2022-08-26",
+  "title_fa": "چرا گوسفندان در سیستان زنده به گور می‌شوند؟!",
+  "quote_fa": "راست آن است که راه تاب‌آوری پایدار زابل و دشت سیستان در گرو بازگرداندن توان زیست‌پالایی به تالاب بین‌المللی هامون است. حقابه هامون باید پس از اب شرب و مقدم بر کشاورزی و صنعت اختصاص داده شود. اما متاسفانه ما با گسترش چاه‌نیمه‌ها و اجرای شبکه‌های گسترده زهکشی اراضی و طرح موسوم به شیب‌آب و پشت‌آب، همچنین ساخت دیوارهای امنیتی در بستر حریم سیلابی هیرمند و شاخه‌های فرعی‌اش عملاً هامون را قربانی توسعه ناپایدار در بخش کشاورزی و ملاحظات امنیتی و نظامی کردیم. … راهکار در تولید برق از طریق توربین‌های بادی قدرتمند و ایجاد مزرعه‌های خورشیدی، فروش آن به کشور افغانستان و در عوض گرفتن حقابه‌ای بیشتر از هیرمند است. اگر بتوانیم سالانه دست‌کم یک میلیاردمتر مکعب آب به هامون اختصاص دهیم، بعد از پنج سال یک بهشت واقعی تحویل خواهیم گرفت که منافعش برای هر دو کشور بی‌رقیب است.",
+  "quote_en": "The truth is that the path to lasting resilience for Zabol and the Sistan plain lies in restoring the self-purifying capacity of the international Hamoun wetland. Hamoun's water right must be allocated after drinking water and ahead of agriculture and industry. But unfortunately, with the spread of chah-nimehs, the construction of extensive land drainage networks and the so-called Shib-Ab and Posht-Ab scheme, as well as building security walls in the floodplain of the Helmand and its tributaries, we in effect sacrificed Hamoun to unsustainable development in agriculture and to security and military considerations. … The solution lies in generating electricity with powerful wind turbines and creating solar farms, selling it to Afghanistan and in return getting a larger water share from the Helmand. If we can allocate at least one billion cubic meters of water a year to Hamoun, after five years we will receive a true paradise whose benefits for both countries are unrivalled.",
+  "topics": [
+   "water",
+   "energy",
+   "policy-governance"
+  ],
+  "places": [
+   "sistan"
+  ],
+  "scope": "international",
+  "figures": [
+   {
+    "value_en": "1 billion m³/yr",
+    "value_fa": "۱ میلیارد مترمکعب در سال",
+    "label_en": "for Hamoun that he says would restore it within five years",
+    "label_fa": "برای هامون که به گفته او ظرف پنج سال احیایش می‌کند",
+    "kind": "claim",
+    "tone": "recovery"
+   }
+  ]
+ },
+ {
+  "id": "web-h8403bf1-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h8403bf1/",
+  "date": "2022-11-05",
+  "title_fa": "گفتگوی رکنا با محمد درویش درباره چشم‌انداز تاب‌آوری ایران!",
+  "quote_fa": "با توجه به این که ما در سال های اخیر به صورت شدیدا بیش از حد از سفره های زیرزمینی برداشت کرده ایم، اکنون دیگر آبی در بسیاری از سفره های سطح کشور باقی نمانده است و به همین دلیل، در سال های اخیر روند افت سطح آب منابع زیرزمینی تا حدودی کاهش یافته و در نتیجه، نرخ فرونشست زمین در برخی دشت ها کمتر شده است؛ به نحوی که مثلا در میان سال های ۱۳۸۰ تا ۱۳۹۰، نرخ فرونشست زمین در دشت های جنوبی غربی تهران حدود ۳۶ سانتی متر در سال بود، اما اکنون این رقم به کمتر از ۲۵ متر در سال کاهش یافته است. … بنابراین افت نرخ فرونشست زمین در سال های اخیر از جمله دو سال آبی گذشته، خبر خوبی نیست، زیرا این اتفاق به خاطر بهبود وضعیت مدیریت منابع آبی و پایداری سرزمین رخ نداده، بلکه به خاطر کسری شدید مخازن سفره های زیرزمینی صورت گرفته است. … در بعضی دشت های مرکزی کشور به ویژه در استان اصفهان و به طور خاص در دشت اصفهان – برخوار – دولت آباد، شاهد آن هستیم که وسعت منطقه دچار فرونشست زمین افزایش یافته و حتی فرونشست زمین، بخش هایی از شهر اصفهان را نیز تحت تاثیر قرار داده است.",
+  "quote_en": "Because in recent years we have drawn far too heavily on our aquifers, there is no water left in many of the country's aquifers, and for that reason the decline of groundwater levels has slowed somewhat in recent years and, as a result, the rate of land subsidence has fallen in some plains; so that, for example, between 1380 and 1390 [2001–2011] the subsidence rate in the plains southwest of Tehran was about 36 centimeters a year, but now this figure has fallen to less than 25 meters a year. … So the fall in the subsidence rate in recent years, including the past two water years, is not good news, because it has not happened thanks to better water management and land sustainability, but because of the severe deficit in the aquifers. … in some plains of the country's center, especially in Isfahan province and in particular in the Isfahan–Borkhar–Dowlatabad plain, we see that the area affected by subsidence has grown, and subsidence has even affected parts of the city of Isfahan.",
+  "topics": [
+   "desertification-land",
+   "water"
+  ],
+  "places": [
+   "borkhar-plain",
+   "tehran"
+  ],
+  "scope": "national",
+  "figures": []
+ },
+ {
+  "id": "web-d4cc91c2-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/d4cc91c2/",
+  "date": "2022-12-05",
+  "title_fa": "سد چم‌شیر و قصه خلیج همیشه فارس در گچساران!",
+  "quote_fa": "سدی که اگر آبگیری شود با ظرفیت – ۲.۳ میلیاردمتر مکعب – به پنجمین سد بزرگ ایران و در حقیقت مهم‌ترین مخزن نمکی در بالادست خوزستان و بوشهر بدل خواهد شد. … سد چم‌شیر بر سازند گچساران استوار است و به احتمال قوی بر شوری آب رودخانه زهره می‌افزاید و افت کیفیت رودخانه زهره، یعنی شتاب در افت توان زیست‌پالایی حوضه آبخیز بزرگ جراحی- زهره که در نهایت مرگ تالاب شادگان، افت حاصلخیزی خاک در هندیجان و شرایطی ناگوارتر برای آبزیان در خلیج فارس را رقم خواهد زد.",
+  "quote_en": "a dam that, if impounded, with a capacity of 2.3 billion cubic meters, will become Iran's fifth-largest dam and in fact the most important salt reservoir upstream of Khuzestan and Bushehr. … Chamshir dam stands on the Gachsaran formation and will very likely add to the salinity of the Zohreh river, and the decline in the Zohreh's quality means a faster loss of the natural self-purification capacity of the great Jarrahi–Zohreh watershed, which will ultimately bring the death of Shadegan wetland, a fall in soil fertility in Hendijan and harsher conditions for aquatic life in the Persian Gulf.",
+  "topics": [
+   "water",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "chamshir-dam",
+   "shadegan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "2.3 billion m³",
+    "value_fa": "۲.۳ میلیارد متر مکعب",
+    "label_en": "capacity of Chamshir dam, which would be Iran's fifth-largest",
+    "label_fa": "ظرفیت سد چم‌شیر، پنجمین سد بزرگ ایران",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-f295ecaa-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/f295ecaa/",
+  "date": "2022-12-16",
+  "title_fa": "چرا برای آبگیری سد چم‌شیر عجله می‌کنند؟!",
+  "quote_fa": "دست آخر آنکه سدسازی یکی از ابزارهای مدیریت آب است و نباید آن را به طور مطلق حذف کرد. وقتی هیچ راهی برای تامین آب شرب مردم وجود ندارد، باید به این گزینه تن دهیم. اما بیش از نود درصد سدهای مخزنی ایران به هدف تامین آب برای کشاورزی و صنعت و یا مهار سیل ساخته شده و این اشتباهی بزرگ و نابخشودنی است",
+  "quote_en": "Finally, dam building is one of the tools of water management and should not be ruled out absolutely. When there is no other way to supply people's drinking water, we must accept this option. But more than ninety percent of Iran's reservoir dams were built to supply water for agriculture and industry or to control floods, and this is a big and unforgivable mistake",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": ">90%",
+    "value_fa": "بیش از ۹۰ درصد",
+    "label_en": "of Iran's reservoir dams were built for agriculture, industry or flood control, not drinking water",
+    "label_fa": "سدهای مخزنی ایران که برای کشاورزی، صنعت یا مهار سیل ساخته شده‌اند، نه آب شرب",
+    "kind": "claim",
+    "tone": "loss",
+    "share": 0.9
+   }
+  ]
+ },
+ {
+  "id": "web-h1df515d-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h1df515d/",
+  "date": "2022-12-22",
+  "title_fa": "محمد درویش: چرا در جایی که زمین‌شناسان می‌دانند آسیب‌پذیرترین بخش از سازند گچساران است،سد می‌سازند؟",
+  "quote_fa": "خود آنها در گزارش عنوان کردند ۸۰۰ لیتر در ثانیه آب دزدی دارد. همین‌الان این سد به‌خاطر سازندهایی که دارد ۸۰۰ لیتر آب دزدی دارد. می‌گویند چیزی نیست. از کجا معلوم این ۸۰۰ لیتر بماند؟ … در گزارش ارزیابی گفته‌شده ۹۰ میلیون مترمکعب آب شیرین قرار است این سد تولید کند، درصورتی‌که به‌دلیل اینکه شوری بالای دو هزار است، اصلا آب شیرین نمی‌توانیم تولید کنیم و نمی‌توان آب شرب به مردم داد.",
+  "quote_en": "They themselves stated in the report that it has 800 liters per second of leakage. Right now this dam, because of the formations it sits on, has 800 liters of leakage. They say it's nothing. How do we know these 800 liters will stay that way? … The assessment report says this dam is supposed to produce 90 million cubic meters of fresh water, whereas because the salinity is above two thousand, we cannot produce fresh water at all, and it cannot be given to people as drinking water.",
+  "topics": [
+   "water",
+   "pollution"
+  ],
+  "places": [
+   "chamshir-dam"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "800 L/s",
+    "value_fa": "۸۰۰ لیتر در ثانیه",
+    "label_en": "of water leaking through Chamshir dam, by the builders' own report",
+    "label_fa": "آب‌دزدی سد چم‌شیر طبق گزارش خود سازندگان",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "90 million m³",
+    "value_fa": "۹۰ میلیون مترمکعب",
+    "label_en": "of fresh water Chamshir dam was promised to produce",
+    "label_fa": "آب شیرینی که قرار بود سد چم‌شیر تولید کند",
+    "kind": "target",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-db09dbf1-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/db09dbf1/",
+  "date": "2023-01-12",
+  "title_fa": "از کمبود آب ترسناک‌تر!",
+  "quote_fa": "برازنده و حقِ مردم ایران نیست که همواره نگران تشنگی و جیره‌بندی آب باشند، وقتی فقط اختصاص هشت‌درصد آب قابل استحصال کشور می‌تواند همه نیازهای شرب و بهداشتی آنها را برای یک‌سال تامین کند. برای ژینایی دوباره ایران باید دست‌کم چهل‌درصد از منابع آب کشور به عنوان حقابه محیط‌زیست به رسمیت شناخته شود تا تالاب‌ها تاب‌آور و رودخانه‌ها از سراب تا پایاب جاری و خروشان بمانند. از شصت‌درصد بقیه هم می‌توان پنجاه و دو درصدش را در حوزه کشاورزی، صنعت و خدمات مصرف کرد و هشت درصد هم با اولویت نخست به شرب و مصارف بهداشتی اختصاص یابد.",
+  "quote_en": "It is not fitting or fair for the people of Iran to be forever worried about thirst and water rationing, when allocating just eight percent of the country's exploitable water could meet all their drinking and sanitary needs for a year. For Iran to come back to life, at least forty percent of the country's water resources must be recognised as the environment's water right, so that wetlands stay resilient and rivers keep flowing strongly from source to mouth. Of the remaining sixty percent, fifty-two percent can be used in agriculture, industry and services, and eight percent allocated, as first priority, to drinking and sanitary uses.",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "40%",
+    "value_fa": "۴۰ درصد",
+    "label_en": "of Iran's water that should be the environment's water right",
+    "label_fa": "سهمی از آب کشور که باید حقابه محیط‌زیست باشد",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.4
+   },
+   {
+    "value_en": "8%",
+    "value_fa": "۸ درصد",
+    "label_en": "of Iran's exploitable water would meet all drinking and sanitary needs",
+    "label_fa": "از آب قابل استحصال کشور که همه نیاز شرب و بهداشت را تامین می‌کند",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.08
+   }
+  ]
+ },
+ {
+  "id": "web-db09dbf1-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/db09dbf1/",
+  "date": "2023-01-12",
+  "title_fa": "از کمبود آب ترسناک‌تر!",
+  "quote_fa": "ظرفیت مخازن کشور هم‌اکنون بیش از پنجاه میلیاردمتر مکعب است و داریم این رقم را به هشتاد میلیارد متر مکعب افزایش هم می‌دهیم. چگونه توان تامین هشت و نیم میلیارد متر مکعب آب شرب مردم را نداریم؟ جز آنکه با بی‌مدیریتی، نابخردی و آزمندی آن را به بخش‌های کشاورزی و صنعت پیش‌فروش کرده و یا در معرض تبخیر قرار داده‌ایم!",
+  "quote_en": "The country's reservoir capacity is now more than fifty billion cubic meters, and we are even raising it to eighty billion cubic meters. How can we be unable to supply eight and a half billion cubic meters of drinking water for the people? Except that, through mismanagement, folly and greed, we have pre-sold it to agriculture and industry or left it exposed to evaporation!",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": ">50 billion m³",
+    "value_fa": "بیش از ۵۰ میلیارد متر مکعب",
+    "label_en": "Iran's dam reservoir capacity, against 8.5 billion m³ needed for drinking water",
+    "label_fa": "ظرفیت مخازن سدهای کشور، در برابر ۸٫۵ میلیارد متر مکعب نیاز آب شرب",
+    "kind": "claim",
+    "tone": "neutral",
+    "compare": [
+     {
+      "label_en": "Drinking water need",
+      "label_fa": "نیاز آب شرب",
+      "value": 8.5
+     },
+     {
+      "label_en": "Reservoir capacity",
+      "label_fa": "ظرفیت مخازن",
+      "value": 50
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-b7787fd7-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/b7787fd7/",
+  "date": "2023-01-13",
+  "title_fa": "آیا انتقال آب، تمدن‌ساز است؟!",
+  "quote_fa": "حتی طرح انتقال آب از دریای عمان هم در شرایط کنونی مملکت که عملاً بیش از سی میلیارد‌متر مکعب سالانه آب خاکستری در بخش‌های خانگی، تجاری، کشاورزی، صنعت و زباله تولید می‌شود، منطقی و خردمندانه نیست. چرا به جای اولویت‌دادن به بازچرخانی آب و تاسیس تصفیه‌خانه، مرمت لوله‌کشی شهری، تفکیک آب شرب از مصارف بهداشتی منازل و مدیریت مصرف در بخش‌های کشاورزی و صنایع آب‌بر، سراغ آسان‌ترین و گران‌ترین کار ممکن رفته‌ایم؟",
+  "quote_en": "even the plan to transfer water from the Sea of Oman is not logical or wise in the country's current situation, when in effect more than thirty billion cubic meters of grey water a year are produced in the household, commercial, agricultural, industrial and waste sectors. Why, instead of prioritising water recycling and building treatment plants, repairing urban pipe networks, separating drinking water from household sanitary use and managing consumption in agriculture and water-intensive industries, have we gone for the easiest and most expensive option possible?",
+  "topics": [
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": ">30 billion m³/yr",
+    "value_fa": "بیش از ۳۰ میلیارد متر مکعب در سال",
+    "label_en": "of grey water produced in Iran each year",
+    "label_fa": "آب خاکستری که هر سال در ایران تولید می‌شود",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-b7787fd7-2",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/b7787fd7/",
+  "date": "2023-01-13",
+  "title_fa": "آیا انتقال آب، تمدن‌ساز است؟!",
+  "quote_fa": "اصفهان، یزد و اردکان هم‌اکنون به دلیل انباشت صنایع آلاینده انرژی‌بر و پرمصرف، شرایطی را ایجاد کرده‌اند که شاخص آلودگی هوا تا شش برابر حد مجاز افزایش یافته و این مناطق را به آلوده‌ترین سکونتگاه‌های جهان در برخی روزهای سال بدل می‌سازد. حالا فکر کنید اگر آب بیشتر هم به این مناطق برسانیم، چه فاجعه‌ای را رقم خواهیم زد.",
+  "quote_en": "Isfahan, Yazd and Ardakan, because of the accumulation of polluting, energy-intensive and water-hungry industries, have now created conditions in which the air pollution index has risen to six times the permitted limit, making these areas among the most polluted settlements in the world on some days of the year. Now imagine what disaster we would bring about if we delivered even more water to these areas.",
+  "topics": [
+   "dust-air",
+   "pollution",
+   "water"
+  ],
+  "places": [
+   "isfahan",
+   "yazd",
+   "ardakan"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "6×",
+    "value_fa": "۶ برابر",
+    "label_en": "air pollution index above the permitted limit in Isfahan, Yazd and Ardakan",
+    "label_fa": "شاخص آلودگی هوا نسبت به حد مجاز در اصفهان، یزد و اردکان",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h70bf72b-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h70bf72b/",
+  "date": "2023-01-31",
+  "title_fa": "خلأ اقتصاد اکولوژیک",
+  "quote_fa": "در نظر بگیرید ۱۲ هزار هکتار رویشگاه درخت کُنار در سد گتوند از بین رفت. چون ارزش اقتصاد اکولوژیک محاسبه نشد بلکه قیمت چوب درختان کُنار را محاسبه کردند و به ارزش بسیار ناچیزی خسارت پرداخت کردند. یک درخت ۵۰ساله در طبیعت تا ۲۰۰ هزار دلار می‌تواند ارزش داشته باشد.",
+  "quote_en": "Consider that 12,000 hectares of Christ's thorn (konar) habitat were destroyed at Gotvand dam. Because the ecological-economic value was not calculated; instead they calculated the price of the konar trees' wood and paid a very trivial amount of compensation. A 50-year-old tree in nature can be worth up to 200,000 dollars.",
+  "topics": [
+   "forests-rangelands",
+   "policy-governance"
+  ],
+  "places": [
+   "gotvand-dam"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "12,000 ha",
+    "value_fa": "۱۲ هزار هکتار",
+    "label_en": "of konar (Christ's thorn) woodland lost to Gotvand dam",
+    "label_fa": "رویشگاه درخت کنار که در سد گتوند از بین رفت",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "$200,000",
+    "value_fa": "۲۰۰ هزار دلار",
+    "label_en": "possible value of a 50-year-old tree in nature",
+    "label_fa": "ارزش احتمالی یک درخت ۵۰ ساله در طبیعت",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "web-e139fd89-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/e139fd89/",
+  "date": "2023-02-01",
+  "title_fa": "تاثیر مخرب سد بر حیات تالاب آلاگل!",
+  "quote_fa": "تفاوت دو تالاب آلماگل و آلاگل در وجود یک سد است! اگر آلاگل هم سد نداشت، دست‌کم مانند آلماگل هنوز اندکی آب برای حفظ جمعیت پرندگان و پوشش گیاهی اطرافش داشت. اما وزارت نیرو با تغییر ماهیت تالاب بین‌المللی آلاگل، دقیقا همان بلایی را سر این تالاب آورد که سر تالاب بین‌المللی چغاخور در استان چهارمحال و بختیاری هم آورده … مرگ سه تالاب ارزشمند بین‌المللی ایران در پایاب رودخانه اترک در حالی رقم خورده که آنها قربانی سدسازی‌های متعدد در بالادست خود شده‌اند و سد آلاگل هم تیر خلاص را زده است.",
+  "quote_en": "The difference between the two wetlands Almagol and Alagol is the existence of a dam! If Alagol had no dam either, it would at least, like Almagol, still have a little water to sustain its bird populations and the vegetation around it. But the Ministry of Energy, by changing the nature of Alagol international wetland, did exactly to it what it had also done to Choghakhor international wetland in Chaharmahal and Bakhtiari … The death of three valuable international wetlands of Iran on the lower Atrak river has come about as they fell victim to numerous dams upstream, and the Alagol dam delivered the final blow.",
+  "topics": [
+   "water",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "golestan-wetlands"
+  ],
+  "scope": "regional",
+  "figures": []
+ },
+ {
+  "id": "web-h7d586e9-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h7d586e9/",
+  "date": "2023-02-07",
+  "title_fa": "تبعات خاموشی رودها و تاراج آبخوان‌ها!",
+  "quote_fa": "اما واقعیت این است که ما صد و چهل میلیاردمتر مکعب – ده رودخانه به بزرگی آورد متوسط کارون – بیشتر از آنچه وارد آبخوان‌هامان شده در طول چهار دهه گذشته برداشت کرده و زمین زیر پای‌مان را خالی کرده‌ایم.",
+  "quote_en": "But the reality is that over the past four decades we have withdrawn one hundred and forty billion cubic meters – ten rivers the size of the Karun's average flow – more than what has entered our aquifers, and emptied the ground beneath our feet.",
+  "topics": [
+   "water",
+   "desertification-land"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "140 billion m³",
+    "value_fa": "۱۴۰ میلیارد متر مکعب",
+    "label_en": "groundwater overdraft in Iran over four decades (≈10 Karun rivers)",
+    "label_fa": "اضافه برداشت از آبخوان‌های ایران در چهار دهه (برابر ۱۰ کارون)",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-b55f93be-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/b55f93be/",
+  "date": "2023-02-09",
+  "title_fa": "از تکریم “ایران ما” تا تخریب بخشی از “ایران ما” در شیراز چقدر فاصله‌ها کوتاه بود!",
+  "quote_fa": "آدم یاد جریان تدوین برنامه ششم می‌افتد که نمایندگان نخست مصوب کردند که باید سی درصد از مصرف آب به بخش کشاورزی کاهش یابد و بلافاصله در ذیل همان بند مصوب کردند که منابع طبیعی باید پانصد هزار هکتار از مراتع پرشیب کوهستانی خود را به بخش کشاورزی برای توسعه زراعت واگذار کند!",
+  "quote_en": "It brings to mind the drafting of the Sixth Plan, when MPs first approved that water use in agriculture must be cut by thirty percent, and immediately under the same clause approved that the natural resources organisation must hand over five hundred thousand hectares of its steep mountain rangelands to the agriculture sector for crop expansion!",
+  "topics": [
+   "forests-rangelands",
+   "water",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "30%",
+    "value_fa": "۳۰ درصد",
+    "label_en": "cut in agricultural water use required by the Sixth Development Plan",
+    "label_fa": "کاهش مصرف آب کشاورزی که برنامه ششم توسعه مصوب کرد",
+    "kind": "target",
+    "tone": "neutral"
+   },
+   {
+    "value_en": "500,000 ha",
+    "value_fa": "۵۰۰ هزار هکتار",
+    "label_en": "of steep mountain rangeland the same plan handed to farming",
+    "label_fa": "مراتع پرشیب کوهستانی که همان برنامه به کشاورزی واگذار کرد",
+    "kind": "target",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-bca7a97a-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/bca7a97a/",
+  "date": "2023-02-12",
+  "title_fa": "چرا خبر جاری‌شدن دوباره زاینده‌رود دیگر کسی را خوشحال نمی‌کند؟",
+  "quote_fa": "تفکری که این آبراهه طبیعی و بوم‌سازگان شگفت‌انگیزش را نخست با اجرای تونل اول کوهرنگ غیرطبیعی و آلوده کرد و سپس با وعده آب بیشتر، انواع صنایع آلاینده، آب‌بر و انرژی‌بر را در آن جانمایی کرده و چراغ سبز به گسترش اراضی کشاورزی از حدود هفتادهزار هکتار در ابتدای دهه پنجاه به پانصد هزار هکتار در انتهای دهه هشتاد فراهم ساخت، عامل این بحران است. هرچند که اینک جهاد کشاورزی استان حتی قادر به سرویس مطلوب به یک سوم این اراضی هم نیست و اراضی رهاشده و باغ‌های خشک‌شده خود به مهم‌ترین کانون‌های بحرانی فرسایش بادی بدل شده‌اند",
+  "quote_en": "The mindset that first made this natural waterway and its marvellous ecosystem unnatural and polluted with the first Kuhrang tunnel, and then, with the promise of more water, sited all kinds of polluting, water-hungry and energy-intensive industries along it and gave the green light to the expansion of farmland from about seventy thousand hectares in the early 1350s [1970s] to five hundred thousand hectares at the end of the 1380s [2000s], is the cause of this crisis. Even though the province's agriculture department now cannot properly serve even a third of this land, and the abandoned fields and dried-up orchards have themselves become the most important critical hotspots of wind erosion",
+  "topics": [
+   "water",
+   "desertification-land",
+   "policy-governance"
+  ],
+  "places": [
+   "zayandeh-rud"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "70,000 → 500,000 ha",
+    "value_fa": "۷۰ هزار ← ۵۰۰ هزار هکتار",
+    "label_en": "farmland in the Zayandeh Rud basin, early 1970s against late 2000s",
+    "label_fa": "اراضی کشاورزی حوضه زاینده‌رود، آغاز دهه ۵۰ در برابر پایان دهه ۸۰",
+    "kind": "claim",
+    "tone": "loss",
+    "compare": [
+     {
+      "label_en": "Early 1970s",
+      "label_fa": "آغاز دهه ۵۰",
+      "value": 70000
+     },
+     {
+      "label_en": "Late 2000s",
+      "label_fa": "پایان دهه ۸۰",
+      "value": 500000
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "web-d5f82bf5-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/d5f82bf5/",
+  "date": "2023-02-13",
+  "title_fa": "آیا دریاچه ارومیه نفس‌های آخر خود را می‌کشد؟!",
+  "quote_fa": "در این میان تاراج بی‌سابقه آبخوان‌ها به مدد حفر بیش از هشتادهزار حلقه چاه بر ابعاد نگرانی‌ها افزوده است.\n\n۳️⃣ در حقیقت وجود یکصد و پنج سازه سیمان‌اندودِ پهن‌پیکر به نام سد – که ۹۹ عدد از آنها در حال بهره‌برداری است – در این حوضه پنج میلیون هکتاری به همراه تشدید آثار فرونشست زمین",
+  "quote_en": "Meanwhile, the unprecedented plundering of aquifers through the drilling of more than eighty thousand wells has added to the worries. … In fact, the existence of one hundred and five huge cement-coated structures called dams – 99 of which are in operation – in this five-million-hectare basin, together with worsening land subsidence",
+  "topics": [
+   "water",
+   "desertification-land"
+  ],
+  "places": [
+   "lake-urmia"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "105 dams",
+    "value_fa": "۱۰۵ سد",
+    "label_en": "in the Lake Urmia basin, 99 of them in operation",
+    "label_fa": "در حوضه دریاچه ارومیه که ۹۹ عدد در حال بهره‌برداری است",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": ">80,000 wells",
+    "value_fa": "بیش از ۸۰ هزار حلقه چاه",
+    "label_en": "drilled in the Lake Urmia basin",
+    "label_fa": "حفرشده در حوضه دریاچه ارومیه",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-e1182ebb-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/e1182ebb/",
+  "date": "2023-02-16",
+  "title_fa": "برای اینکه درک کنیم چه بلایی بر سر دیار زنده‌رود آورده‌ایم!",
+  "quote_fa": "یعنی ۴۷ بار دیگر اگر چنین بارانی ببارد که در طول عمر من و شما متاسفانه دیگر نمی‌بارد و اگر به فرض همه این باران در آبخوان نفوذ کند که عملا امکان‌پذیر نیست، می‌توان امیدوار بود که تراز آبخوان در اصفهان دوباره صفر شود. … وقتی آبخوان با کسری ۳ میلیاردمتر مکعب روبروست چرا همچنان اصرار به بارگذاری بیش از ۳میلیاردمتر مکعب در استان کرده و درصدد جبران این کسری از حوضه‌های همجواریم؟ آب خاکستری را باید تصفیه و در آبخوان تزریق کرد و نه اینکه دوباره در بخش صنعت با افتخار مصرف کنیم.",
+  "quote_en": "That is, if rain like this falls 47 more times – which, sadly, will not happen again in your or my lifetime – and if, hypothetically, all of it seeps into the aquifer, which is practically impossible, we could hope that the aquifer balance in Isfahan returns to zero. … When the aquifer faces a deficit of 3 billion cubic meters, why do we still insist on loading more than 3 billion cubic meters of demand onto the province and seek to make up this deficit from neighbouring basins? Grey water must be treated and injected into the aquifer, not proudly consumed again in industry.",
+  "topics": [
+   "water"
+  ],
+  "places": [
+   "isfahan-province"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "3 billion m³",
+    "value_fa": "۳ میلیارد متر مکعب",
+    "label_en": "deficit of the Isfahan aquifer",
+    "label_fa": "کسری آبخوان اصفهان",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "47×",
+    "value_fa": "۴۷ بار",
+    "label_en": "more rains like this one needed to bring Isfahan's aquifer balance back to zero",
+    "label_fa": "بارانی از این دست که برای صفر شدن دوباره تراز آبخوان اصفهان لازم است",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-d9f0bb7f-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/d9f0bb7f/",
+  "date": "2023-02-18",
+  "title_fa": "مشکل پروژه کاشت یک‌میلیارد درخت چیست؟",
+  "quote_fa": "حقیقت این است که ما هشت‌میلیون هکتار از ارزشمندترین رویشگاه‌های جنگلی خود در هیرکانی، ارسباران و زاگرس را در طول یکصدسال اخیر از دست داده‌ایم و بنابراین هیچ اولویتی بالاتر از آن نیست که حاکمیت در اقدامی عاجل بکوشد تا این جراحت را نه با کاشت یک میلیارد که ده‌میلیارد درخت ترمیم کند. … به جرات می‌گویم اگر این کاشتن‌ها قرار بر ثمردادن داشت، اینک باید بیش از ده میلیارد درخت جدید در ایران به آسمان سلام می‌داد، اما نه‌تنها این اتفاق نیافتاده است که دست‌کم دومیلیارد درخت ارزشمند را هم از دست داده‌ایم!",
+  "quote_en": "The truth is that we have lost eight million hectares of our most valuable forest habitats in the Hyrcanian, Arasbaran and Zagros regions over the past hundred years, so there is no higher priority than for the state to act urgently to heal this wound by planting not one billion but ten billion trees. … I dare say that if these plantings were meant to bear fruit, more than ten billion new trees should now be greeting the sky in Iran, but not only has this not happened, we have also lost at least two billion valuable trees!",
+  "topics": [
+   "forests-rangelands"
+  ],
+  "places": [
+   "hyrcanian-forests"
+  ],
+  "scope": "national",
+  "figures": [
+   {
+    "value_en": "8 million ha",
+    "value_fa": "۸ میلیون هکتار",
+    "label_en": "of Iran's forests (Hyrcanian, Arasbaran, Zagros) lost in the past century",
+    "label_fa": "از جنگل‌های ایران (هیرکانی، ارسباران، زاگرس) که در صد سال اخیر از دست رفت",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "2 billion",
+    "value_fa": "۲ میلیارد",
+    "label_en": "valuable trees lost in Iran despite four decades of planting",
+    "label_fa": "درخت ارزشمندی که با وجود چهار دهه کاشت از دست رفته است",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-d593af78-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/d593af78/",
+  "date": "2023-03-04",
+  "title_fa": "تغییر کاربری جنگل ها با سرعت زیادی پیش می رود",
+  "quote_fa": "در سفر اخیر به گلستان متوجه شدم به بهانه انتقال آب برای پرورش ماهی تالاب آلاگل کاملا خشک شده است، نباید بگذاریم به هیچ بهانه ای تالاب های ارزشمند این منطقه مثل آلاگل، آلماگل، آجی گل و… از بین بروند. … مردم گلستان بهتر است هرچه سریعتر به پیشینه ی اجدادی خود یعنی کشت پنبه بازگردند و دیگر نگذارند کشت زار پنبه به برنج تبدیل شود. چرا که پنبه یک پنجم برنج آب مصرف می کند و با بازگشت به کشت زارهای پنبه می توانیم از فشار آبی وارد به این منطقه کم کنیم و سرعت پیشرفت خشکسالی را کاهش دهیم.",
+  "quote_en": "On my recent trip to Golestan I noticed that, on the pretext of transferring water for fish farming, Alagol wetland has completely dried up; we must not let the valuable wetlands of this region, such as Alagol, Almagol, Ajigol and others, be lost on any pretext. … The people of Golestan had better return as soon as possible to their ancestral tradition, cotton growing, and no longer let cotton fields be turned into rice paddies. Because cotton uses one fifth of the water of rice, and by returning to cotton fields we can reduce the water pressure on this region and slow the advance of drought.",
+  "topics": [
+   "water",
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "golestan-wetlands"
+  ],
+  "scope": "regional",
+  "figures": [
+   {
+    "value_en": "1/5",
+    "value_fa": "یک پنجم",
+    "label_en": "water cotton uses compared with rice",
+    "label_fa": "آب مصرفی پنبه نسبت به برنج",
+    "kind": "claim",
+    "tone": "recovery"
+   }
+  ]
+ },
+ {
+  "id": "web-h2d558b6-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h2d558b6/",
+  "date": "2023-03-06",
+  "title_fa": "بخش دوم و پایانی سخنرانی محمد درویش در شب آشوراده!",
+  "quote_fa": "این بهشت روزگاری منزلگاه بیش از ۱۲۰هزار بال پرنده و تجسم اپرایی پرشکوه بود، با آن چه کردیم و چرا؟\nتنها ویژگی ممتاز و کمتر آسیب دیده میانکاله همانا وجود یک خلیج آرام و پاک از هر نوع آلودگی دیداری و برخورداری از آشوراده‌ای است که زیستمندانِ ناآدم هنوز در آن امنیت دارند. خصلت ارزشمندی که سبب شده تا خلیج میانکاله و سواحل آشوراده را زایشگاه امن ماهیان خاویاری و اصلی‌ترین محل تخم‌ریزی ٩٠ درصد ماهیان جنوب کاسپین بنامند.",
+  "quote_en": "This paradise was once the stopover of more than 120,000 birds and the embodiment of a magnificent opera; what did we do to it, and why? Miankaleh's only outstanding and least-damaged feature is a calm bay free of any visual pollution and the presence of Ashuradeh, where non-human beings are still safe. A valuable trait that has led Miankaleh bay and the shores of Ashuradeh to be called the safe nursery of sturgeons and the main spawning ground of 90 percent of the fish of the southern Caspian.",
+  "topics": [
+   "biodiversity-wildlife"
+  ],
+  "places": [
+   "miankaleh"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": ">120,000",
+    "value_fa": "بیش از ۱۲۰ هزار",
+    "label_en": "birds Miankaleh once hosted",
+    "label_fa": "پرنده‌ای که میانکاله روزگاری میزبانش بود",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "90%",
+    "value_fa": "۹۰ درصد",
+    "label_en": "of southern Caspian fish spawn in Miankaleh bay and off Ashuradeh",
+    "label_fa": "ماهیان جنوب کاسپین که در خلیج میانکاله و سواحل آشوراده تخم‌ریزی می‌کنند",
+    "kind": "claim",
+    "tone": "neutral",
+    "share": 0.9
+   }
+  ]
+ },
+ {
+  "id": "web-c810df0e-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/c810df0e/",
+  "date": "2023-03-10",
+  "title_fa": "دردِ بی‌درمانِ تهران نشانه چیست؟",
+  "quote_fa": "شهری که رسماً سخن از مرگ سالانه پنج‌هزار و پانصد نفر از شهروندانش در اثر آلودگی هواست؛ سخن از هشت تا ده درصد مرده‌زایی در نوزادانش؛ … سخن از بالاترین رقم فرونشست در بین پایتخت‌های جهان؛ سخن از تلف‌شدن دویست‌میلیارد دقیقه از وقت آدم‌هایش در ترافیک؛ سخن از آلودگی صوتی بالاتر از حد تحمل انسان – ۶۰ دسی‌بل – در بسیاری از محله‌هایش؛ … سخن از بیشترین آسیب‌پذیری نسبت به خطر وقوع زلزله با شانزده گسل فعال و تراز منفی آبخوان‌هایش و …",
+  "quote_en": "a city where there is official talk of five thousand five hundred of its citizens dying each year from air pollution; talk of eight to ten percent stillbirths among its newborns; … talk of the highest subsidence rate among the world's capitals; talk of two hundred billion minutes of its people's time wasted in traffic; talk of noise pollution above the limit of human tolerance – 60 decibels – in many of its neighbourhoods; … talk of the greatest vulnerability to earthquake risk, with sixteen active faults, and the negative balance of its aquifers and …",
+  "topics": [
+   "dust-air",
+   "pollution",
+   "desertification-land"
+  ],
+  "places": [
+   "tehran"
+  ],
+  "scope": "local",
+  "figures": [
+   {
+    "value_en": "5,500/yr",
+    "value_fa": "۵۵۰۰ نفر در سال",
+    "label_en": "Tehran residents dying each year from air pollution (official figure)",
+    "label_fa": "شهروندان تهرانی که هر سال در اثر آلودگی هوا می‌میرند (رقم رسمی)",
+    "kind": "claim",
+    "tone": "loss"
+   },
+   {
+    "value_en": "8–10%",
+    "value_fa": "۸ تا ۱۰ درصد",
+    "label_en": "stillbirth rate among Tehran newborns",
+    "label_fa": "مرده‌زایی در نوزادان تهران",
+    "kind": "claim",
+    "tone": "loss"
+   }
+  ]
+ },
+ {
+  "id": "web-h3a65c7f-1",
+  "source_id": "website-mohammaddarvish",
+  "url": "https://mohammaddarvish.com/h3a65c7f/",
+  "date": "2023-03-22",
+  "title_fa": "چرا نه فقط مردم رامیان که کل مردم گلستان و ایران باید با اجرای طرح‌های انتقال آب مخالفت کنند؟",
+  "quote_fa": "حتی اگر آن سد هم ساخته شود، فاجعه در رامیان چند برابر خواهد شد، چرا که جریان رودخانه‌‌ اصلی تغذیه‌کننده آبخوان دشت مختل شده و عملاً نه فقط تغذیه طبیعی دشتهای منطقه تا آزادشهر کاهش می‌یابد، بلکه ده‌ها هزار درخت در رویشگاه هیرکانی هم قربانی مخزن سد خواهند شد؛ درختانی که یکی از مهم‌ترین کارکردهای آنها تولید آب و حفظ خاک است. … علاوه بر این، تقویت صنایع محلی مثل نوغانداری، نساجی و تبدیل شالیزارها به پنبه‌زارها می‌تواند به حفظ منابع آبی منطقه کمک کند. … این استان می‌تواند یکی از قطب‌های استحصال انرژی خورشیدی باشد چرا که از دمای مناسب و گرد و غبار اندکی برخوردار است.",
+  "quote_en": "Even if that dam is built, the disaster in Ramian will be several times worse, because the flow of the main river feeding the plain's aquifer will be disrupted, and in practice not only will the natural recharge of the region's plains as far as Azadshahr fall, but tens of thousands of trees in the Hyrcanian forest will also be sacrificed to the dam's reservoir; trees one of whose most important functions is producing water and preserving soil. … In addition, strengthening local industries such as sericulture and textiles, and turning paddy fields into cotton fields, can help preserve the region's water resources. … This province can be one of the hubs of solar energy generation, because it has a suitable temperature and little dust.",
+  "topics": [
+   "water",
+   "forests-rangelands",
+   "energy"
+  ],
+  "places": [
+   "ramian-plain",
+   "hyrcanian-forests"
+  ],
+  "scope": "regional",
+  "figures": []
  }
 ]
