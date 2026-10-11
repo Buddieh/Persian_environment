@@ -11438,5 +11438,65 @@
     "tone": "neutral"
    }
   ]
+ },
+ {
+  "id": "ppdaOaT4OtI-07",
+  "video_id": "ppdaOaT4OtI",
+  "start_seconds": 2487,
+  "quote_fa": "اما یکی از بدترین مقاطع حیات طبیعی ایران پیروزی انقلاب اسلامی بود، که مردم گفتن آهان، حالا بریم تو این مراتع، تو این مناطق زیبا کیف کنیم. شکار بی‌رویه اتفاق افتاد. تخریب بیش از حد اتفاق افتاد. برای اولین بار درها به روی مناطق حفاظت‌شده باز شد. حتی یادمه توی روزنامه اطلاعات نوشته بودن که یه سری از پیشکسوت‌های محیط زیست رفته بودن پیش امام جمعه سمنان که آقا اینجا آفریقای کوچکه، نذارید این جبیرها، این کل‌بزها، این قوچ و میش‌ها شکار بشن، و امام جمعه سمنان در پاسخ گفته بود حلال خدا رو حرام نکنید آقا، بذارید مردم هر جور می‌خوان کیف بکنن. چرا؟ چون ما نتونستیم در اون دوره برای مردم از اهمیت حضور امن و خرامیدن کل‌بزها و قوچ و میش‌ها سخن بگیم. اگر مردم رو برخوردار از فهم بوم‌شناختی می‌کردیم و می‌دونستن که اونا هم هموطن‌های ما هستن، فقط اتکا به منطق سرنیزه، چکمه نمی‌کردیم، وضعیت محیط زیستیمون به مراتب بهتر بود.",
+  "quote_en": "But one of the worst moments for Iran's natural life was the victory of the Islamic Revolution, when people said: right, now let's go into these rangelands, these beautiful areas, and enjoy ourselves. Unrestrained hunting happened. Excessive destruction happened. For the first time the doors of protected areas were thrown open. I even remember the Ettela'at newspaper reporting that some veteran environmentalists had gone to the Friday prayer leader of Semnan and said: sir, this place is a little Africa, don't let these gazelles, these wild goats, these wild sheep be hunted; and the Friday prayer leader of Semnan had replied: don't forbid what God has made lawful, sir, let people enjoy themselves however they want. Why? Because in that period we had failed to tell people about the importance of the safe presence and graceful movement of wild goats and wild sheep. If we had given people an ecological understanding, so they knew those animals are our compatriots too, and had not relied only on the logic of the bayonet and the boot, our environmental situation would be far better.",
+  "topics": [
+   "biodiversity-wildlife",
+   "activism-society",
+   "policy-governance"
+  ],
+  "scope": "national",
+  "places": [
+   "semnan-province"
+  ]
+ },
+ {
+  "id": "eH5lw9-28rA-05",
+  "video_id": "eH5lw9-28rA",
+  "start_seconds": 1785,
+  "quote_fa": "پاغلات در قلمروی شهرستان لامرد. بسیار مردم درجه‌یکی دارید. شما اگه برید تو پاغلات، جوونا جلوی خودروها رو می‌گیرن، جلوی موتورها رو می‌گیرن که یواش برید، سروصدا نکنید، چون کمنزی‌ها روی تخم خوابیدن. و صدها نفر میرن که این کمنزی‌هایی که روی تخم خوابیدن و تا چند سال پیش به خاطر گوشتشون شکار می‌شدن رو تماشا کنن … ما یه شهری داریم تو ایران که ۴۱۱ ساله که توش قتلی اتفاق نیفتاده … در جایی قرار گرفته این شهر که ۳ تا رودخانه مهم ایران سرچشمه می‌گیره: کارون، دز و زاینده‌رود … چرا؟ چون زیباترین آبشارهای ایران مال اون منطقه‌ست … متراکم‌ترین رویشگاه بلوط اونجاست، بالاترین سرانه آب اونجاست. طبیعت به روی مردم تو اون منطقه لبخند می‌زنه؛ مردم نیازی نیست برای کسب مایحتاج خودشون به جون هم بیفتن.",
+  "quote_en": "Paghalat, in Lamerd county. You have first-rate people there. If you go to Paghalat, young people stop cars and motorbikes and ask them to go slowly and not make noise, because the 'kamanzi' are sitting on their eggs. And hundreds of people go to watch these 'kamanzi' sitting on their eggs, which until a few years ago were hunted for their meat … We have a town in Iran where no murder has happened for 411 years … This town lies where three of Iran's major rivers rise: the Karun, the Dez and the Zayandeh Rud … Why? Because Iran's most beautiful waterfalls are in that region … the densest oak stands are there, the highest per-capita water is there. Nature smiles on the people of that region; people don't need to be at each other's throats to earn their living.",
+  "topics": [
+   "biodiversity-wildlife",
+   "activism-society"
+  ],
+  "scope": "regional",
+  "places": [
+   "paqalat"
+  ],
+  "figures": [
+   {
+    "value_en": "411 years",
+    "value_fa": "۴۱۱ سال",
+    "label_en": "without a murder, in a town where the Karun, Dez and Zayandeh Rud rise",
+    "label_fa": "بی‌هیچ قتل، در شهری که کارون و دز و زاینده‌رود از آن سرچشمه می‌گیرند",
+    "kind": "claim",
+    "tone": "neutral"
+   }
+  ]
+ },
+ {
+  "id": "yCiuM8K7XGw-07",
+  "video_id": "yCiuM8K7XGw",
+  "start_seconds": 2558,
+  "quote_fa": "همه اینا رو گفتم که برسم به این نکته که فرداش که بز رو کالبدشکافی کردن دیدن که این بز دلیل مرگش این بوده که توی معده‌ش یه تیکه پلاستیک پفک مونده بود، و اون پفک به طرز دردناکی منجر به خفگی اون بز شده بود. یک گردشگر، یک انسان، یکی مثل من و شما که حواسش نبوده که طبیعت بزرگه اشکالی نداره، پفکشو خورده ولی پلاستیکشو پرت کرده تو طبیعت. اما همون حرکت سبب شده که ده‌ها نفر مورد تجاوز قرار بگیرن، صدها نفر منازلشون سرقت بشه و با یک عنصر خطرناک در جامعه ما برخورد کنن. باترفلای افکت یعنی این، و این می‌تونه پایداری رو از بین ببره.",
+  "quote_en": "I told you all this to reach this point: the next day, when they dissected the goat, they saw that the cause of its death was a piece of a cheese-puff plastic bag left in its stomach, and that bag had painfully suffocated the goat. A tourist, a human being, someone like you and me who wasn't paying attention, [thinking] nature is big, no harm done, ate his cheese puffs but threw the plastic into nature. Yet that very act led to dozens of people being raped, hundreds of people having their homes burgled, and encountering a dangerous element in our society. That is what the butterfly effect means, and it can destroy sustainability.",
+  "topics": [
+   "pollution",
+   "activism-society"
+  ],
+  "scope": "local",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "پایان داستانی است که از اکبر رجبی، فعال درمان اعتیاد، نقل می‌کند: چوپانی را به خاطر مرگ بزی از گله سرزنش و اخراج کردند، او خشمش را در خانه بر سر همسرش خالی کرد، همسر به پسر هفت‌ساله‌شان سیلی زد و آن پسر بعدها تبهکار شد.",
+    "en": "The end of a story he relays from addiction-recovery activist Akbar Rajabi: a shepherd was blamed and dismissed when a goat in his flock died, took his anger out on his wife at home, she slapped their seven-year-old son, and the boy later became a criminal."
+   }
+  ]
  }
 ]
