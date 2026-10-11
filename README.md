@@ -7,13 +7,17 @@ Live site: served by GitHub Pages from the `main` branch root.
 ## How quotes are made
 
 1. Download the video's YouTube Persian captions and transcribe the audio with Whisper.
-2. Extract Darvish's own statements (not the host's), lightly cleaned of filler but never reworded, translate them to English and tag them by topic.
+2. Extract Darvish's own statements (not the host's), trimmed to the essence of the point (cuts are marked with …) but never reworded, translate them to English and tag them by topic.
+   When he makes the same point in several videos, the clearest statement becomes the quote and the others are kept as extra source links, with a short note where they give a different number or detail.
 3. Where the captions and Whisper disagree on a number or name, a person checks it by listening. A random 1-in-10 sample of the rest is also checked.
 4. Political statements are left out unless they carry essential environmental information.
 
 ## Data
 
-- `data/entries.json`: published quotes (`id`, `video_id`, `start_seconds`, `quote_fa`, `quote_en`, `topics`).
+- `data/entries.json`: published quotes (`id`, `video_id`, `start_seconds`, `quote_fa`, `quote_en`, `topics`). Optional fields:
+  - `context_fa`/`context_en`: one editorial line shown above a quote that doesn't stand on its own.
+  - `sources`: other places he makes the same point, as `{video_id, start_seconds, note_fa?, note_en?}`. The main source stays in `video_id`/`start_seconds`; a note says how that source differs, for example a different figure.
+  - `merged_from`: ids of the quotes folded into this one.
 - `data/videos.json`: source videos (`id`, `title_fa`, `channel`, `upload_date`).
 - `data/places.json`: the places quotes can refer to (`id`, `en`, `fa`, `kind`, `provinces` as province codes, and `lat`/`lon` for anything smaller than a province). Province-wide places have no coordinates and only shade the map.
 - `data/iran-provinces.json`: province outlines for the map, already projected to SVG paths. Built from the MIT-licensed [iran-geojson](https://www.npmjs.com/package/iran-geojson) package; it rarely needs to change.

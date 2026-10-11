@@ -55,6 +55,11 @@ select { font: inherit; font-size: .9rem; padding: 6px 10px; border-radius: 8px;
 .alt.fa { font-family: var(--font-fa); direction: rtl; text-align: right; }
 .alt.en { font-family: var(--font-en); direction: ltr; text-align: left; }
 details summary { cursor: pointer; color: var(--accent); font-size: .85rem; }
+.context { margin: 0; font-size: .85rem; color: var(--muted); font-style: italic; }
+.also { display: grid; gap: 6px; font-size: .82rem; color: var(--muted); border-top: 1px dashed var(--line); padding-top: 10px; }
+.also-h { font-weight: 600; }
+.also-row { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+.also-note { flex-basis: 100%; }
 .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: .82rem; color: var(--muted); }
 .ts { color: var(--accent); background: var(--accent-soft); padding: 2px 10px; border-radius: 6px; text-decoration: none; font-variant-numeric: tabular-nums; direction: ltr; unicode-bidi: isolate; }
 .ts:hover { text-decoration: underline; }

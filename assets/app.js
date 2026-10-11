@@ -24,7 +24,7 @@
       searchPh: "جست‌وجو: فرونشست، ریزگرد، کارون…",
       foot: "متن‌ها از زیرنویس خودکار و رونویسی Whisper استخراج و با شنیدن ویدیو بازبینی شده‌اند. اگر اشتباهی دیدید، لطفاً در مخزن گیت‌هاب گزارش دهید.",
       all: "همه", allVideos: "همه ویدیوها", count: n => fmtNum(n, "fa") + " نقل‌قول",
-      none: "نقل‌قولی با این جست‌وجو پیدا نشد.", other: "ترجمه انگلیسی", watch: "تماشا از",
+      none: "نقل‌قولی با این جست‌وجو پیدا نشد.", other: "ترجمه انگلیسی", watch: "تماشا از", alsoIn: "همین حرف در گفت‌وگوهای دیگر",
       mapTitle: "از کجا حرف می‌زند",
       mapNote: n => "بر اساس " + fmtNum(n, "fa") + " گفت‌وگویی که تا امروز رونویسی شده؛ پس نقشه نشان می‌دهد این گفت‌وگوها به کجا پرداخته‌اند، نه تصویر کاملی از مشکلات ایران. روی استان یا نقطه بزنید تا نقل‌قول‌هایش بیاید.",
       mapLabel: "نقشه استان‌های ایران و جاهایی که درویش از آن‌ها حرف می‌زند",
@@ -47,7 +47,7 @@
       searchPh: "Search: subsidence, dust, Karun…",
       foot: "Quotes were extracted from YouTube's automatic captions and a Whisper transcript, then checked by listening to the video. Translations are ours. If you spot a mistake, please report it on the GitHub repository.",
       all: "All", allVideos: "All videos", count: n => n + (n === 1 ? " quote" : " quotes"),
-      none: "No quotes match this search.", other: "Original Persian", watch: "Watch from",
+      none: "No quotes match this search.", other: "Original Persian", watch: "Watch from", alsoIn: "He makes the same point in",
       mapTitle: "Where he's talking about",
       mapNote: n => "Based on the " + n + " interviews transcribed so far, so the map shows what those conversations covered, not a full picture of Iran's problems. Tap a province or a dot to see its quotes.",
       mapLabel: "Map of Iran's provinces and the places Darvish talks about",
@@ -256,13 +256,18 @@
     return frag;
   }
 
+  // A merged quote lists its other appearances in `sources`; the main one stays in video_id/start_seconds.
+  const videosOf = e => [e.video_id, ...(e.sources || []).map(s => s.video_id)];
+  const watchUrl = (id, sec) => "https://www.youtube.com/watch?v=" + encodeURIComponent(id) + "&t=" + Math.floor(sec) + "s";
+  const srcLabel = v => (v.title_fa || "") + (v.channel ? " · " + v.channel : "") + (v.upload_date ? " · " + v.upload_date.slice(0, 4) : "");
+
   function render() {
     const t = I18N[lang];
     const terms = q.trim().split(/\s+/).filter(Boolean);
     const nterms = terms.map(norm);
     const list = entries.filter(e =>
       (topic === "all" || (e.topics || []).includes(topic)) &&
-      (video === "all" || e.video_id === video) && matchesWhere(e) &&
+      (video === "all" || videosOf(e).includes(video)) && matchesWhere(e) &&
       (!nterms.length || nterms.every(w => e._idx.includes(w))));
     $("count").textContent = t.count(list.length);
     const aw = $("active-where");
@@ -273,17 +278,25 @@
     const other = lang === "fa" ? "en" : "fa";
     box.replaceChildren(...list.map(e => {
       const v = videos[e.video_id] || {};
-      const url = "https://www.youtube.com/watch?v=" + encodeURIComponent(e.video_id) + "&t=" + Math.floor(e.start_seconds) + "s";
+      const url = watchUrl(e.video_id, e.start_seconds);
       const pl = (e.places || []).map(id => places[id]).filter(Boolean);
+      const dir = lang === "fa" ? "rtl" : "ltr";
       return el("article", { class: "card", id: "q-" + e.id },
+        e["context_" + lang] ? el("p", { class: "context", lang, dir, text: e["context_" + lang] }) : null,
         el("p", { class: "quote " + lang, lang, dir: lang === "fa" ? "rtl" : "ltr" }, highlight(e["quote_" + lang], terms)),
         el("details", null,
           el("summary", { text: t.other }),
           el("p", { class: "alt " + other, lang: other, dir: other === "fa" ? "rtl" : "ltr" }, highlight(e["quote_" + other], terms))),
         el("div", { class: "meta" },
           el("a", { class: "ts", href: url, target: "_blank", rel: "noopener", "aria-label": t.watch + " " + fmtTime(e.start_seconds), text: "▶ " + fmtTime(e.start_seconds) }),
-          el("span", { class: "src", lang: "fa", text: (v.title_fa || "") + (v.channel ? " · " + v.channel : "") + (v.upload_date ? " · " + v.upload_date.slice(0, 4) : "") }),
+          el("span", { class: "src", lang: "fa", text: srcLabel(v) }),
           ...(e.topics || []).map(k => el("span", { class: "chip", text: (TOPICS[k] || { [lang]: k })[lang] }))),
+        (e.sources || []).length ? el("div", { class: "also" },
+          el("span", { class: "also-h", text: t.alsoIn }),
+          ...e.sources.map(s => el("div", { class: "also-row" },
+            el("a", { class: "ts", href: watchUrl(s.video_id, s.start_seconds), target: "_blank", rel: "noopener", "aria-label": t.watch + " " + fmtTime(s.start_seconds), text: "▶ " + fmtTime(s.start_seconds) }),
+            el("span", { class: "src", lang: "fa", text: srcLabel(videos[s.video_id] || {}) }),
+            s["note_" + lang] ? el("span", { class: "also-note", lang, dir, text: s["note_" + lang] }) : null))) : null,
         pl.length ? el("div", { class: "places" }, ...pl.map(p => {
           const b = el("button", { type: "button", class: "place", text: "📍 " + p[lang] });
           b.addEventListener("click", () => setWhere({ type: "place", id: p.id }));
@@ -313,7 +326,7 @@
       vs.forEach(v => { videos[v.id] = v; });
       (ps || []).forEach(p => { places[p.id] = p; });
       geo = ps && g ? g : null;
-      entries = es.map(e => Object.assign(e, { _idx: norm(e.quote_fa + " " + e.quote_en) }))
+      entries = es.map(e => Object.assign(e, { _idx: norm([e.quote_fa, e.quote_en, e.context_fa, e.context_en].filter(Boolean).join(" ")) }))
         .sort((a, b) => {
           if (a.video_id === b.video_id) return a.start_seconds - b.start_seconds;
           const da = (videos[a.video_id] || {}).upload_date || "", db = (videos[b.video_id] || {}).upload_date || "";

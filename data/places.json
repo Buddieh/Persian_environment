@@ -384,5 +384,204 @@
   "provinces": [
    "IR25"
   ]
+ },
+ {
+  "id": "shahr-e-rey",
+  "en": "Shahr-e Rey",
+  "fa": "شهر ری",
+  "kind": "city",
+  "provinces": [
+   "IR07"
+  ],
+  "lat": 35.59,
+  "lon": 51.44
+ },
+ {
+  "id": "gezir",
+  "en": "Gezir",
+  "fa": "گزیر",
+  "kind": "site",
+  "provinces": [
+   "IR23"
+  ],
+  "lat": 26.81,
+  "lon": 54.47
+ },
+ {
+  "id": "gareh-bygone",
+  "en": "Gareh Bygone plain, Fasa",
+  "fa": "دشت گربایگان فسا",
+  "kind": "site",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 28.65,
+  "lon": 53.9
+ },
+ {
+  "id": "tang-e-sorkh",
+  "en": "Tang-e Sorkh dam, Shiraz",
+  "fa": "سد تنگ سرخ، شیراز",
+  "kind": "site",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 29.66,
+  "lon": 52.43
+ },
+ {
+  "id": "maharlu",
+  "en": "Lake Maharlu",
+  "fa": "دریاچه مهارلو",
+  "kind": "lake",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 29.45,
+  "lon": 52.8
+ },
+ {
+  "id": "khor-gursuzan",
+  "en": "Khor-e Gursuzan, Bandar Abbas",
+  "fa": "خور گورسوزان، بندرعباس",
+  "kind": "site",
+  "provinces": [
+   "IR23"
+  ],
+  "lat": 27.19,
+  "lon": 56.3
+ },
+ {
+  "id": "gotvand-dam",
+  "en": "Gotvand dam",
+  "fa": "سد گتوند",
+  "kind": "site",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 32.27,
+  "lon": 48.93
+ },
+ {
+  "id": "qom-saveh",
+  "en": "Qom–Saveh area",
+  "fa": "منطقه قم و ساوه",
+  "kind": "region",
+  "provinces": [
+   "IR26",
+   "IR22"
+  ],
+  "lat": 34.85,
+  "lon": 50.6
+ },
+ {
+  "id": "qeytarieh-park",
+  "en": "Qeytarieh Park, Tehran",
+  "fa": "پارک قیطریه، تهران",
+  "kind": "park",
+  "provinces": [
+   "IR07"
+  ],
+  "lat": 35.79,
+  "lon": 51.44
+ },
+ {
+  "id": "hasanabad-jarghouyeh",
+  "en": "Hasanabad-e Jarghouyeh qanat",
+  "fa": "قنات حسن‌آباد جرقویه",
+  "kind": "site",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.3,
+  "lon": 52.4
+ },
+ {
+  "id": "kahnuj-kolmarz",
+  "en": "Kolmarz area, Kahnuj",
+  "fa": "منطقه کلمرز، کهنوج",
+  "kind": "habitat",
+  "provinces": [
+   "IR15"
+  ],
+  "lat": 27.95,
+  "lon": 57.7
+ },
+ {
+  "id": "shiraz",
+  "en": "Shiraz",
+  "fa": "شیراز",
+  "kind": "city",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 29.61,
+  "lon": 52.54
+ },
+ {
+  "id": "kashafrud",
+  "en": "Kashafrud River",
+  "fa": "رود کشف‌رود",
+  "kind": "river",
+  "provinces": [
+   "IR30"
+  ],
+  "lat": 36.4,
+  "lon": 59.9
+ },
+ {
+  "id": "arzhan-parishan",
+  "en": "Arzhan and Parishan wetlands",
+  "fa": "تالاب‌های ارژن و پریشان",
+  "kind": "wetland",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 29.6,
+  "lon": 51.9
+ },
+ {
+  "id": "hyrcanian-forests",
+  "en": "Hyrcanian forests",
+  "fa": "جنگل‌های هیرکانی",
+  "kind": "forest",
+  "provinces": [
+   "IR19",
+   "IR21",
+   "IR27"
+  ]
+ },
+ {
+  "id": "saravan-landfill",
+  "en": "Saravan landfill, Rasht",
+  "fa": "کوه زباله سراوان، رشت",
+  "kind": "site",
+  "provinces": [
+   "IR19"
+  ],
+  "lat": 37.12,
+  "lon": 49.63
+ },
+ {
+  "id": "anzali-wetland",
+  "en": "Anzali wetland",
+  "fa": "تالاب انزلی",
+  "kind": "wetland",
+  "provinces": [
+   "IR19"
+  ],
+  "lat": 37.43,
+  "lon": 49.4
+ },
+ {
+  "id": "kushkenar",
+  "en": "Birahu coast, Kushkenar",
+  "fa": "ساحل بیرهو، کوشکنار",
+  "kind": "site",
+  "provinces": [
+   "IR23"
+  ],
+  "lat": 27.24,
+  "lon": 53.39
  }
 ]
