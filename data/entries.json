@@ -2926,7 +2926,14 @@
    "policy-governance"
   ],
   "scope": "national",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«تراکم‌فروشی» یعنی فروش مجوز ساخت بیش از تراکم مجاز به دست شهرداری‌ها.",
+    "en": "'Sale of building-density permits' means municipalities selling permission to build beyond zoning limits."
+   }
+  ]
  },
  {
   "id": "tg-13973-1",
@@ -3285,7 +3292,14 @@
    "dezak"
   ],
   "scope": "local",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«آبادبوم» واژه‌ای است که درویش برای روستا یا سکونتگاه به کار می‌برد.",
+    "en": "Darvish uses «آبادبوم» for a village or settlement."
+   }
+  ]
  },
  {
   "id": "tg-14533-1",
@@ -3339,7 +3353,14 @@
    "zayandeh-rud"
   ],
   "scope": "local",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«ناترازی آبخوان» یعنی برداشت آب از سفره زیرزمینی بیش از تغذیه آن است.",
+    "en": "'Aquifer imbalance' means more water is drawn from the aquifer than flows back in."
+   }
+  ]
  },
  {
   "id": "tg-14533-3",
@@ -3356,7 +3377,14 @@
    "zayandeh-rud"
   ],
   "scope": "regional",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "گورماهی اصفهانی (Aphanius isfahanensis) ماهی کوچک و بومی حوضه زاینده‌رود است.",
+    "en": "The Isfahan toothcarp (Aphanius isfahanensis) is a small fish found only in the Zayandeh Rud basin."
+   }
+  ]
  },
  {
   "id": "tg-14542-1",
@@ -3727,7 +3755,14 @@
    "policy-governance"
   ],
   "scope": "national",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«همین نگاه» به سخن نقل‌شده از چرچیل برمی‌گردد که امیدوار بود نیل پیش از رسیدن به مدیترانه به‌کلی مهار و تقسیم شود.",
+    "en": "'This very outlook' refers to Churchill's remark, quoted just before, hoping the Nile would be fully harnessed and shared out before reaching the Mediterranean."
+   }
+  ]
  },
  {
   "id": "tg-15052-1",
@@ -3742,7 +3777,14 @@
    "water"
   ],
   "scope": "regional",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«این مصوبه» مقرره‌ای است که پیش‌تر در همین پست آمده: منع ایجاد صنایع آب‌بر و انرژی‌بر تازه بیرون از سواحل جنوبی کشور و انتقال صنایع موجود به آنجا.",
+    "en": "'This directive' is the regulation quoted earlier in the post, banning new water- and energy-intensive industries outside Iran's southern coasts and moving existing ones there."
+   }
+  ]
  },
  {
   "id": "tg-15236-1",
@@ -3847,6 +3889,13 @@
     "kind": "claim",
     "tone": "recovery"
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "فرشته علمشاه، فعال حفاظت از گورماهی اصفهانی است که خودرویش به آتش کشیده شد؛ این کارزار برای جایگزینی آن خودرو بود.",
+    "en": "Fereshteh Alamshah protects the Isfahan toothcarp; her car was burned, and the campaign raised money to replace it."
+   }
   ]
  },
  {
@@ -3923,6 +3972,13 @@
     "kind": "claim",
     "tone": "recovery"
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "ساتبا، سازمان انرژی‌های تجدیدپذیر و بهره‌وری انرژی برق ایران است.",
+    "en": "SATBA is Iran's Renewable Energy and Energy Efficiency Organization."
+   }
   ]
  },
  {
@@ -3941,7 +3997,14 @@
    "qeshm-mangroves"
   ],
   "scope": "local",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "حرا (Avicennia marina) و چندل (Rhizophora mucronata) دو گونه درخت مانگرو در سواحل جنوب ایران‌اند.",
+    "en": "Hara (grey mangrove, Avicennia marina) and chandal (Rhizophora mucronata) are the two mangrove trees of Iran's southern coast."
+   }
+  ]
  },
  {
   "id": "tg-15538-1",
@@ -4047,6 +4110,13 @@
     "tone": "loss",
     "share": 0.7272727272727273
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«دشت ممنوعه» دشتی است که به دلیل برداشت بیش از حد آب زیرزمینی، حفر چاه تازه در آن رسماً ممنوع شده است.",
+    "en": "A 'prohibited' plain is one officially declared over-drafted, where digging new wells is banned."
+   }
   ]
  },
  {
@@ -4086,6 +4156,13 @@
     "label_fa": "آبی که در اثر ضایعات بخش کشاورزی هدر می‌رود",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«آن رقم» به نیم میلیون مترمکعب آبی برمی‌گردد که به گفته نویسنده، پیش از این بخش، صرف سبزه نوروزی می‌شود.",
+    "en": "'That figure' refers to the half a million m³ of water said, just before this passage, to go into growing Nowruz sabzeh."
    }
   ]
  },
@@ -4141,6 +4218,13 @@
     "kind": "claim",
     "tone": "loss",
     "share": 0.5
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«اصل چهار ترومن» برنامه کمک‌های فنی آمریکا بود که از اوایل دهه ۱۳۳۰ (۱۹۵۰) در ایران آغاز شد.",
+    "en": "Truman's Point Four was the US technical-aid programme that began in Iran in the early 1950s."
    }
   ]
  },
@@ -4217,6 +4301,13 @@
     "label_fa": "سیلابی که تالاب‌های خوزستان می‌توانند بپذیرند",
     "kind": "claim",
     "tone": "recovery"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«پهنه‌ای» که از آن سخن می‌رود، تالاب هورالعظیم است.",
+    "en": "'An expanse' is Hoor al-Azim wetland, named in the preceding sentence."
    }
   ]
  },
@@ -4683,6 +4774,15 @@
      }
     ]
    }
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "۵۶۰مترمکعب در روز",
+    "mark_en": "560 cubic meters a day",
+    "fa": "هفت لیتر در ثانیه حدود ۶۰۵ مترمکعب در روز می‌شود، نه ۵۶۰.",
+    "en": "Seven litres a second is about 605 cubic metres a day, not 560."
+   }
   ]
  },
  {
@@ -4794,6 +4894,13 @@
     "label_fa": "نرخ فرسایش خاک",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "ارژن نوعی بادام وحشی (Amygdalus) و بنه همان پسته وحشی (Pistacia atlantica) است.",
+    "en": "Arzhan is a wild almond (Amygdalus) and baneh is wild pistachio (Pistacia atlantica)."
    }
   ]
  },
@@ -4957,6 +5064,13 @@
     "kind": "study",
     "tone": "loss"
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "سد شاه عباس نام پیشین سد زاینده‌رود است.",
+    "en": "The Shah Abbas dam is the former name of the Zayandeh Rud dam."
+   }
   ]
  },
  {
@@ -4995,6 +5109,13 @@
       "value": 2000000
      }
     ]
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "اشاره به طرح انتقال آب از سرشاخه‌های دز در لرستان به قم.",
+    "en": "This refers to the scheme transferring water to Qom from the Dez headwaters in Lorestan."
    }
   ]
  },
@@ -5073,6 +5194,15 @@
      }
     ]
    }
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "۶۲هزارهکتار",
+    "mark_en": "62 thousand hectares",
+    "fa": "افزایش کل از ۳۰ به ۷۸ هزار هکتار، ۴۸ هزار هکتار است؛ پس ۶۲ هزار هکتار نمی‌تواند بخشی از آن باشد و یکی از این اعداد احتمالاً نادرست است. ارقام از معاون آب منطقه‌ای اصفهان نقل شده‌اند.",
+    "en": "The total rise from 30 to 78 thousand hectares is 48 thousand, so 62 thousand cannot be part of it; one of these numbers is probably wrong. The figures are quoted from Isfahan's regional water deputy."
+   }
   ]
  },
  {
@@ -5142,7 +5272,14 @@
    "shimbar"
   ],
   "scope": "regional",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«مالچ» در اینجا مالچ نفتی است که برای تثبیت تپه‌های شنی پاشیده می‌شود.",
+    "en": "'Mulch' here is the petroleum mulch sprayed to fix sand dunes."
+   }
+  ]
  },
  {
   "id": "web-d82bf4a8-2",
@@ -5161,7 +5298,14 @@
    "khuzestan"
   ],
   "scope": "regional",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«شیر یال‌کوتاه ارژن» همان شیر ایرانی (آسیایی) است که به نام دشت ارژن شناخته می‌شد.",
+    "en": "The 'short-maned lion of Arzhan' is the Persian (Asiatic) lion, named after the Dasht-e Arzhan area."
+   }
+  ]
  },
  {
   "id": "web-h22a2a9d-1",
@@ -5415,6 +5559,13 @@
     "tone": "recovery",
     "share": 0.015
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "آبخوانداری یعنی پخش سیلاب روی دشت برای تغذیه آب‌های زیرزمینی.",
+    "en": "Aquifer management (abkhandari) means spreading floodwater over the land to recharge groundwater."
+   }
   ]
  },
  {
@@ -5493,6 +5644,13 @@
     "label_fa": "آب بخش کشاورزی که هر سال با ضایعات از دست می‌رود",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«سندرم باکستر» اشاره به «باکسر»، اسب سخت‌کوش رمان «قلعه حیوانات» جورج اورول است که شعارش «بیشتر کار خواهم کرد» بود؛ یعنی پافشاری بر همان راه نادرست به جای تغییر آن.",
+    "en": "'Boxer syndrome' refers to Boxer, the hard-working horse in George Orwell's Animal Farm (spelled 'Baxter' in the Persian), whose answer to every problem is 'I will work harder': pushing harder down the wrong road instead of changing course."
    }
   ]
  },
@@ -5577,7 +5735,14 @@
    "masileh-plain"
   ],
   "scope": "regional",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "جبیر نوعی آهوی بومی ایران (Gazella bennettii) است.",
+    "en": "The jebeer is a gazelle native to Iran (Gazella bennettii)."
+   }
+  ]
  },
  {
   "id": "web-h669c107-1",
@@ -5648,6 +5813,13 @@
     "kind": "claim",
     "tone": "loss"
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "آب‌بندان استخری سنتی و دست‌ساز در شمال ایران است که مانند یک تالاب کوچک عمل می‌کند.",
+    "en": "An ab-bandan is a traditional man-made pond in northern Iran that works like a small wetland."
+   }
   ]
  },
  {
@@ -5683,6 +5855,13 @@
     "label_fa": "وسعت طرح آبخوانداری اهرم",
     "kind": "claim",
     "tone": "neutral"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "آبخوانداری یعنی پخش سیلاب روی دشت برای تغذیه آب‌های زیرزمینی.",
+    "en": "Aquifer management (abkhandari) means spreading floodwater over the land to recharge groundwater."
    }
   ]
  },
@@ -5752,7 +5931,14 @@
    "paqalat"
   ],
   "scope": "local",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "کهور (Prosopis cineraria) و کُنار (Ziziphus spina-christi) درختان بومی جنوب ایران‌اند.",
+    "en": "Kahur (Prosopis cineraria) and kunar (Christ's thorn, Ziziphus spina-christi) are native trees of southern Iran."
+   }
+  ]
  },
  {
   "id": "web-h7043fab-1",
@@ -5807,7 +5993,14 @@
    "kor-bakhtegan"
   ],
   "scope": "local",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "به گفته همین نوشته، این تالاب در سال‌های نخست پس از انقلاب برای گسترش کشاورزی خشکانده شد و بعدها با تلاش یک روستایی به نام سیروس زارع دوباره احیا شد. «لویی» نام محلی گیاه Typha است.",
+    "en": "Per the same post, the wetland was drained in the early years after the revolution to expand farming and was later revived by a villager, Siroos Zare. «لویی» is cattail (Typha)."
+   }
+  ]
  },
  {
   "id": "web-ca896be1-1",
@@ -5929,6 +6122,13 @@
     "kind": "claim",
     "tone": "loss"
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«گلازنی» یعنی برداشت گال (مازو) از درختان بلوط؛ «کت‌زنی» آسیب زدن به تنه بلوط است.",
+    "en": "Gall harvesting means collecting oak galls; kat-zani is a local practice of cutting into oak trunks."
+   }
   ]
  },
  {
@@ -5956,6 +6156,13 @@
     "label_fa": "جنگل‌کاری موفق در زاگرس که سازمان متولی پس از ۱۱۰ سال می‌تواند نشان دهد",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«سعید»، سعید انصاریان است که منطقه حفاظت‌شده مردمی الگن را راه انداخت.",
+    "en": "'Saeed' is Saeed Ansarian, who led the Elgan community-protected area."
    }
   ]
  },
@@ -6091,6 +6298,13 @@
     "kind": "claim",
     "tone": "recovery"
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«عادل»، عادل سالاری، شکارچی پیشین اهل کهنوج کرمان است.",
+    "en": "'Adel' is Adel Salari, a former hunter from Kahnuj, Kerman province."
+   }
   ]
  },
  {
@@ -6131,7 +6345,14 @@
    "arsanjan-forests"
   ],
   "scope": "local",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "این نوشته درباره مسیر پیشنهادی جاده تازه شیراز–یزد است.",
+    "en": "The post is about the planned route of a new Shiraz–Yazd road."
+   }
+  ]
  },
  {
   "id": "web-h20c7d1e-1",
@@ -6164,7 +6385,14 @@
    "karkas-mountains"
   ],
   "scope": "regional",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "زمینه این نوشته معدن آهن کمو نزدیک قمصر کاشان است.",
+    "en": "The post is about the Kamu iron mine near Qamsar, Kashan."
+   }
+  ]
  },
  {
   "id": "web-h97519de-1",
@@ -6217,6 +6445,14 @@
     "label_fa": "نخلی که در سه دهه در خوزستان مرده‌اند",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "چرم‌شیر",
+    "fa": "نام این سد «چم‌شیر» است (روی رودخانه زهره).",
+    "en": "The dam's name is Chamshir (چم‌شیر), on the Zohreh river; the original spells it «چرم‌شیر»."
    }
   ]
  },
@@ -6369,7 +6605,14 @@
    "zonuz"
   ],
   "scope": "local",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "این نوشته درباره ریزگردهای ناشی از معدن‌کاوی در زنوز، شهرستان مرند در آذربایجان شرقی است.",
+    "en": "The post is about dust from mining near Zonuz, Marand county, East Azerbaijan."
+   }
+  ]
  },
  {
   "id": "web-h3d86a7b-1",
@@ -6411,6 +6654,15 @@
     "label_fa": "زمان لازم برای درمان فرونشست زمین",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "دشت صفا",
+    "mark_en": "the Safa plain",
+    "fa": "به‌احتمال زیاد منظور «دشت فسا» است؛ کانون شناخته‌شده فرونشست در استان فارس، دشت‌های فسا و جهرم است.",
+    "en": "Almost certainly the Fasa plain (فسا): Fasa and Jahrom are Fars province's known subsidence hotspot."
    }
   ]
  },
@@ -6523,6 +6775,13 @@
       "value": 7
      }
     ]
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "با بارگذاری بیش از ۷ و ظرفیت پایدار حدود ۴ میلیارد مترمکعب، دست‌کم ۳ میلیارد مترمکعب کاهش لازم است؛ «حدود چهار میلیارد» عدد متن اصلی است.",
+    "en": "With a load of more than 7 and a sustainable level of about 4 billion m³, the cut needed is at least 3 billion m³; 'about four billion' is the figure in the original."
    }
   ]
  },
@@ -6663,6 +6922,13 @@
     "kind": "claim",
     "tone": "recovery"
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "چاه‌نیمه‌ها مخزن‌های گودال‌مانند بزرگی در سیستان‌اند که از رود هیرمند پر می‌شوند؛ شیب‌آب و پشت‌آب طرح‌های آبیاری دشت سیستان‌اند.",
+    "en": "Chah-nimehs are large reservoir pits in Sistan filled from the Helmand; Shib-Ab and Posht-Ab are irrigation schemes in the Sistan plain."
+   }
   ]
  },
  {
@@ -6682,7 +6948,16 @@
    "tehran"
   ],
   "scope": "national",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "۲۵ متر",
+    "mark_en": "25 meters",
+    "fa": "به‌احتمال زیاد منظور «۲۵ سانتی‌متر» است: جمله آن را با ۳۶ سانتی‌متر در سال مقایسه می‌کند و فرونشست ۲۵ متر در سال ممکن نیست.",
+    "en": "Almost certainly 25 centimetres: the sentence compares it with 36 cm a year, and subsidence of 25 metres a year is not possible."
+   }
+  ]
  },
  {
   "id": "web-d4cc91c2-1",
@@ -6709,6 +6984,13 @@
     "label_fa": "ظرفیت سد چم‌شیر، پنجمین سد بزرگ ایران",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "سازند گچساران لایه زمین‌شناسی نمک‌دار و گچی است.",
+    "en": "The Gachsaran formation is a salt- and gypsum-bearing rock layer."
    }
   ]
  },
@@ -6928,6 +7210,13 @@
     "label_fa": "ارزش احتمالی یک درخت ۵۰ ساله در طبیعت",
     "kind": "claim",
     "tone": "neutral"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "کُنار (Ziziphus spina-christi) درخت بومی جنوب ایران است.",
+    "en": "Kunar (Christ's thorn, Ziziphus spina-christi) is a native tree of southern Iran."
    }
   ]
  },
@@ -7265,6 +7554,13 @@
    "hyrcanian-forests"
   ],
   "scope": "regional",
-  "figures": []
+  "figures": [],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "«آن سد»، سدی است که در ازای طرح انتقال آب به مردم رامیان وعده داده شده است.",
+    "en": "'That dam' is the dam promised to the people of Ramian as compensation for a water transfer."
+   }
+  ]
  }
 ]

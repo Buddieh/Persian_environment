@@ -25,7 +25,7 @@
       foot: "متن ویدیوها از زیرنویس خودکار و رونویسی Whisper استخراج و با شنیدن ویدیو بازبینی شده‌اند؛ نقل‌قول‌های نوشتاری عیناً از متن اصلی برداشته شده‌اند. اگر اشتباهی دیدید، لطفاً در مخزن گیت‌هاب گزارش دهید.",
       all: "همه", allVideos: "همه منابع", count: n => fmtNum(n, "fa") + " نقل‌قول",
       none: "نقل‌قولی با این جست‌وجو پیدا نشد.", other: "ترجمه انگلیسی", watch: "تماشا از", read: "خواندن در",
-      srcType: { telegram: "تلگرام", website: "وب‌سایت", newspaper: "روزنامه" }, alsoIn: "همین حرف در گفت‌وگوهای دیگر",
+      srcType: { telegram: "تلگرام", website: "وب‌سایت", newspaper: "روزنامه" }, noteType: { slip: "احتمالاً لغزش در متن اصلی", explain: "توضیح" }, alsoIn: "همین حرف در گفت‌وگوهای دیگر",
       mapTitle: "از کجا حرف می‌زند",
       mapNote: n => "بر اساس " + fmtNum(n, "fa") + " منبعی (گفت‌وگو، نوشته یا کانال) که تا امروز بررسی شده؛ پس نقشه نشان می‌دهد این منابع به کجا پرداخته‌اند، نه تصویر کاملی از مشکلات ایران. روی استان یا نقطه بزنید تا نقل‌قول‌هایش بیاید.",
       mapLabel: "نقشه استان‌های ایران و جاهایی که درویش از آن‌ها حرف می‌زند",
@@ -49,7 +49,7 @@
       foot: "Quotes were extracted from YouTube's automatic captions and a Whisper transcript, then checked by listening to the video. Written quotes are copied word for word from the original text. Translations are ours. If you spot a mistake, please report it on the GitHub repository.",
       all: "All", allVideos: "All sources", count: n => n + (n === 1 ? " quote" : " quotes"),
       none: "No quotes match this search.", other: "Original Persian", watch: "Watch from", read: "Read on",
-      srcType: { telegram: "Telegram", website: "Website", newspaper: "Newspaper" }, alsoIn: "He makes the same point in",
+      srcType: { telegram: "Telegram", website: "Website", newspaper: "Newspaper" }, noteType: { slip: "Likely slip in the original", explain: "Note" }, alsoIn: "He makes the same point in",
       mapTitle: "Where he's talking about",
       mapNote: n => "Based on the " + n + " sources (interviews, articles and his channel) covered so far, so the map shows what those sources covered, not a full picture of Iran's problems. Tap a province or a dot to see its quotes.",
       mapLabel: "Map of Iran's provinces and the places Darvish talks about",
@@ -267,6 +267,31 @@
     return frag;
   }
 
+  // Editor's notes sit under the quote. A "slip" note also marks its fragment (mark_fa / mark_en) inside the quote,
+  // which stays exactly as written; the number links the fragment to its note.
+  function quoteText(e, l, terms) {
+    const frag = document.createDocumentFragment();
+    const marks = (e.notes || []).map((n, i) => ({ text: n["mark_" + l], i })).filter(m => m.text && e["quote_" + l].includes(m.text));
+    let rest = e["quote_" + l];
+    marks.sort((a, b) => rest.indexOf(a.text) - rest.indexOf(b.text)).forEach(m => {
+      const at = rest.indexOf(m.text);
+      if (at < 0) return;
+      frag.append(highlight(rest.slice(0, at), terms),
+        el("span", { class: "slip" }, highlight(m.text, terms)),
+        el("a", { class: "slip-n", href: "#n-" + e.id + "-" + m.i, text: fmtNum(m.i + 1, l) }));
+      rest = rest.slice(at + m.text.length);
+    });
+    frag.append(highlight(rest, terms));
+    return frag;
+  }
+  function notesBox(e, t, dir) {
+    const ns = (e.notes || []).filter(n => n[lang]);
+    if (!ns.length) return null;
+    return el("div", { class: "cnotes" }, ...e.notes.map((n, i) => n[lang] ? el("aside", { class: "cnote is-" + (n.type || "explain"), id: "n-" + e.id + "-" + i, lang, dir },
+      el("span", { class: "cnote-h" }, n["mark_" + lang] || n.mark_fa ? el("span", { class: "cnote-n", text: fmtNum(i + 1, lang) }) : null, t.noteType[n.type || "explain"]),
+      el("span", { text: n[lang] })) : null));
+  }
+
   // A merged quote lists its other appearances in `sources`; the main one stays in video_id/start_seconds.
   const videosOf = e => [srcOf(e), ...(e.sources || []).map(s => s.video_id)];
   const watchUrl = (id, sec) => "https://www.youtube.com/watch?v=" + encodeURIComponent(id) + "&t=" + Math.floor(sec) + "s";
@@ -298,10 +323,11 @@
       const dir = lang === "fa" ? "rtl" : "ltr";
       return el("article", { class: "card", id: "q-" + e.id },
         e["context_" + lang] ? el("p", { class: "context", lang, dir, text: e["context_" + lang] }) : null,
-        el("p", { class: "quote " + lang, lang, dir: lang === "fa" ? "rtl" : "ltr" }, highlight(e["quote_" + lang], terms)),
+        el("p", { class: "quote " + lang, lang, dir: lang === "fa" ? "rtl" : "ltr" }, quoteText(e, lang, terms)),
         el("details", null,
           el("summary", { text: t.other }),
-          el("p", { class: "alt " + other, lang: other, dir: other === "fa" ? "rtl" : "ltr" }, highlight(e["quote_" + other], terms))),
+          el("p", { class: "alt " + other, lang: other, dir: other === "fa" ? "rtl" : "ltr" }, quoteText(e, other, terms))),
+        notesBox(e, t, dir),
         el("div", { class: "meta" },
           link,
           el("span", { class: "src", lang: "fa", text: written ? (e.title_fa ? e.title_fa + " · " : "") + (v.channel || v.title_fa || "") : srcLabel(v) }),
@@ -341,7 +367,7 @@
       vs.concat(ws || []).forEach(v => { videos[v.id] = v; });
       (ps || []).forEach(p => { places[p.id] = p; });
       geo = ps && g ? g : null;
-      entries = es.map(e => Object.assign(e, { _idx: norm([e.quote_fa, e.quote_en, e.context_fa, e.context_en].filter(Boolean).join(" ")) }))
+      entries = es.map(e => Object.assign(e, { _idx: norm([e.quote_fa, e.quote_en, e.context_fa, e.context_en, ...(e.notes || []).flatMap(n => [n.fa, n.en])].filter(Boolean).join(" ")) }))
         .sort((a, b) => {
           if (a.video_id && a.video_id === b.video_id) return a.start_seconds - b.start_seconds;
           const da = dateOf(a), db = dateOf(b);
