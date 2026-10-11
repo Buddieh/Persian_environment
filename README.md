@@ -1,6 +1,6 @@
 # Mohammad Darvish on Iran's environment
 
-A searchable, bilingual (Persian/English) archive of Mohammad Darvish's statements about Iran's environment, taken from interviews and podcasts on YouTube. Every quote links to the exact moment in its video.
+A searchable, bilingual (Persian/English) archive of Mohammad Darvish's statements about Iran's environment, taken from interviews and podcasts on YouTube and from his own writing (his Telegram channel and website). Every quote links to its source, and video quotes to the exact moment.
 
 Live site: served by GitHub Pages from the `main` branch root.
 
@@ -18,6 +18,8 @@ Live site: served by GitHub Pages from the `main` branch root.
   - `context_fa`/`context_en`: one editorial line shown above a quote that doesn't stand on its own.
   - `sources`: other places he makes the same point, as `{video_id, start_seconds, note_fa?, note_en?}`. The main source stays in `video_id`/`start_seconds`; a note says how that source differs, for example a different figure.
   - `merged_from`: ids of the quotes folded into this one.
+- Written quotes (Telegram posts, his website, newspaper interviews) use `source_id`, `url` (the post or article itself) and `date` (`YYYY-MM-DD`, when it was published) in place of `video_id` and `start_seconds`, plus an optional `title_fa` for an article's headline. Their Persian is copied word for word from the original; ` … ` marks a skipped sentence.
+- `data/written_sources.json`: the written sources those quotes point to (`id`, `type` = `telegram`, `website` or `newspaper`, `title_fa`, `channel`, `url`).
 - `data/videos.json`: source videos (`id`, `title_fa`, `channel`, `upload_date`).
 - `data/places.json`: the places quotes can refer to (`id`, `en`, `fa`, `kind`, `provinces` as province codes, and `lat`/`lon` for anything smaller than a province). Province-wide places have no coordinates and only shade the map.
 - `data/iran-provinces.json`: province outlines for the map, already projected to SVG paths. Built from the MIT-licensed [iran-geojson](https://www.npmjs.com/package/iran-geojson) package; it rarely needs to change.

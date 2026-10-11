@@ -583,5 +583,109 @@
   ],
   "lat": 27.24,
   "lon": 53.39
+ },
+ {
+  "id": "kaftar",
+  "en": "Kaftar wetland",
+  "fa": "تالاب کافتر",
+  "kind": "wetland",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 30.2,
+  "lon": 52.68
+ },
+ {
+  "id": "gomishan",
+  "en": "Gomishan wetland",
+  "fa": "تالاب گمیشان",
+  "kind": "wetland",
+  "provinces": [
+   "IR27"
+  ],
+  "lat": 37.25,
+  "lon": 53.95
+ },
+ {
+  "id": "abidar",
+  "en": "Abidar, Sanandaj",
+  "fa": "آبیدر سنندج",
+  "kind": "forest",
+  "provinces": [
+   "IR16"
+  ],
+  "lat": 35.3,
+  "lon": 46.97
+ },
+ {
+  "id": "aftab-shargh",
+  "en": "Aftab-e Shargh solar plant, Kuhpayeh",
+  "fa": "نیروگاه خورشیدی آفتاب شرق، کوهپایه",
+  "kind": "site",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.71,
+  "lon": 52.43
+ },
+ {
+  "id": "dezak",
+  "en": "Dezak",
+  "fa": "دزک",
+  "kind": "site",
+  "provinces": [
+   "IR08"
+  ]
+ },
+ {
+  "id": "tehran-province",
+  "en": "Tehran province",
+  "fa": "استان تهران",
+  "kind": "province",
+  "provinces": [
+   "IR07"
+  ]
+ },
+ {
+  "id": "montazer-ghaem-plant",
+  "en": "Montazer Ghaem power plant",
+  "fa": "نیروگاه منتظر قائم",
+  "kind": "site",
+  "provinces": [
+   "IR09"
+  ],
+  "lat": 35.73,
+  "lon": 50.98
+ },
+ {
+  "id": "rajaee-plant",
+  "en": "Shahid Rajaee power plant",
+  "fa": "نیروگاه شهید رجایی",
+  "kind": "site",
+  "provinces": [
+   "IR31"
+  ],
+  "lat": 36.18,
+  "lon": 50.1
+ },
+ {
+  "id": "markazi-province",
+  "en": "Markazi province",
+  "fa": "استان مرکزی",
+  "kind": "province",
+  "provinces": [
+   "IR22"
+  ]
+ },
+ {
+  "id": "qeshm-mangroves",
+  "en": "Qeshm mangrove forests",
+  "fa": "رویشگاه حرا در قشم",
+  "kind": "forest",
+  "provinces": [
+   "IR23"
+  ],
+  "lat": 26.85,
+  "lon": 55.75
  }
 ]

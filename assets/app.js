@@ -19,48 +19,50 @@
     fa: {
       eyebrow: "آرشیو گفته‌ها",
       title: "محمد درویش درباره محیط زیست ایران",
-      lede: "گفته‌های محمد درویش در گفت‌وگوها و پادکست‌ها درباره آب، خاک، هوا و حیات وحش ایران. هر نقل‌قول به لحظه دقیقش در ویدیو لینک شده است.",
+      lede: "گفته‌های محمد درویش در گفت‌وگوها، پادکست‌ها، نوشته‌ها و کانال تلگرامش درباره آب، خاک، هوا و حیات وحش ایران. هر نقل‌قول به منبع اصلی‌اش لینک شده است؛ نقل‌قول‌های ویدیویی به لحظه دقیقشان.",
       searchLabel: "جست‌وجو",
       searchPh: "جست‌وجو: فرونشست، ریزگرد، کارون…",
-      foot: "متن‌ها از زیرنویس خودکار و رونویسی Whisper استخراج و با شنیدن ویدیو بازبینی شده‌اند. اگر اشتباهی دیدید، لطفاً در مخزن گیت‌هاب گزارش دهید.",
-      all: "همه", allVideos: "همه ویدیوها", count: n => fmtNum(n, "fa") + " نقل‌قول",
-      none: "نقل‌قولی با این جست‌وجو پیدا نشد.", other: "ترجمه انگلیسی", watch: "تماشا از", alsoIn: "همین حرف در گفت‌وگوهای دیگر",
+      foot: "متن ویدیوها از زیرنویس خودکار و رونویسی Whisper استخراج و با شنیدن ویدیو بازبینی شده‌اند؛ نقل‌قول‌های نوشتاری عیناً از متن اصلی برداشته شده‌اند. اگر اشتباهی دیدید، لطفاً در مخزن گیت‌هاب گزارش دهید.",
+      all: "همه", allVideos: "همه منابع", count: n => fmtNum(n, "fa") + " نقل‌قول",
+      none: "نقل‌قولی با این جست‌وجو پیدا نشد.", other: "ترجمه انگلیسی", watch: "تماشا از", read: "خواندن در",
+      srcType: { telegram: "تلگرام", website: "وب‌سایت", newspaper: "روزنامه" }, alsoIn: "همین حرف در گفت‌وگوهای دیگر",
       mapTitle: "از کجا حرف می‌زند",
-      mapNote: n => "بر اساس " + fmtNum(n, "fa") + " گفت‌وگویی که تا امروز رونویسی شده؛ پس نقشه نشان می‌دهد این گفت‌وگوها به کجا پرداخته‌اند، نه تصویر کاملی از مشکلات ایران. روی استان یا نقطه بزنید تا نقل‌قول‌هایش بیاید.",
+      mapNote: n => "بر اساس " + fmtNum(n, "fa") + " منبعی (گفت‌وگو، نوشته یا کانال) که تا امروز بررسی شده؛ پس نقشه نشان می‌دهد این منابع به کجا پرداخته‌اند، نه تصویر کاملی از مشکلات ایران. روی استان یا نقطه بزنید تا نقل‌قول‌هایش بیاید.",
       mapLabel: "نقشه استان‌های ایران و جاهایی که درویش از آن‌ها حرف می‌زند",
       national: "کل ایران", international: "ایران و همسایگان",
       figTitle: "به روایت اعداد",
-      figNote: "اعداد همان‌طور که درویش در گفت‌وگوها گفته آمده‌اند و مستقل بررسی نشده‌اند. رنگ نشان می‌دهد هر عدد از تخریب می‌گوید، از بازگشت، یا زمینه و هدفی را نشان می‌دهد.",
+      figNote: "اعداد همان‌طور که درویش در گفت‌وگوها و نوشته‌هایش گفته آمده‌اند و مستقل بررسی نشده‌اند. رنگ نشان می‌دهد هر عدد از تخریب می‌گوید، از بازگشت، یا زمینه و هدفی را نشان می‌دهد.",
       figMore: n => "همه " + fmtNum(n, "fa") + " عدد", figLess: "فقط برجسته‌ها",
       kind: { target: "هدف دولت", study: "پژوهش استنادشده" }, readQuote: "خواندن نقل‌قول",
       tone: { loss: "تخریب و از دست رفتن", neutral: "زمینه و اهداف", recovery: "بازگشت و راه‌حل" },
       clear: "حذف فیلتر",
       builtBy: "ساخته Claude برای آگاهی از محیط زیست ایران · درباره این سایت",
       aboutTitle: "درباره این سایت",
-      aboutBody: "این آرشیو را Claude، دستیار هوش مصنوعی ساخت شرکت Anthropic، ساخته است. هدف آن افزایش آگاهی درباره وضعیت محیط زیست ایران است: گفته‌های عمومی محمد درویش، یکی از شناخته‌شده‌ترین صداهای محیط زیست ایران، را در یک جا جمع می‌کند تا بتوان آن‌ها را جست‌وجو کرد و با ویدیوی اصلی سنجید. این سایت وابسته به محمد درویش نیست. رونویسی و ترجمه نقل‌قول‌ها کار Claude است و یک نفر آن‌ها را بازبینی نمونه‌ای کرده؛ هر نقل‌قول به لحظه دقیقش در ویدیو لینک شده تا خودتان بتوانید آن را بررسی کنید."
+      aboutBody: "این آرشیو را Claude، دستیار هوش مصنوعی ساخت شرکت Anthropic، ساخته است. هدف آن افزایش آگاهی درباره وضعیت محیط زیست ایران است: گفته‌های عمومی محمد درویش، یکی از شناخته‌شده‌ترین صداهای محیط زیست ایران، را در یک جا جمع می‌کند تا بتوان آن‌ها را جست‌وجو کرد و با منبع اصلی سنجید. این سایت وابسته به محمد درویش نیست. رونویسی و ترجمه نقل‌قول‌ها کار Claude است و یک نفر آن‌ها را بازبینی نمونه‌ای کرده؛ هر نقل‌قول به منبع اصلی‌اش (و نقل‌قول‌های ویدیویی به لحظه دقیقشان) لینک شده تا خودتان بتوانید آن را بررسی کنید."
     },
     en: {
       eyebrow: "Quote archive",
       title: "Mohammad Darvish on Iran's environment",
-      lede: "What Mohammad Darvish has said in interviews and podcasts about Iran's water, soil, air and wildlife. Every quote links to the exact moment in the video.",
+      lede: "What Mohammad Darvish has said in interviews, podcasts, his writing and his Telegram channel about Iran's water, soil, air and wildlife. Every quote links to its original source, and video quotes to the exact moment.",
       searchLabel: "Search",
       searchPh: "Search: subsidence, dust, Karun…",
-      foot: "Quotes were extracted from YouTube's automatic captions and a Whisper transcript, then checked by listening to the video. Translations are ours. If you spot a mistake, please report it on the GitHub repository.",
-      all: "All", allVideos: "All videos", count: n => n + (n === 1 ? " quote" : " quotes"),
-      none: "No quotes match this search.", other: "Original Persian", watch: "Watch from", alsoIn: "He makes the same point in",
+      foot: "Quotes were extracted from YouTube's automatic captions and a Whisper transcript, then checked by listening to the video. Written quotes are copied word for word from the original text. Translations are ours. If you spot a mistake, please report it on the GitHub repository.",
+      all: "All", allVideos: "All sources", count: n => n + (n === 1 ? " quote" : " quotes"),
+      none: "No quotes match this search.", other: "Original Persian", watch: "Watch from", read: "Read on",
+      srcType: { telegram: "Telegram", website: "Website", newspaper: "Newspaper" }, alsoIn: "He makes the same point in",
       mapTitle: "Where he's talking about",
-      mapNote: n => "Based on the " + n + " interviews transcribed so far, so the map shows what those conversations covered, not a full picture of Iran's problems. Tap a province or a dot to see its quotes.",
+      mapNote: n => "Based on the " + n + " sources (interviews, articles and his channel) covered so far, so the map shows what those sources covered, not a full picture of Iran's problems. Tap a province or a dot to see its quotes.",
       mapLabel: "Map of Iran's provinces and the places Darvish talks about",
       national: "Whole of Iran", international: "Iran and its neighbours",
       figTitle: "By the numbers",
-      figNote: "Figures as Darvish states them in the interviews; they are not independently checked. Colour shows whether a figure describes damage, recovery, or context and targets.",
+      figNote: "Figures as Darvish states them in interviews and in writing; they are not independently checked. Colour shows whether a figure describes damage, recovery, or context and targets.",
       figMore: n => "All " + n + " figures", figLess: "Highlights only",
       kind: { target: "Government target", study: "Cited study" }, readQuote: "Read the quote",
       tone: { loss: "Damage and loss", neutral: "Context and targets", recovery: "Recovery and solutions" },
       clear: "Clear filter",
       builtBy: "Built by Claude to raise awareness of Iran's environment · About this site",
       aboutTitle: "About this site",
-      aboutBody: "This archive was built by Claude, an AI assistant made by Anthropic. Its goal is to raise awareness of Iran's environmental conditions by gathering what Mohammad Darvish, one of Iran's best-known environmental voices, has said in public, so it can be searched and checked against the original videos. The site is not affiliated with Mohammad Darvish. Claude transcribed and translated the quotes and a person spot-checked them; every quote links to the exact moment in its video so you can verify it yourself."
+      aboutBody: "This archive was built by Claude, an AI assistant made by Anthropic. Its goal is to raise awareness of Iran's environmental conditions by gathering what Mohammad Darvish, one of Iran's best-known environmental voices, has said in public, so it can be searched and checked against the original sources. The site is not affiliated with Mohammad Darvish. Claude transcribed and translated the quotes and a person spot-checked them; every quote links to its original source (video quotes to the exact moment) so you can verify it yourself."
     }
   };
 
@@ -69,6 +71,15 @@
   const $ = id => document.getElementById(id);
 
   function fmtNum(n, l) { return l === "fa" ? String(n).replace(/\d/g, d => "۰۱۲۳۴۵۶۷۸۹"[d]) : String(n); }
+  // Video quotes carry video_id; written quotes (Telegram, website, newspaper) carry source_id, url and date.
+  function srcOf(e) { return e.source_id || e.video_id; }
+  function dateOf(e) { return e.date || (videos[srcOf(e)] || {}).upload_date || ""; }
+  // Persian dates show in the Iranian calendar, English ones as "26 Aug 2026".
+  function fmtDate(d) {
+    const dt = new Date(d + "T12:00:00Z");
+    try { return dt.toLocaleDateString(lang === "fa" ? "fa-IR" : "en-GB", { year: "numeric", month: "short", day: "numeric", timeZone: "UTC" }); }
+    catch (_) { return d; }
+  }
   function fmtTime(s) {
     s = Math.floor(s || 0);
     const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), x = s % 60, p = n => String(n).padStart(2, "0");
@@ -257,7 +268,7 @@
   }
 
   // A merged quote lists its other appearances in `sources`; the main one stays in video_id/start_seconds.
-  const videosOf = e => [e.video_id, ...(e.sources || []).map(s => s.video_id)];
+  const videosOf = e => [srcOf(e), ...(e.sources || []).map(s => s.video_id)];
   const watchUrl = (id, sec) => "https://www.youtube.com/watch?v=" + encodeURIComponent(id) + "&t=" + Math.floor(sec) + "s";
   const srcLabel = v => (v.title_fa || "") + (v.channel ? " · " + v.channel : "") + (v.upload_date ? " · " + v.upload_date.slice(0, 4) : "");
 
@@ -277,8 +288,12 @@
     if (!list.length) { box.replaceChildren(el("p", { class: "empty", text: t.none })); return; }
     const other = lang === "fa" ? "en" : "fa";
     box.replaceChildren(...list.map(e => {
-      const v = videos[e.video_id] || {};
-      const url = watchUrl(e.video_id, e.start_seconds);
+      const v = videos[srcOf(e)] || {};
+      const written = !!e.source_id, kind = t.srcType[v.type] || "";
+      const url = written ? e.url : watchUrl(e.video_id, e.start_seconds);
+      const link = written
+        ? el("a", { class: "ts", href: url, target: "_blank", rel: "noopener", "aria-label": t.read + " " + kind, text: "↗ " + kind + (e.date ? " · " + fmtDate(e.date) : "") })
+        : el("a", { class: "ts", href: url, target: "_blank", rel: "noopener", "aria-label": t.watch + " " + fmtTime(e.start_seconds), text: "▶ " + fmtTime(e.start_seconds) });
       const pl = (e.places || []).map(id => places[id]).filter(Boolean);
       const dir = lang === "fa" ? "rtl" : "ltr";
       return el("article", { class: "card", id: "q-" + e.id },
@@ -288,8 +303,8 @@
           el("summary", { text: t.other }),
           el("p", { class: "alt " + other, lang: other, dir: other === "fa" ? "rtl" : "ltr" }, highlight(e["quote_" + other], terms))),
         el("div", { class: "meta" },
-          el("a", { class: "ts", href: url, target: "_blank", rel: "noopener", "aria-label": t.watch + " " + fmtTime(e.start_seconds), text: "▶ " + fmtTime(e.start_seconds) }),
-          el("span", { class: "src", lang: "fa", text: srcLabel(v) }),
+          link,
+          el("span", { class: "src", lang: "fa", text: written ? (e.title_fa ? e.title_fa + " · " : "") + (v.channel || v.title_fa || "") : srcLabel(v) }),
           ...(e.topics || []).map(k => el("span", { class: "chip", text: (TOPICS[k] || { [lang]: k })[lang] }))),
         (e.sources || []).length ? el("div", { class: "also" },
           el("span", { class: "also-h", text: t.alsoIn }),
@@ -321,16 +336,16 @@
   // The map files are optional: if they fail to load, the quote list still works.
   const optional = url => fetch(url).then(r => r.ok ? r.json() : null).catch(() => null);
   Promise.all([fetch("data/entries.json").then(r => r.json()), fetch("data/videos.json").then(r => r.json()),
-    optional("data/places.json"), optional("data/iran-provinces.json")])
-    .then(([es, vs, ps, g]) => {
-      vs.forEach(v => { videos[v.id] = v; });
+    optional("data/places.json"), optional("data/iran-provinces.json"), optional("data/written_sources.json")])
+    .then(([es, vs, ps, g, ws]) => {
+      vs.concat(ws || []).forEach(v => { videos[v.id] = v; });
       (ps || []).forEach(p => { places[p.id] = p; });
       geo = ps && g ? g : null;
       entries = es.map(e => Object.assign(e, { _idx: norm([e.quote_fa, e.quote_en, e.context_fa, e.context_en].filter(Boolean).join(" ")) }))
         .sort((a, b) => {
-          if (a.video_id === b.video_id) return a.start_seconds - b.start_seconds;
-          const da = (videos[a.video_id] || {}).upload_date || "", db = (videos[b.video_id] || {}).upload_date || "";
-          return da < db ? 1 : -1; // newest video first
+          if (a.video_id && a.video_id === b.video_id) return a.start_seconds - b.start_seconds;
+          const da = dateOf(a), db = dateOf(b);
+          return da === db ? 0 : da < db ? 1 : -1; // newest first
         });
       applyLang();
     })
