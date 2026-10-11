@@ -583,5 +583,441 @@
   ],
   "lat": 27.24,
   "lon": 53.39
+ },
+ {
+  "id": "kaftar",
+  "en": "Kaftar wetland",
+  "fa": "تالاب کافتر",
+  "kind": "wetland",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 30.2,
+  "lon": 52.68
+ },
+ {
+  "id": "gomishan",
+  "en": "Gomishan wetland",
+  "fa": "تالاب گمیشان",
+  "kind": "wetland",
+  "provinces": [
+   "IR27"
+  ],
+  "lat": 37.25,
+  "lon": 53.95
+ },
+ {
+  "id": "abidar",
+  "en": "Abidar, Sanandaj",
+  "fa": "آبیدر سنندج",
+  "kind": "forest",
+  "provinces": [
+   "IR16"
+  ],
+  "lat": 35.3,
+  "lon": 46.97
+ },
+ {
+  "id": "aftab-shargh",
+  "en": "Aftab-e Shargh solar plant, Kuhpayeh",
+  "fa": "نیروگاه خورشیدی آفتاب شرق، کوهپایه",
+  "kind": "site",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.71,
+  "lon": 52.43
+ },
+ {
+  "id": "dezak",
+  "en": "Dezak",
+  "fa": "دزک",
+  "kind": "site",
+  "provinces": [
+   "IR08"
+  ]
+ },
+ {
+  "id": "tehran-province",
+  "en": "Tehran province",
+  "fa": "استان تهران",
+  "kind": "province",
+  "provinces": [
+   "IR07"
+  ]
+ },
+ {
+  "id": "montazer-ghaem-plant",
+  "en": "Montazer Ghaem power plant",
+  "fa": "نیروگاه منتظر قائم",
+  "kind": "site",
+  "provinces": [
+   "IR09"
+  ],
+  "lat": 35.73,
+  "lon": 50.98
+ },
+ {
+  "id": "rajaee-plant",
+  "en": "Shahid Rajaee power plant",
+  "fa": "نیروگاه شهید رجایی",
+  "kind": "site",
+  "provinces": [
+   "IR31"
+  ],
+  "lat": 36.18,
+  "lon": 50.1
+ },
+ {
+  "id": "markazi-province",
+  "en": "Markazi province",
+  "fa": "استان مرکزی",
+  "kind": "province",
+  "provinces": [
+   "IR22"
+  ]
+ },
+ {
+  "id": "qeshm-mangroves",
+  "en": "Qeshm mangrove forests",
+  "fa": "رویشگاه حرا در قشم",
+  "kind": "forest",
+  "provinces": [
+   "IR23"
+  ],
+  "lat": 26.85,
+  "lon": 55.75
+ },
+ {
+  "id": "agh-mashhad",
+  "en": "Agh-Mashhad forest, Sari",
+  "fa": "جنگل آق‌مشهد، ساری",
+  "kind": "forest",
+  "provinces": [
+   "IR21"
+  ],
+  "lat": 36.38,
+  "lon": 53.15
+ },
+ {
+  "id": "ahram-aquifer",
+  "en": "Ahram aquifer-management station, Bushehr",
+  "fa": "طرح آبخوانداری اهرم، بوشهر",
+  "kind": "site",
+  "provinces": [
+   "IR06"
+  ],
+  "lat": 28.88,
+  "lon": 51.27
+ },
+ {
+  "id": "ahvaz",
+  "en": "Ahvaz",
+  "fa": "اهواز",
+  "kind": "city",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 31.32,
+  "lon": 48.67
+ },
+ {
+  "id": "arsanjan-forests",
+  "en": "Arsanjan wild pistachio forests",
+  "fa": "جنگل‌های بنه و ارژن ارسنجان",
+  "kind": "forest",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 29.92,
+  "lon": 53.31
+ },
+ {
+  "id": "caspian-sea",
+  "en": "Caspian Sea",
+  "fa": "دریای خزر",
+  "kind": "lake",
+  "provinces": [
+   "IR19",
+   "IR21",
+   "IR27"
+  ]
+ },
+ {
+  "id": "chamshir-dam",
+  "en": "Chamshir dam",
+  "fa": "سد چم‌شیر",
+  "kind": "site",
+  "provinces": [
+   "IR18"
+  ],
+  "lat": 30.33,
+  "lon": 50.72
+ },
+ {
+  "id": "esteghlal-dam",
+  "en": "Esteghlal (Minab) dam",
+  "fa": "سد استقلال میناب",
+  "kind": "site",
+  "provinces": [
+   "IR23"
+  ],
+  "lat": 27.15,
+  "lon": 57.3
+ },
+ {
+  "id": "famenin",
+  "en": "Famenin plain",
+  "fa": "دشت فامنین",
+  "kind": "aquifer",
+  "provinces": [
+   "IR24"
+  ],
+  "lat": 35.11,
+  "lon": 48.97
+ },
+ {
+  "id": "hashilan",
+  "en": "Hashilan wetland",
+  "fa": "تالاب هشیلان",
+  "kind": "wetland",
+  "provinces": [
+   "IR17"
+  ],
+  "lat": 34.37,
+  "lon": 46.8
+ },
+ {
+  "id": "hormuz-island",
+  "en": "Hormuz island",
+  "fa": "جزیره هرمز",
+  "kind": "island",
+  "provinces": [
+   "IR23"
+  ],
+  "lat": 27.06,
+  "lon": 56.46
+ },
+ {
+  "id": "ilam-province",
+  "en": "Ilam province",
+  "fa": "استان ایلام",
+  "kind": "province",
+  "provinces": [
+   "IR05"
+  ]
+ },
+ {
+  "id": "izeh",
+  "en": "Izeh",
+  "fa": "ایذه",
+  "kind": "city",
+  "provinces": [
+   "IR10"
+  ],
+  "lat": 31.83,
+  "lon": 49.87
+ },
+ {
+  "id": "kamjan",
+  "en": "Kamjan wetland",
+  "fa": "تالاب کم‌جان",
+  "kind": "wetland",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 29.62,
+  "lon": 53.18
+ },
+ {
+  "id": "karkas-mountains",
+  "en": "Karkas mountains",
+  "fa": "کرکس‌کوه",
+  "kind": "mountain",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 33.43,
+  "lon": 51.8
+ },
+ {
+  "id": "kermanshah-province",
+  "en": "Kermanshah province",
+  "fa": "استان کرمانشاه",
+  "kind": "province",
+  "provinces": [
+   "IR17"
+  ]
+ },
+ {
+  "id": "khalesan-dam",
+  "en": "Khalesan dam site (Barkileh, below Masuleh)",
+  "fa": "محل سد خالصان (برکیله، پایین‌دست ماسوله)",
+  "kind": "site",
+  "provinces": [
+   "IR19"
+  ],
+  "lat": 37.2,
+  "lon": 49.05
+ },
+ {
+  "id": "khan-mirza-wetland",
+  "en": "Khan-Mirza wetland",
+  "fa": "تالاب خان‌میرزا",
+  "kind": "wetland",
+  "provinces": [
+   "IR08"
+  ],
+  "lat": 31.52,
+  "lon": 51.12
+ },
+ {
+  "id": "khansar",
+  "en": "Khansar",
+  "fa": "خوانسار",
+  "kind": "city",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 33.22,
+  "lon": 50.32
+ },
+ {
+  "id": "lasak-dam",
+  "en": "Lasak dam site, Shaft",
+  "fa": "سد لاسک، شفت",
+  "kind": "site",
+  "provinces": [
+   "IR19"
+  ],
+  "lat": 37.1,
+  "lon": 49.3
+ },
+ {
+  "id": "lorestan",
+  "en": "Lorestan province",
+  "fa": "استان لرستان",
+  "kind": "province",
+  "provinces": [
+   "IR20"
+  ]
+ },
+ {
+  "id": "maroon-river",
+  "en": "Maroon river and dams",
+  "fa": "رود و سدهای مارون",
+  "kind": "river",
+  "provinces": [
+   "IR10",
+   "IR18"
+  ],
+  "lat": 30.69,
+  "lon": 50.33
+ },
+ {
+  "id": "masileh-plain",
+  "en": "Masileh plain, Qom",
+  "fa": "دشت مسیله قم",
+  "kind": "plain",
+  "provinces": [
+   "IR26"
+  ],
+  "lat": 34.8,
+  "lon": 51.1
+ },
+ {
+  "id": "neyshabur",
+  "en": "Neyshabur plain",
+  "fa": "دشت نیشابور",
+  "kind": "plain",
+  "provinces": [
+   "IR30"
+  ],
+  "lat": 36.2,
+  "lon": 58.8
+ },
+ {
+  "id": "north-khorasan",
+  "en": "North Khorasan province",
+  "fa": "استان خراسان شمالی",
+  "kind": "province",
+  "provinces": [
+   "IR28"
+  ]
+ },
+ {
+  "id": "paqalat",
+  "en": "Paqalat, Lamerd",
+  "fa": "پاقلات، لامرد",
+  "kind": "habitat",
+  "provinces": [
+   "IR14"
+  ],
+  "lat": 27.45,
+  "lon": 53.05
+ },
+ {
+  "id": "qom",
+  "en": "Qom",
+  "fa": "قم",
+  "kind": "city",
+  "provinces": [
+   "IR26"
+  ],
+  "lat": 34.64,
+  "lon": 50.88
+ },
+ {
+  "id": "ramian-plain",
+  "en": "Ramian plain",
+  "fa": "دشت رامیان",
+  "kind": "plain",
+  "provinces": [
+   "IR27"
+  ],
+  "lat": 37.02,
+  "lon": 55.14
+ },
+ {
+  "id": "semnan-province",
+  "en": "Semnan province",
+  "fa": "استان سمنان",
+  "kind": "province",
+  "provinces": [
+   "IR12"
+  ]
+ },
+ {
+  "id": "velukola",
+  "en": "Velukola ab-bandan, Babol",
+  "fa": "آب‌بندان ولوکلا، بابل",
+  "kind": "wetland",
+  "provinces": [
+   "IR21"
+  ],
+  "lat": 36.43,
+  "lon": 52.66
+ },
+ {
+  "id": "zob-ahan-forest",
+  "en": "Zob Ahan wild almond plantation, Isfahan",
+  "fa": "جنگل‌کاری بادام‌کوهی ذوب‌آهن اصفهان",
+  "kind": "forest",
+  "provinces": [
+   "IR04"
+  ],
+  "lat": 32.38,
+  "lon": 51.36
+ },
+ {
+  "id": "zonuz",
+  "en": "Zonuz",
+  "fa": "زنوز",
+  "kind": "town",
+  "provinces": [
+   "IR01"
+  ],
+  "lat": 38.59,
+  "lon": 45.83
  }
 ]

@@ -1,0 +1,16 @@
+[
+ {
+  "id": "telegram-darvishnameh",
+  "type": "telegram",
+  "title_fa": "کانال تلگرام محمد درویش",
+  "channel": "درویش‌نامه",
+  "url": "https://t.me/Darvishnameh"
+ },
+ {
+  "id": "website-mohammaddarvish",
+  "type": "website",
+  "title_fa": "وب‌سایت محمد درویش",
+  "channel": "mohammaddarvish.com",
+  "url": "https://mohammaddarvish.com/"
+ }
+]
