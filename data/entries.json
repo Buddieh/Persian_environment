@@ -4,7 +4,7 @@
   "video_id": "njqQUB3wocI",
   "start_seconds": 475,
   "quote_fa": "فرسایش خاک، چه فرسایش آبی و چه بادی، در کشور ما دست کم ۲ میلیارد تن در سال گزارش میشه. کل فرسایش خاک در جهان ۲۴ میلیارد تن گزارش میشه؛ یعنی یک دوازدهم کل فرسایش خاک جهان داره در سطحی که ۱ درصد خاک جهانه اتفاق میفته؛ یعنی از نظر وسعت، نرخ فرسایش خاک در ایران ۸ برابر متوسط جهانه. این در حالیه که ۱ سانتی‌متر خاک اگر بخواد در شرایط ادافیکی ایران شکل بگیره زمان متوسطش ۸۰۰ ساله، در دنیا این رقم ۴۰۰ ساله. … و سالانه فقط از نظر کانی‌های فلزی که ما از دست میدیم، ارزش خاکی که داریم از دست میدیم به ۵۶ میلیارد دلار می‌رسه.",
-  "quote_en": "Soil erosion, both water and wind erosion, is reported at at least 2 billion tonnes a year in our country. Total soil erosion in the world is reported at 24 billion tonnes; that is, one-twelfth of the world's soil erosion is happening on an area that is 1 percent of the world's land; in other words, relative to area, the rate of soil erosion in Iran is 8 times the world average. And this while, for 1 centimeter of soil to form under Iran's edaphic conditions, the average time is 800 years, whereas in the world this figure is 400 years. … And annually, in terms of the metallic minerals alone, the value of the soil we are losing reaches 56 billion dollars.",
+  "quote_en": "Soil erosion, both water and wind erosion, is reported at at least 2 billion tonnes a year in our country. Total soil erosion in the world is reported at 24 billion tonnes; that is, one-twelfth of the world's soil erosion is happening on an area that is 1 percent of the world's soil; in other words, relative to area, the rate of soil erosion in Iran is 8 times the world average. And this while, for 1 centimeter of soil to form under Iran's edaphic conditions, the average time is 800 years, whereas in the world this figure is 400 years. … And annually, in terms of the metallic minerals alone, the value of the soil we are losing reaches 56 billion dollars.",
   "topics": [
    "desertification-land",
    "water"
@@ -87,6 +87,15 @@
   "merged_from": [
    "EIUGUcoAeo4-02",
    "rjV5JACz7WY-02"
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "۱ درصد خاک جهانه",
+    "mark_en": "1 percent of the world's soil",
+    "fa": "احتمالاً لغزش زبانی است: منظور ۱ درصد خشکی‌های جهان است، همان‌طور که در گفت‌وگوهای دیگرش می‌گوید.",
+    "en": "Probably a slip of the tongue: he means 1 percent of the world's land area, as he says in his other interviews."
+   }
   ]
  },
  {
@@ -152,8 +161,6 @@
   "id": "xTniXS5fU-s-16",
   "video_id": "xTniXS5fU-s",
   "start_seconds": 4211,
-  "context_fa": "درباره مهار سنتی سیلاب در گزیر، در کرانه خلیج فارس، و شکل نوین آن به دست استاد درویش، آهنگ کوثر.",
-  "context_en": "On traditional flood-water harvesting in Gezir, on the Persian Gulf coast, and its modern version developed by Darvish's teacher Ahang Kowsar.",
   "quote_fa": "گزیر یه جاییه که دمای خیلی بالایی داره، تبخیر خیلی بالایی داره … بارندگیش خیلی کمه، زیر ۱۰۰ میلی‌متره. اما مردم در اون منطقه چند هزار سال یاد گرفتن که … می‌تونن سیل‌هایی که هر از چند سالی اتفاق میفته رو با یه تمهیدات ساده‌ای به زیر زمین هدایت بکنن، از معرض تبخیر نجات بدن، ذخیره کنن. تا عمق ۶۰ متر، ۶۳ متر این رو هدایت می‌کنن زیر زمین و بعد به تدریج همون آب رو می‌کشن بالا … بهش میگن تغذیه مصنوعی آبخوان. … دکتر کوثر در منطقه‌ای به نام گربایگان فسا همین روش رو استفاده کرده، بدون آبیاری یه جنگلی به وجود آورده که ۱۱۰۰ هکتار وسعت داره، سطح آب رو آورده بالا و تونسته مهاجرت معکوس … ساخت سد و ذخیره آب در روی زمین دست‌کم بین ۵ تا ۱۰ برابر گران‌تره تا هدایتش به زیر زمین.",
   "quote_en": "Gezir is a place with very high temperatures and very high evaporation … its rainfall is very low, under 100 millimeters. But over several thousand years the people of that region learned … to channel the floods that come every few years underground with simple measures, save them from evaporation and store them. They direct it underground to a depth of 60, 63 meters, and then gradually pump that same water up … This is called artificial aquifer recharge. … Dr. [Ahang] Kowsar used this same method in an area called Gareh Bygone in Fasa and, without irrigation, created a forest of 1,100 hectares, raised the water table, and brought about reverse migration … Building dams and storing water on the surface is at least 5 to 10 times more expensive than directing it underground.",
   "topics": [
@@ -196,6 +203,13 @@
      }
     ]
    }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره مهار سنتی سیلاب در گزیر، در کرانه خلیج فارس، و شکل نوین آن به دست استاد درویش، آهنگ کوثر.",
+    "en": "On traditional flood-water harvesting in Gezir, on the Persian Gulf coast, and its modern version developed by Darvish's teacher Ahang Kowsar."
+   }
   ]
  },
  {
@@ -214,8 +228,6 @@
   "id": "2uazwy8m0Kg-05",
   "video_id": "2uazwy8m0Kg",
   "start_seconds": 645,
-  "context_fa": "این دو نهاد سازمان منابع طبیعی (سازمان جنگل‌ها، مراتع و آبخیزداری پیشین) و سازمان حفاظت محیط زیست‌اند.",
-  "context_en": "The two bodies are the Natural Resources Organization (formerly Forests, Rangelands and Watershed Management) and the Department of Environment.",
   "quote_fa": "الان ما دو تا سازمان داریم تو این کشور که وظیفه‌شون حفظ درختانه، حفظ محیط زیسته … یکیشون بیش از ۱۰۰ سال قدمت داره، یکیشم بیش از ۵۰ سال، و حاصل فعالیت این‌ها در طول این یک قرن باعث شده ۸ میلیون هکتار از جنگل‌های ما کم بشه. و یه سازمانی داریم به نام سازمان شهرداری‌ها که وظیفه‌ش کنترل سگ‌های بدون صاحبه و حاصل فعالیت سازمان شهرداری‌ها باعث شده که تعداد سگ‌های بدون صاحب دستکم ۳۰۰ ۴۰۰ درصد اضافه بشه.",
   "quote_en": "We now have two organizations in this country whose job is protecting trees and the environment … One is more than 100 years old, the other more than 50, and the result of their activity over this century is that 8 million hectares of our forests have been lost. And we have an organization called the Municipalities Organization whose job is controlling ownerless dogs, and the result of its activity is that the number of ownerless dogs has grown by at least 300–400 percent.",
   "topics": [
@@ -253,6 +265,13 @@
   ],
   "merged_from": [
    "EIUGUcoAeo4-10"
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "این دو نهاد سازمان منابع طبیعی (سازمان جنگل‌ها، مراتع و آبخیزداری پیشین) و سازمان حفاظت محیط زیست‌اند.",
+    "en": "The two bodies are the Natural Resources Organization (formerly Forests, Rangelands and Watershed Management) and the Department of Environment."
+   }
   ]
  },
  {
@@ -304,14 +323,21 @@
     "kind": "claim",
     "tone": "neutral"
    }
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "تقریباً ۸ برابر",
+    "mark_en": "nearly eight times",
+    "fa": "با اعدادی که خودش می‌گوید (۸۰ میلیارد در برابر ۸٫۵ تا ۹ میلیارد متر مکعب)، نسبت به ۹ برابر نزدیک‌تر است.",
+    "en": "By his own figures (80 billion against 8.5–9 billion cubic metres), the ratio is closer to nine times."
+   }
   ]
  },
  {
   "id": "rjV5JACz7WY-14",
   "video_id": "rjV5JACz7WY",
   "start_seconds": 4319,
-  "context_fa": "در پاسخ به منتقدانی که می‌گویند فعالان محیط زیست اغراق می‌کنند و دولت‌ها را از توسعه می‌ترسانند.",
-  "context_en": "Answering critics who say environmentalists exaggerate and scare governments away from development.",
   "quote_fa": "شما یه مثال بیارید که به حرف محیط زیستیا گوش کردید و ضربه خوردید. … دریاچه ارومیه رو نگاه کنید: ما گفتیم آقا انقدر سد نسازید؛ ساختید، دریاچه رو نابود کردید، میلیاردها دلار دارید هزینه می‌کنید، هنوز نتونستید احیا کنید. جلگه خوزستانو ببینید: گفتیم آقا … حقابه هورالعظیم، شادگان، بامدژ، میانگران، شیمبار رو فدای نفت و کشاورزی و صنعت نکنید؛ کردید، الان چشمه‌های تولید گرد و خاک داره کل خوزستانو از بین می‌بره. گفتیم آقا روی کر و سیوند همون یه دونه سد درودزن کافیه، دیگه ملاصدرا و سیوندو نزنید؛ بختگانو خشک کردید.",
   "quote_en": "Give one example where you listened to environmentalists and got hurt. … Look at Lake Urmia: we said, sir, don't build so many dams; you built them, you destroyed the lake, you're spending billions of dollars and still haven't been able to restore it. Look at the Khuzestan plain: we said, sir, … don't sacrifice the water rights of Hoor al-Azim, Shadegan, Bamdezh, Miangaran, Shimbar to oil, agriculture and industry; you did, and now dust-generating hotspots are destroying all of Khuzestan. We said, sir, on the Kor and Sivand the single Doroodzan dam is enough, don't build Mollasadra and Sivand; you dried up Bakhtegan.",
   "topics": [
@@ -329,14 +355,19 @@
    "shimbar",
    "kor-bakhtegan"
   ],
-  "scope": "regional"
+  "scope": "regional",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "در پاسخ به منتقدانی که می‌گویند فعالان محیط زیست اغراق می‌کنند و دولت‌ها را از توسعه می‌ترسانند.",
+    "en": "Answering critics who say environmentalists exaggerate and scare governments away from development."
+   }
+  ]
  },
  {
   "id": "2uazwy8m0Kg-08",
   "video_id": "2uazwy8m0Kg",
   "start_seconds": 1340,
-  "context_fa": "درباره طرح پیشنهادی «باغشهر» که به گفته او قرار بود به همه ایرانیان زمین ویلایی ۱۰۰۰ متری بدهد.",
-  "context_en": "On the proposed 'Baghshahr' (garden city) plan, which he says would have given every Iranian a 1,000 m² villa plot.",
   "quote_fa": "اعضای هیئت علمی ما از تحقیقات جنگل و مرتع به شدت با این طرح مخالفت کردن. چرا؟ به خاطر اینکه اگر این طرح اجرا می‌شد نرخ فرسایش به شدت افزایش پیدا می‌کرد. … بخش بزرگی از باغ‌های تهران در اثر برج‌باغ از بین رفت. … اونجایی که می‌سازی، گودبرداری که می‌کنی، نظام ریشه‌ای رو که نابود می‌کنی، ضریب رواناب رو که افزایش میدی، نرخ [فرسایش] افزایش پیدا می‌کنه، میزان پوشش گیاهی کم میشه، نیاز آبی رو تو داری افزایش میدی چون تو گونه‌هایی رو می‌کاری که به شدت آب‌بر هستن",
   "quote_en": "Our faculty at the Forest and Rangeland Research Institute strongly opposed this plan. Why? Because had it been implemented, the erosion rate would have risen sharply. … A large part of Tehran's gardens was lost through the 'tower-garden' scheme. … Where you build, you excavate, you destroy the root system, you raise the runoff coefficient, the [erosion] rate goes up, vegetation cover shrinks, and you increase water demand because you plant highly water-hungry species",
   "topics": [
@@ -347,7 +378,14 @@
   "places": [
    "tehran"
   ],
-  "scope": "national"
+  "scope": "national",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره طرح پیشنهادی «باغشهر» که به گفته او قرار بود به همه ایرانیان زمین ویلایی ۱۰۰۰ متری بدهد.",
+    "en": "On the proposed 'Baghshahr' (garden city) plan, which he says would have given every Iranian a 1,000 m² villa plot."
+   }
+  ]
  },
  {
   "id": "Mxi3tfx_bng-12",
@@ -404,8 +442,6 @@
   "id": "2uazwy8m0Kg-02",
   "video_id": "2uazwy8m0Kg",
   "start_seconds": 78,
-  "context_fa": "درباره سد در دست احداث تنگ سرخ در نزدیکی شیراز.",
-  "context_en": "On the planned Tang-e Sorkh dam near Shiraz.",
   "quote_fa": "ما اومدیم یه سدی رو طراحی کردیم در غرب شیراز در یه منطقه به اصطلاح مرفه‌نشین که قیمت اراضی رو اونجا ببریم بالاتر … هر چقدرم ما داد می‌زنیم که اونجا سازند اصلیش کارستیه، یعنی که جنسش آهکه، به شدت نسبت به آب حساسه و ممکنه که این سد نتونه دوام بیاره. … اگر وزن آبی که پشت این سد قرار می‌گیره از یه حدی بیشتر باشه ممکنه سد بشکنه، ممکنه از دو طرف آب حرکت بکنه و یه فاجعه بزرگ … شهر شیراز میره زیر آب.",
   "quote_en": "We designed a dam west of Shiraz, in a so-called affluent area, to push land prices up there … However much we shout that the main formation there is karstic, meaning it is limestone, extremely sensitive to water, and this dam may not hold up. … If the weight of water behind the dam exceeds a certain limit the dam could break, water could move around both sides, and a great disaster … the city of Shiraz goes under water.",
   "topics": [
@@ -415,14 +451,19 @@
   "places": [
    "tang-e-sorkh"
   ],
-  "scope": "local"
+  "scope": "local",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره سد در دست احداث تنگ سرخ در نزدیکی شیراز.",
+    "en": "On the planned Tang-e Sorkh dam near Shiraz."
+   }
+  ]
  },
  {
   "id": "rjV5JACz7WY-03",
   "video_id": "rjV5JACz7WY",
   "start_seconds": 277,
-  "context_fa": "در توضیح اینکه چرا با هر دولتی گفت‌وگو می‌کند و مردم را به مشارکت فرامی‌خواند.",
-  "context_en": "Explaining why he keeps talking with every government and inviting people to take part.",
   "quote_fa": "می‌دونیم که اگه یه سرزمینی دچار فرونشست بشه، حتی اگر دوباره عامل فرونشست از بین بره — یعنی میزان تغذیه و برداشت از سفره آب زیرزمینی دوباره برابر بشه — ما باید بین ۵۰ تا ۷۰ هزار سال صبر کنیم تا اون دشتی که دچار فرونشست شده تاب‌آوریشو به دست بیاره. یعنی یه زمین سوخته‌ای داریم. تو این زمین سوخته دموکراتیک‌ترین حکومت دنیا … هم کاری نمی‌تونه بکنه. پس با همین چیزایی که داریم باید جلوی این ماجرا رو بگیریم.",
   "quote_en": "We know that if a land suffers subsidence, even if the cause of subsidence goes away again — that is, recharge and extraction from the groundwater aquifer become equal again — we'd have to wait 50 to 70 thousand years for that subsided plain to regain its resilience. That is, we have a scorched earth. On this scorched earth, even the world's most democratic government … can't do anything. So we have to stop this with what we have now.",
   "topics": [
@@ -441,6 +482,13 @@
     "kind": "claim",
     "featured": true,
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "در توضیح اینکه چرا با هر دولتی گفت‌وگو می‌کند و مردم را به مشارکت فرامی‌خواند.",
+    "en": "Explaining why he keeps talking with every government and inviting people to take part."
    }
   ]
  },
@@ -545,8 +593,6 @@
   "id": "rjV5JACz7WY-06",
   "video_id": "rjV5JACz7WY",
   "start_seconds": 2186,
-  "context_fa": "در بازگویی آنچه سال‌ها پیش به مسئولان گفته بود، همراه با ارقام امروز.",
-  "context_en": "Recounting what he told officials years earlier, with today's figures added as he speaks.",
   "quote_fa": "الان ما ۶۶۰ تا دشت داریم، از این ۶۰۰ تا ۲۰۰ تاش ممنوعه‌ست. تعداد چاه‌ها به ۲۰۰ هزار، ۲۳۰ هزار تا رسیده — الان که داریم با هم صحبت می‌کنیم به بالای ۱ میلیون رسیده، الان ۴۰۰ تا دشت‌مون ممنوعه‌ست. گفتم که یکی از دلایلی که ۶۵ هزار پارچه قنات داشتیم و رسیده به ۳۵ ۰۰۰ تا — که الان به کمتر از ۱۰ ۰۰۰ تا رسیده — … این چاه‌هاست.",
   "quote_en": "Right now we have 660 plains, and of these 600, 200 are prohibited [for new wells]. The number of wells has reached 200 thousand, 230 thousand — now, as we speak, it has passed 1 million, and now 400 of our plains are prohibited. I said one of the reasons we had 65 thousand qanats and it has fallen to 35,000 — which has now fallen to fewer than 10,000 — … is these wells.",
   "topics": [
@@ -583,6 +629,13 @@
     "label_fa": "چاه در ایران",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "در بازگویی آنچه سال‌ها پیش به مسئولان گفته بود، همراه با ارقام امروز.",
+    "en": "Recounting what he told officials years earlier, with today's figures added as he speaks."
    }
   ]
  },
@@ -704,8 +757,6 @@
   "id": "rjV5JACz7WY-09",
   "video_id": "rjV5JACz7WY",
   "start_seconds": 3533,
-  "context_fa": "درباره تغییر نگاه جامعه، از زمانی که سدسازی نماد سازندگی شمرده می‌شد.",
-  "context_en": "On how public attitudes have shifted since dam-building was seen as a symbol of development.",
   "quote_fa": "… دیگه اصلاً این‌طوری نیست که سیاستمدارا تو صف افتتاح سد باشن. تعداد خیلی زیادی از مردم با ما همراه شدن. مردم تغییر کردن. مردم میرن جلوی ساخت یه پتروشیمی رو می‌گیرن، با اینکه چند هزار میلیارد تومن می‌تونست سرمایه‌گذاری کنه، براشون اشتغال ایجاد کنه. … توی نخلستان‌های آب‌پخش مردم رفتن جلوی معاون وزیر و گفتن آقا ما نمی‌خوایم اینجا برای ما کارخونه بذاره، ما نخلستانمونو می‌خوایم. این نشونه تغییر مثبته.",
   "quote_en": "… It's no longer the case that politicians line up to inaugurate dams. A great many people have joined us. People have changed. People go and stop the construction of a petrochemical plant, even though it could invest several thousand billion tomans and create jobs for them. … In the palm groves of Ab-Pakhsh, people went before the deputy minister and said: sir, we don't want a factory built here for us, we want our palm groves. This is a sign of positive change.",
   "topics": [
@@ -716,7 +767,14 @@
   "places": [
    "ab-pakhsh"
   ],
-  "scope": "local"
+  "scope": "local",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره تغییر نگاه جامعه، از زمانی که سدسازی نماد سازندگی شمرده می‌شد.",
+    "en": "On how public attitudes have shifted since dam-building was seen as a symbol of development."
+   }
+  ]
  },
  {
   "id": "Mxi3tfx_bng-15",
@@ -1017,14 +1075,21 @@
      }
     ]
    }
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "هیچ جای دنیا بالای ۱۰۰ کیلومتر طرح شیرین‌سازی اجرا نمیشه",
+    "mark_en": "nowhere in the world is a desalination project carried out beyond 100 kilometres",
+    "fa": "دقیق نیست: برخی خطوط انتقال آب شیرین‌شده، مثل خط جبیل به ریاض در عربستان، چند صد کیلومتر طول دارند. نکته اصلی او، هزینه بسیار بالای انتقال طولانی، به قوت خود باقی است.",
+    "en": "Not accurate: some desalinated-water pipelines, such as Saudi Arabia's Jubail–Riyadh line, run several hundred kilometres. His underlying point, that long transfers are very costly, still stands."
+   }
   ]
  },
  {
   "id": "2uazwy8m0Kg-03",
   "video_id": "2uazwy8m0Kg",
   "start_seconds": 254,
-  "context_fa": "درباره سد تنگ سرخ که قرار است نزدیک شیراز ساخته شود.",
-  "context_en": "On the planned Tang-e Sorkh dam near Shiraz.",
   "quote_fa": "هم مردم، هم اساتید دانشگاه، هم پژوهشگران، هم فعالان محیط زیست تقریباً یکپارچه در برابر ساخت سد تنگ سرخ ایستادن … در دوره معصومه ابتکار دفتر ارزیابی سازمان محیط زیست مخالفت خودشو رسماً اعلام کرد با ساخت این سد، هرچند در دوره عیسی کلانتری تحت فشارهایی دوباره چراغ سبزهایی نشون دادن، ولی خوشبختانه الان در دوره شینا انصاری دوباره دفتر ارزیابی مخالفت کرده و تا حالا این فشارهای مردمی اجازه نداده که این سد ساخته بشه.",
   "quote_en": "The public, university professors, researchers and environmental activists have stood almost united against building the Tang-e Sorkh dam … Under Masoumeh Ebtekar the assessment office of the Department of Environment officially declared its opposition to this dam; under Isa Kalantari, under some pressure, they again showed some green lights, but fortunately now, under Shina Ansari, the assessment office has opposed it again, and so far this public pressure has not allowed the dam to be built.",
   "topics": [
@@ -1035,7 +1100,14 @@
   "places": [
    "tang-e-sorkh"
   ],
-  "scope": "local"
+  "scope": "local",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره سد تنگ سرخ که قرار است نزدیک شیراز ساخته شود.",
+    "en": "On the planned Tang-e Sorkh dam near Shiraz."
+   }
+  ]
  },
  {
   "id": "EIUGUcoAeo4-01",
@@ -1153,8 +1225,6 @@
   "id": "wK347fsX7bA-02",
   "video_id": "wK347fsX7bA",
   "start_seconds": 531,
-  "context_fa": "از خاطرات دوران دانشجویی او پس از جنگ ایران و عراق.",
-  "context_en": "Recalling his student years after the Iran–Iraq war.",
   "quote_fa": "وقتی رفتم دیدم اوه، ما چقدر دشت‌های ممنوعه داریم! این دشت‌های ممنوعه مدام داره زیاد میشه، سطح آب زیرزمینی به طور متوسط داره سالی ۲ متر افت می‌کنه … وضعیت استان مرکزی و منطقه قم و ساوه یکی از مناطق بسیار بحرانی کشور هست؛ جنگ تموم شده بود، تعداد موتورپمپا زیاد شده بودن و مدام داشت سطح آب زیرزمینی می‌رفت پایین.",
   "quote_en": "When I went [to university] I saw, wow, how many 'prohibited plains' we have! These prohibited plains keep increasing, the groundwater level is dropping on average 2 meters a year … The situation in Markazi province and the Qom–Saveh area made it one of the country's most critical regions: the war had ended, the number of motor pumps had grown, and the groundwater level kept going down.",
   "topics": [
@@ -1173,6 +1243,13 @@
     "label_fa": "افت متوسط سطح آب زیرزمینی (پس از جنگ)",
     "kind": "claim",
     "tone": "loss"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "از خاطرات دوران دانشجویی او پس از جنگ ایران و عراق.",
+    "en": "Recalling his student years after the Iran–Iraq war."
    }
   ]
  },
@@ -1264,8 +1341,6 @@
   "id": "Mxi3tfx_bng-10",
   "video_id": "Mxi3tfx_bng",
   "start_seconds": 3082,
-  "context_fa": "درباره کارزار علیه طرح ساخت مسجد در پارک قیطریه تهران.",
-  "context_en": "On the campaign against a plan to build a mosque in Tehran's Qeytarieh Park.",
   "quote_fa": "ما الان سرانه فضای سبزمون حدود ۱۶ متر مربع است، کمتر از استاندارده. … ۴ تا درخت قرار بود قطع بشه برای یک مسجدی که سطح اشغال ۸۵۰ متر مربع بود … وقتی ۲۰ متر گودبرداری می‌کردن، تمام نظام ریشه‌ای پارک رو متأثر می‌کرد … آخر سر ما اونو رسوندیم به یه مسجدی در اون بخش پارک که هیچ درختی نداره … و اون مسجد ساخته نشد. … بزرگترین کارزار محیط زیستی کشور رقم خورد … ۱۹۰ هزار امضا جمع شد.",
   "quote_en": "Our per-capita green space is now about 16 square meters, below the standard. … 4 trees were to be cut for a mosque with an 850-square-meter footprint … excavating 20 meters [deep] would have affected the park's entire root system … In the end we got it reduced to a mosque in the part of the park that has no trees … and that mosque was never built. … The country's biggest environmental petition took place … 190,000 signatures were collected.",
   "topics": [
@@ -1306,6 +1381,13 @@
   ],
   "merged_from": [
    "njqQUB3wocI-10"
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره کارزار علیه طرح ساخت مسجد در پارک قیطریه تهران.",
+    "en": "On the campaign against a plan to build a mosque in Tehran's Qeytarieh Park."
+   }
   ]
  },
  {
@@ -1385,8 +1467,6 @@
   "id": "2uazwy8m0Kg-04",
   "video_id": "2uazwy8m0Kg",
   "start_seconds": 405,
-  "context_fa": "درباره سگ‌های بدون سرپرست در ایران.",
-  "context_en": "On Iran's ownerless (stray) dogs.",
   "quote_fa": "اتفاقی که الان در ایران و چند کشور دیگه افتاده اینه که ما از روی انسان‌دوستی فکر کردیم که باید در حقیقت به این سگ‌ها غذا بدیم بدون اینکه مسئولیت سرپرستیشون رو به عهده بگیریم. … بعضی از آمارها میگه که تعدادشون به بیش از ۳ میلیون رسیده. آخرین آماری که معاونت محیط طبیعی سازمان حفاظت محیط زیست رسماً منتشر کرده میگه مجموع کل و بز و قوچ و میش و آهو و جبیر و مرال و گوزن و شوکاهای این کشور حدود ۱۸۰ تا ۲۰۰ هزار تاست. … این بالانس اکولوژیکی کشور رو به هم می‌زنه. … بخشی از این سگ‌ها حاصل فرهنگ غلط گله‌داری ماست … یه بخش دیگه‌ش برمی‌گرده به نظام پسماند کشور … یه بخشیشم برمی‌گرده به یه سری از هموطنانی که فکر می‌کنن دارن کار انسانی می‌کنن و به اینا غذا میدن.",
   "quote_en": "What has happened in Iran and a few other countries is that, out of kindness, we thought we should feed these dogs without taking responsibility for their care. … Some statistics say they exceed 3 million. The latest figures officially published by the Natural Environment Deputy of the Department of Environment say that the total of wild goats, rams and ewes, gazelles, jebeer, red deer, deer and roe deer in this country is about 180 to 200 thousand. … This upsets the country's ecological balance. … Part of these dogs result from our faulty herding culture … another part goes back to the country's waste system … and part goes back to some compatriots who think they are doing something humane by feeding them.",
   "topics": [
@@ -1416,6 +1496,13 @@
       "value": 3000000
      }
     ]
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره سگ‌های بدون سرپرست در ایران.",
+    "en": "On Iran's ownerless (stray) dogs."
    }
   ]
  },
@@ -1681,14 +1768,19 @@
   "id": "wK347fsX7bA-01",
   "video_id": "wK347fsX7bA",
   "start_seconds": 391,
-  "context_fa": "خاطره‌ای از جوانی او در مزرعه خانوادگی.",
-  "context_en": "A recollection from his youth on his family's farm.",
   "quote_fa": "وقتی که من مسئول آبیاری یه قطعه ۱۲ هکتاری بودم و احساس کردم این قناتی که ما داریم داره آبش کم میشه … یه موتورپمپ دیدم … گفتن اینجا حسین‌آباده و اینجا یه موتورپمپ زدن، آبو با قدرت از زیر زمین می‌کشه. … من فکر می‌کردم … این سفره‌های آب اون زیر به همدیگه ارتباط دارن؛ اونجا داره می‌کشه، اینجا سطح آب اومده پایین، قنات ما آبش کم شده.",
   "quote_en": "When I was in charge of irrigating a 12-hectare plot and felt that our qanat's water was declining … I saw a motor pump … they said this is Hossein-Abad and they've installed a motor pump here that pulls water forcefully from underground. … I thought … these aquifers down there are connected to each other: they're pumping over there, the water table has dropped here, and our qanat's flow has fallen.",
   "topics": [
    "water"
   ],
-  "scope": "local"
+  "scope": "local",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "خاطره‌ای از جوانی او در مزرعه خانوادگی.",
+    "en": "A recollection from his youth on his family's farm."
+   }
+  ]
  },
  {
   "id": "Qmy-F4vul3E-12",
@@ -1857,8 +1949,6 @@
   "id": "Mxi3tfx_bng-11",
   "video_id": "Mxi3tfx_bng",
   "start_seconds": 3461,
-  "context_fa": "درباره برنامه پنج‌ساله توسعه دوچرخه در تهران.",
-  "context_en": "On Tehran's five-year bicycle development plan.",
   "quote_fa": "این یه بخشی از برنامه ۵ ساله توسعه دوچرخه بود که توی شورای پنجم تصویب شد … مطابق اون طرح قرار بود که تعداد سفر از نیم درصد به ۱/۵ درصد افزایش پیدا بکنه. … پژوهشی که دانشکده زیست‌شناسی دانشگاه تهران کرده میگه که هر شهروندی که یک سال تصمیم بگیره در ترددهای درون‌شهریش از وسایل حمل و نقل موتوری با پایه سوخت فسیلی استفاده نکنه، … در مجموع معادل ۵۷ درخت به اکوسیستم شهرش داره کمک [می‌کنه] … یعنی تولید اکسیژن، ترسیب کربن … بدون اینکه نگران آبیاریش باشی.",
   "quote_en": "This was part of the five-year bicycle development plan approved by the Fifth [Tehran City] Council … Under that plan, the share of trips [by bike] was to rise from half a percent to 1.5 percent. … A study by the University of Tehran's Faculty of Biology says that every citizen who decides for one year not to use fossil-fuel motor vehicles for trips within the city … contributes the equivalent of 57 trees to their city's ecosystem … meaning oxygen production, carbon sequestration … without having to worry about watering.",
   "topics": [
@@ -1911,6 +2001,13 @@
   ],
   "merged_from": [
    "wK347fsX7bA-07"
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره برنامه پنج‌ساله توسعه دوچرخه در تهران.",
+    "en": "On Tehran's five-year bicycle development plan."
+   }
   ]
  },
  {
@@ -2236,21 +2333,35 @@
     "tone": "loss",
     "share": 0.6
    }
+  ],
+  "notes": [
+   {
+    "type": "slip",
+    "mark_fa": "طبق کاپ ۲۸، تعهدنامه پاریس",
+    "mark_en": "under COP28 and the Paris Agreement",
+    "fa": "مالیات کربن بر واردات که او توصیف می‌کند در واقع «سازوکار تنظیم مرزی کربن» اتحادیه اروپا (CBAM) است، نه بخشی از کاپ ۲۸ یا توافق پاریس.",
+    "en": "The carbon tax on imports he describes is the EU's Carbon Border Adjustment Mechanism (CBAM), not part of COP28 or the Paris Agreement."
+   }
   ]
  },
  {
   "id": "wK347fsX7bA-03",
   "video_id": "wK347fsX7bA",
   "start_seconds": 1908,
-  "context_fa": "درباره این دیدگاه که برای حفظ طبیعت باید از فرزندآوری دست کشید.",
-  "context_en": "On the view that people should stop having children to protect nature.",
   "quote_fa": "دنیا کمبودش آدم‌های عاشقه. اگر تو بتونی آدم عاشق به دنیا معرفی کنی، می‌تونه این آدم‌های عاشق جبران آدم‌های نابخرد و آزمند و … خسارت‌هایی که دارن به طبیعت می‌زنن بکنه. نباید مطلقاً فرایند تولید مثل رو متوقف کرد، بلکه باید تلاش بکنیم که … آدم باشیم و آدم تربیت بکنیم و آدم معرفی بکنیم. … یه عده‌ای از این فعالین تندروی محیط زیستی میگن که اگر انسانو حذف کنیم همه چی درست میشه؛ خب این که هنری نیست … مهم اینه که تو هم بتونی در کنار پرنده‌ها و چرنده‌ها و گیاهان زندگی کنی و همه حرمت همدیگه رو حفظ بکنن.",
   "quote_en": "What the world lacks is people who love. If you can bring loving people into the world, they can make up for the foolish and greedy people and … the damage they are doing to nature. We must absolutely not stop reproduction; rather, we should try to … be decent people, and raise good people and bring them into the world. … Some radical environmental activists say that if we remove humans, everything will be fixed; well, that's no achievement … What matters is that you can live alongside the birds, the grazing animals and the plants, with everyone respecting one another.",
   "topics": [
    "activism-society",
    "other"
   ],
-  "scope": "national"
+  "scope": "national",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره این دیدگاه که برای حفظ طبیعت باید از فرزندآوری دست کشید.",
+    "en": "On the view that people should stop having children to protect nature."
+   }
+  ]
  },
  {
   "id": "rjV5JACz7WY-04",
@@ -2267,8 +2378,6 @@
   "id": "2uazwy8m0Kg-15",
   "video_id": "2uazwy8m0Kg",
   "start_seconds": 2545,
-  "context_fa": "درباره برچیده شدن مسیرهای ایمن دوچرخه در تهران در دوره شهرداری علیرضا زاکانی.",
-  "context_en": "On the removal of Tehran's safe bicycle lanes under Mayor Alireza Zakani.",
   "quote_fa": "تشویق بکنی دیگران رو، مطالبه بکنی از اعضای شورای شهرت، از شهردارت که تسهیل بکنن، شتاب ببخشن. یکی از نکاتی که تیم آقای زاکانی به من می‌گفت، می‌گفت ما وقتی داشتیم این مسیرای ایمنو برمی‌داشتیم یه نفر از شهروندا نیومد شکایت کنه که چرا شما اینا رو برداشتین. یعنی اینکه مطالبه مردم نبود. ما باید این مطالبه‌ها رو ایجاد بکنیم. … مردم نباید قهر کنن، مردم باید مطالبه‌گر باشن و با استناد به اسناد بالادستی بهترین وضعیت ممکن رو بخوان.",
   "quote_en": "Encourage others, and demand from your city council members and your mayor that they facilitate and accelerate [this]. One thing Mr. Zakani's team told me was that when they were removing these safe lanes, not a single citizen came to complain about why they had removed them — meaning it was not a public demand. We have to create these demands. … People must not withdraw in resentment; people must be demanding and, citing the higher-level legal documents, ask for the best possible situation.",
   "topics": [
@@ -2278,7 +2387,14 @@
   "places": [
    "tehran"
   ],
-  "scope": "local"
+  "scope": "local",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره برچیده شدن مسیرهای ایمن دوچرخه در تهران در دوره شهرداری علیرضا زاکانی.",
+    "en": "On the removal of Tehran's safe bicycle lanes under Mayor Alireza Zakani."
+   }
+  ]
  },
  {
   "id": "EIUGUcoAeo4-11",
@@ -2314,15 +2430,20 @@
   "id": "wK347fsX7bA-09",
   "video_id": "wK347fsX7bA",
   "start_seconds": 3606,
-  "context_fa": "درباره توصیه‌هایش به اهالی روستای میلکی.",
-  "context_en": "Recalling his advice to the people of the village of Milki.",
   "quote_fa": "گفتم … بیاید یه کتابخونه محیط زیستی راه بندازید، حالا که انقدر عاشق محیط زیست هستید. خب اجازه بدید حیوون‌ها، پرنده‌ها اینجا احساس امنیت بکنن، کسی دیگه شکار نکنه، با دوچرخه تردد بکنین. میلکی یکی از روستاهاییه که تعداد دوچرخه‌سواراش بیشتر از تعداد خودروسواراشه؛ همه اون توصیه‌هایی که من گفتمو عمل کردن.",
   "quote_en": "I said … set up an environmental library, now that you love the environment so much. Let the animals and birds feel safe here, let no one hunt anymore, get around by bicycle. Milki is one of the villages where cyclists outnumber car drivers; they acted on every recommendation I made.",
   "topics": [
    "activism-society",
    "biodiversity-wildlife"
   ],
-  "scope": "local"
+  "scope": "local",
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره توصیه‌هایش به اهالی روستای میلکی.",
+    "en": "Recalling his advice to the people of the village of Milki."
+   }
+  ]
  },
  {
   "id": "xTniXS5fU-s-12",
@@ -2627,8 +2748,6 @@
   "id": "2uazwy8m0Kg-12",
   "video_id": "2uazwy8m0Kg",
   "start_seconds": 1762,
-  "context_fa": "درباره سد گتوند بر رود کارون که مخزنش با گنبدهای نمکی تماس دارد.",
-  "context_en": "On the Gotvand dam on the Karun, whose reservoir is in contact with salt domes.",
   "quote_fa": "یک کمیته علاج‌بخشی شکل گرفت همون زمان به ریاست آقای دکتر هاشمی در دانشگاه تهران. بهترین گزینه‌ش حذف سد بود که اون زمان گفتن ۱۰ هزار میلیارد تومن هزینه‌شه. برای ساخت سد اون زمان … ۳۸۰۰ میلیارد تومن هزینه شده بود؛ یعنی ۳ برابر ساخت باید هزینه می‌کردیم تا از شرش خلاص می‌شدیم، که همچین پولی وجود نداشت … اگر که سیل با دوره بازگشت وحشتناکی نیاد یا خشکسالی وحشتناکی نیاد، آب سد رو در حد اپتیمم حفظ می‌کنن که بتونن شوری رو در حد دو سه هزار ای‌سی حفظ بکنن … که خب تو اون سیل بزرگ سال ۹۸ به یکباره دریچه رو باز کردن و حجم بزرگی از این نمک‌ها رو تخلیه کردن.",
   "quote_en": "A remediation committee was formed at the time, chaired by Dr. Hashemi at the University of Tehran. Its best option was removing the dam, which they said would cost 10 thousand billion tomans. Building the dam had cost 3,800 billion tomans at the time … so we would have had to spend three times the construction cost to get rid of it, and no such money existed … Unless a flood with a terrible return period or a terrible drought comes, they keep the reservoir at an optimum level so they can hold salinity at about 2,000–3,000 EC … but in that big flood of [13]98 [2019] they opened the gates all at once and discharged a large volume of these salts.",
   "topics": [
@@ -2661,6 +2780,13 @@
       "value": 10000
      }
     ]
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره سد گتوند بر رود کارون که مخزنش با گنبدهای نمکی تماس دارد.",
+    "en": "On the Gotvand dam on the Karun, whose reservoir is in contact with salt domes."
    }
   ]
  },
@@ -5919,8 +6045,6 @@
   "url": "https://mohammaddarvish.com/ce6e7ada/",
   "date": "2020-04-29",
   "title_fa": "در ستایش حالِ خوبِ مرغ‌های جیرفتی در پاقلات!",
-  "context_fa": "درباره مرغ جیرفتی (کمنزیل) در جنوب ایران",
-  "context_en": "On the grey francolin (Jiroft partridge) in southern Iran",
   "quote_fa": "متاسفانه این عضو مسوولیت‌پذیر، زیبا و خوش‌صدای بوم‌سازگان – اکوسیستم – حدود دو دهه است که در قلمرو زیستی‌اش در ایران – عمدتاً در بلوچستان، هرمزگان، کرمان و جنوب استان فارس – تا آستانه‌ی انقراض کامل پیش رفته؛ چرا که شکارچی‌ها گوشتش را لذیذ می‌دانند و کندودارها او را دشمنِ زنبورهای عسل! … وقتی علی نصیری و یارانش موجی بزرگ و امیدبخش در پاقلات و آبادبوم‌های اطرافش راه انداخته و به کمک مردم، یک منطقه چندهزارهکتاری شکار ممنوع را حراست می‌کنند، به نحوی که بر شمارِ کل و بزها، روباه‌ها، پلنگ‌ها، کفتارها، زنبورها، کهورها و کُنارها هم افزوده شده است",
   "quote_en": "Unfortunately, this responsible, beautiful and sweet-voiced member of the ecosystem has for about two decades been pushed to the brink of complete extinction across its range in Iran – mainly Baluchestan, Hormozgan, Kerman and the south of Fars province – because hunters find its meat tasty and beekeepers see it as the enemy of honeybees! … When Ali Nasiri and his companions start a great and hopeful wave in Paqalat and the villages around it and, with the people's help, guard a no-hunting area of several thousand hectares, so that the numbers of wild goats, foxes, leopards, hyenas, bees, kahur and kunar trees have also increased",
   "topics": [
@@ -5937,6 +6061,11 @@
     "type": "explain",
     "fa": "کهور (Prosopis cineraria) و کُنار (Ziziphus spina-christi) درختان بومی جنوب ایران‌اند.",
     "en": "Kahur (Prosopis cineraria) and kunar (Christ's thorn, Ziziphus spina-christi) are native trees of southern Iran."
+   },
+   {
+    "type": "explain",
+    "fa": "درباره مرغ جیرفتی (کمنزیل) در جنوب ایران",
+    "en": "On the grey francolin (Jiroft partridge) in southern Iran"
    }
   ]
  },
@@ -6200,8 +6329,6 @@
   "url": "https://mohammaddarvish.com/f9446cec/",
   "date": "2020-08-02",
   "title_fa": "منابع‌طبیعی مازندران: چگونه ممکن است کره ماه را وقف کنم وقتی مالکش نیستم؟!",
-  "context_fa": "درباره جنگل ۵۶۰۰ هکتاری آق‌مشهد در ساری که دادگاه تجدیدنظر آن را جنگلی دست‌کاشت و وقفی دانست",
-  "context_en": "On the 5,600-hectare Agh-Mashhad forest near Sari, which an appeals court ruled to be a planted forest belonging to a religious endowment",
   "quote_fa": "جنگلی که بهترین رویشگاه شمشاد ایرانی در کل هیرکانی – به عنوان گونه اندمیک – محسوب می‌شود، بیش از چهارصد و پنجاه گونه درختی، درختچه‌ای و علفی داشته و سیزده‌گونه از ارکیده‌های نادر ایران انحصاراً در آن رویش دارد، چگونه می‌تواند دست‌کاشت باشد؟",
   "quote_en": "A forest that is the best habitat of the Persian boxwood – an endemic species – in the whole Hyrcanian region, has more than four hundred and fifty tree, shrub and herbaceous species, and where thirteen species of Iran's rare orchids grow exclusively: how can it be hand-planted?",
   "topics": [
@@ -6220,6 +6347,13 @@
     "label_fa": "گونه درختی، درختچه‌ای و علفی در جنگل آق‌مشهد (۱۳ گونه ارکیده نادر انحصاری)",
     "kind": "claim",
     "tone": "neutral"
+   }
+  ],
+  "notes": [
+   {
+    "type": "explain",
+    "fa": "درباره جنگل ۵۶۰۰ هکتاری آق‌مشهد در ساری که دادگاه تجدیدنظر آن را جنگلی دست‌کاشت و وقفی دانست",
+    "en": "On the 5,600-hectare Agh-Mashhad forest near Sari, which an appeals court ruled to be a planted forest belonging to a religious endowment"
    }
   ]
  },

@@ -322,7 +322,6 @@
       const pl = (e.places || []).map(id => places[id]).filter(Boolean);
       const dir = lang === "fa" ? "rtl" : "ltr";
       return el("article", { class: "card", id: "q-" + e.id },
-        e["context_" + lang] ? el("p", { class: "context", lang, dir, text: e["context_" + lang] }) : null,
         el("p", { class: "quote " + lang, lang, dir: lang === "fa" ? "rtl" : "ltr" }, quoteText(e, lang, terms)),
         el("details", null,
           el("summary", { text: t.other }),
@@ -367,7 +366,7 @@
       vs.concat(ws || []).forEach(v => { videos[v.id] = v; });
       (ps || []).forEach(p => { places[p.id] = p; });
       geo = ps && g ? g : null;
-      entries = es.map(e => Object.assign(e, { _idx: norm([e.quote_fa, e.quote_en, e.context_fa, e.context_en, ...(e.notes || []).flatMap(n => [n.fa, n.en])].filter(Boolean).join(" ")) }))
+      entries = es.map(e => Object.assign(e, { _idx: norm([e.quote_fa, e.quote_en, ...(e.notes || []).flatMap(n => [n.fa, n.en])].filter(Boolean).join(" ")) }))
         .sort((a, b) => {
           if (a.video_id && a.video_id === b.video_id) return a.start_seconds - b.start_seconds;
           const da = dateOf(a), db = dateOf(b);

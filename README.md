@@ -15,7 +15,6 @@ Live site: served by GitHub Pages from the `main` branch root.
 ## Data
 
 - `data/entries.json`: published quotes (`id`, `video_id`, `start_seconds`, `quote_fa`, `quote_en`, `topics`). Optional fields:
-  - `context_fa`/`context_en`: one editorial line shown above a quote that doesn't stand on its own.
   - `notes`: editor's notes shown in a box under the quote, never mixed into his words. Each has `type`, `fa` and `en`. `explain` notes say what a term or reference means. `slip` notes flag a clear mistake in the original (a typo, wrong arithmetic): the quote stays exactly as written, and the wrong fragment, given verbatim in `mark_fa` (and `mark_en` for the translation), is highlighted and numbered. Put slip notes first.
   - `sources`: other places he makes the same point, as `{video_id, start_seconds, note_fa?, note_en?}`. The main source stays in `video_id`/`start_seconds`; a note says how that source differs, for example a different figure.
   - `merged_from`: ids of the quotes folded into this one.
